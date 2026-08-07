@@ -22,8 +22,7 @@ export default function DiagnosticPage() {
   const [loading, setLoading] = useState(true);
 
   const [masteredWordIds, setMasteredWordIds] = useState<string[]>([]);
-  const [hsk1Correct, setHsk1Correct] = useState(0);
-  const [hsk2Correct, setHsk2Correct] = useState(0);
+  const [failedQuestions, setFailedQuestions] = useState<DiagnosticQuestion[]>([]);
 
   const [quizFinished, setQuizFinished] = useState(false);
   const [saving, setSaving] = useState(false);
@@ -31,10 +30,10 @@ export default function DiagnosticPage() {
 
   // Prononcer automatiquement le mot quand une nouvelle question apparaît
   useEffect(() => {
-    if (questions.length > 0 && currentIndex < questions.length) {
+    if (questions.length > 0 && currentIndex < questions.length && !quizFinished) {
       speakChinese(questions[currentIndex].character);
     }
-  }, [currentIndex, questions]);
+  }, [currentIndex, questions, quizFinished]);
 
   useEffect(() => {
     fetch('/api/diagnostic')
@@ -53,34 +52,37 @@ export default function DiagnosticPage() {
     const currentQ = questions[currentIndex];
     if (!currentQ) return;
 
-    // L'audio est géré par le useEffect sur currentIndex (pas ici pour éviter le décalage)
-
     const isCorrect = selectedOption === currentQ.meaning;
     let updatedMastered = masteredWordIds;
+    let updatedFailed = failedQuestions;
 
     if (isCorrect) {
       updatedMastered = [...masteredWordIds, currentQ.wordId];
       setMasteredWordIds(updatedMastered);
-
-      if (currentQ.hskLevel === 1) setHsk1Correct((prev) => prev + 1);
-      if (currentQ.hskLevel === 2) setHsk2Correct((prev) => prev + 1);
+    } else {
+      updatedFailed = [...failedQuestions, currentQ];
+      setFailedQuestions(updatedFailed);
     }
 
     if (currentIndex + 1 < questions.length) {
       setCurrentIndex((prev) => prev + 1);
     } else {
-      finishDiagnostic(updatedMastered);
+      const failedIds = updatedFailed.map((q) => q.wordId);
+      finishDiagnostic(updatedMastered, failedIds);
     }
   };
 
-  const finishDiagnostic = async (validatedIds: string[]) => {
+  const finishDiagnostic = async (validatedIds: string[], failedIds: string[]) => {
     setSaving(true);
     try {
-      console.log('[Diagnostic UI] Soumission des mots maîtrisés :', validatedIds);
+      console.log('[Diagnostic UI] Soumission - Validés :', validatedIds.length, 'Échoués :', failedIds.length);
       const res = await fetch('/api/diagnostic', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ masterWordIds: validatedIds }),
+        body: JSON.stringify({
+          masterWordIds: validatedIds,
+          failedWordIds: failedIds,
+        }),
       });
 
       if (!res.ok) {
@@ -93,8 +95,8 @@ export default function DiagnosticPage() {
       setFinalStats(data.stats);
       setQuizFinished(true);
     } catch (err) {
-      console.error('[Diagnostic UI] Erreur lors de l’enregistrement des résultats :', err);
-      alert('Impossible d’enregistrer vos résultats de diagnostic. Veuillez réessayer.');
+      console.error('[Diagnostic UI] Erreur lors de la sauvegarde :', err);
+      alert("Impossible d'enregistrer vos résultats de diagnostic. Veuillez réessayer.");
     } finally {
       setSaving(false);
     }
@@ -116,12 +118,11 @@ export default function DiagnosticPage() {
     );
   }
 
-  const currentQ = questions[currentIndex];
+  const currentQ = questions[currentIndex] || questions[0];
   const progressPercent = Math.round(((currentIndex + 1) / questions.length) * 100);
 
   return (
-    <div style={{ maxWidth: '700px', margin: '0 auto', display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
-      {/* En-tête de diagnostic */}
+    <div style={{ maxWidth: '750px', margin: '0 auto', display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
       <div>
         <h1 style={{ fontSize: '1.8rem', marginBottom: '0.25rem' }}>
           🎯 Test de Diagnostic Initial Adaptatif
@@ -133,7 +134,6 @@ export default function DiagnosticPage() {
 
       {!quizFinished ? (
         <div style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
-          {/* Barre de progression */}
           <div className="card" style={{ padding: '1rem' }}>
             <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '0.5rem', fontSize: '0.9rem' }}>
               <span>Question {currentIndex + 1} sur {questions.length}</span>
@@ -144,7 +144,6 @@ export default function DiagnosticPage() {
             </div>
           </div>
 
-          {/* Card de Question */}
           <div className="card" style={{ textAlign: 'center', padding: '2.5rem 1.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1rem' }}>
             <div className="flashcard-character" style={{ fontSize: '4.5rem' }}>
               {currentQ.character}
@@ -199,17 +198,16 @@ export default function DiagnosticPage() {
           </div>
         </div>
       ) : (
-        /* Écran de Résultats */
-        <div className="card" style={{ textAlign: 'center', padding: '3rem 1.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem' }}>
+        <div className="card" style={{ textAlign: 'center', padding: '2.5rem 1.5rem', display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '1.5rem' }}>
           <div style={{ fontSize: '4rem' }}>🏆</div>
           <h2 style={{ fontSize: '1.8rem', color: 'var(--accent-emerald)' }}>
             Diagnostic terminé !
           </h2>
-          <p style={{ color: 'var(--text-secondary)', maxWidth: '500px' }}>
-            Vos résultats ont été enregistrés en base. Les mots validés sont désormais marqués comme <strong>Maîtrisés</strong> dans votre moteur SRS.
+          <p style={{ color: 'var(--text-secondary)', maxWidth: '550px' }}>
+            Vos résultats ont été enregistrés en BDD. Les <strong>{masteredWordIds.length} mots réussis</strong> sont désormais marqués comme <strong>Maîtrisés</strong> (SRS 21j) et les <strong>{failedQuestions.length} mots ratés</strong> ont été placés directement dans vos cartes <strong>À réviser aujourd&apos;hui</strong>.
           </p>
 
-          <div className="grid-3" style={{ width: '100%', margin: '1rem 0' }}>
+          <div className="grid-3" style={{ width: '100%', margin: '0.5rem 0' }}>
             <div className="card" style={{ background: 'var(--bg-main)' }}>
               <div style={{ color: 'var(--accent-cyan)', fontSize: '1.8rem', fontWeight: 700 }}>
                 {masteredWordIds.length} / {questions.length}
@@ -232,7 +230,46 @@ export default function DiagnosticPage() {
             </div>
           </div>
 
-          <div style={{ display: 'flex', gap: '1rem' }}>
+          {failedQuestions.length > 0 && (
+            <div style={{ width: '100%', textAlign: 'left', marginTop: '0.5rem' }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem' }}>
+                <span style={{ fontSize: '1.2rem' }}>⚠️</span>
+                <h3 style={{ fontSize: '1.1rem', color: 'var(--accent-red)' }}>
+                  Mots à réviser en priorité ({failedQuestions.length})
+                </h3>
+              </div>
+              <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))', gap: '0.75rem' }}>
+                {failedQuestions.map((q) => (
+                  <div
+                    key={q.wordId}
+                    className="card"
+                    style={{
+                      padding: '0.85rem 1rem',
+                      background: 'var(--bg-main)',
+                      border: '1px solid rgba(239, 68, 68, 0.3)',
+                      display: 'flex',
+                      justifyContent: 'space-between',
+                      alignItems: 'center',
+                    }}
+                  >
+                    <div>
+                      <div style={{ fontSize: '1.3rem', fontWeight: 700 }}>
+                        {q.character} <span style={{ fontSize: '0.85rem', color: 'var(--accent-cyan)', fontWeight: 400 }}>({q.pinyin})</span>
+                      </div>
+                      <div style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
+                        {q.meaning}
+                      </div>
+                    </div>
+                    <span className={`badge badge-hsk${q.hskLevel}`} style={{ fontSize: '0.75rem' }}>
+                      HSK {q.hskLevel}
+                    </span>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          <div style={{ display: 'flex', gap: '1rem', marginTop: '1rem' }}>
             <Link href="/" className="btn btn-secondary">
               📊 Voir le Tableau de Bord
             </Link>

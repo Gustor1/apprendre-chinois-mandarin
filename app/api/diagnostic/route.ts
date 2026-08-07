@@ -48,15 +48,15 @@ export async function POST(request: Request) {
   try {
     const userId = await getUserId();
     const body = await request.json();
-    const { masterWordIds = [] }: { masterWordIds: string[] } = body;
+    const { masterWordIds = [], failedWordIds = [] }: { masterWordIds: string[]; failedWordIds: string[] } = body;
 
-    console.log(`[Diagnostic API] Enregistrement des résultats pour userId: ${userId}, ${masterWordIds.length} mots maîtrisés.`);
+    console.log(`[Diagnostic API] Enregistrement pour userId: ${userId}. Réussis (${masterWordIds.length}), Échoués (${failedWordIds.length}).`);
 
+    const now = new Date();
+
+    // 1. Mots réussis -> Statut MASTERED (Intervalle 21 jours)
     if (masterWordIds.length > 0) {
-      const nextReviewDate = new Date(Date.now() + 21 * 24 * 60 * 60 * 1000);
-      const lastReviewedAt = new Date();
-
-      // Utiliser upsert pour s'assurer que les cartes SRS sont bien créées si elles n'existaient pas encore pour cet utilisateur
+      const nextReviewDateMastered = new Date(now.getTime() + 21 * 24 * 60 * 60 * 1000);
       await Promise.all(
         masterWordIds.map((wordId) =>
           prisma.sRSCard.upsert({
@@ -71,8 +71,8 @@ export async function POST(request: Request) {
               interval: 21,
               repetition: 2,
               easeFactor: 2.5,
-              nextReviewDate,
-              lastReviewedAt,
+              nextReviewDate: nextReviewDateMastered,
+              lastReviewedAt: now,
             },
             create: {
               userId,
@@ -81,8 +81,42 @@ export async function POST(request: Request) {
               interval: 21,
               repetition: 2,
               easeFactor: 2.5,
-              nextReviewDate,
-              lastReviewedAt,
+              nextReviewDate: nextReviewDateMastered,
+              lastReviewedAt: now,
+            },
+          })
+        )
+      );
+    }
+
+    // 2. Mots ratés ou non connus -> Statut LEARNING (Intervalle 0 j, Révision immédiate aujourd'hui)
+    if (failedWordIds.length > 0) {
+      await Promise.all(
+        failedWordIds.map((wordId) =>
+          prisma.sRSCard.upsert({
+            where: {
+              userId_wordId: {
+                userId,
+                wordId,
+              },
+            },
+            update: {
+              status: 'LEARNING',
+              interval: 0,
+              repetition: 0,
+              easeFactor: 2.5,
+              nextReviewDate: now,
+              lastReviewedAt: now,
+            },
+            create: {
+              userId,
+              wordId,
+              status: 'LEARNING',
+              interval: 0,
+              repetition: 0,
+              easeFactor: 2.5,
+              nextReviewDate: now,
+              lastReviewedAt: now,
             },
           })
         )
@@ -99,11 +133,12 @@ export async function POST(request: Request) {
       where: { userId, word: { hskLevel: 2 }, status: 'MASTERED' },
     });
 
-    console.log(`[Diagnostic API] Succès pour ${userId}. HSK1 Maîtrisés: ${hsk1Mastered}/${hsk1Total}, HSK2 Maîtrisés: ${hsk2Mastered}/${hsk2Total}`);
+    console.log(`[Diagnostic API] Succès pour ${userId}. HSK1: ${hsk1Mastered}/${hsk1Total}, HSK2: ${hsk2Mastered}/${hsk2Total}.`);
 
     return NextResponse.json({
       success: true,
-      updatedCount: masterWordIds.length,
+      masteredCount: masterWordIds.length,
+      failedCount: failedWordIds.length,
       stats: {
         hsk1Percent: hsk1Total > 0 ? Math.round((hsk1Mastered / hsk1Total) * 100) : 0,
         hsk2Percent: hsk2Total > 0 ? Math.round((hsk2Mastered / hsk2Total) * 100) : 0,
