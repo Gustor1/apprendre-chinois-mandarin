@@ -50,22 +50,43 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { masterWordIds = [] }: { masterWordIds: string[] } = body;
 
+    console.log(`[Diagnostic API] Enregistrement des résultats pour userId: ${userId}, ${masterWordIds.length} mots maîtrisés.`);
+
     if (masterWordIds.length > 0) {
-      // Marquer les mots maîtrisés dans le SRS pour cet utilisateur
-      await prisma.sRSCard.updateMany({
-        where: {
-          userId,
-          wordId: { in: masterWordIds },
-        },
-        data: {
-          status: 'MASTERED',
-          interval: 21,
-          repetition: 2,
-          easeFactor: 2.5,
-          nextReviewDate: new Date(Date.now() + 21 * 24 * 60 * 60 * 1000),
-          lastReviewedAt: new Date(),
-        },
-      });
+      const nextReviewDate = new Date(Date.now() + 21 * 24 * 60 * 60 * 1000);
+      const lastReviewedAt = new Date();
+
+      // Utiliser upsert pour s'assurer que les cartes SRS sont bien créées si elles n'existaient pas encore pour cet utilisateur
+      await Promise.all(
+        masterWordIds.map((wordId) =>
+          prisma.sRSCard.upsert({
+            where: {
+              userId_wordId: {
+                userId,
+                wordId,
+              },
+            },
+            update: {
+              status: 'MASTERED',
+              interval: 21,
+              repetition: 2,
+              easeFactor: 2.5,
+              nextReviewDate,
+              lastReviewedAt,
+            },
+            create: {
+              userId,
+              wordId,
+              status: 'MASTERED',
+              interval: 21,
+              repetition: 2,
+              easeFactor: 2.5,
+              nextReviewDate,
+              lastReviewedAt,
+            },
+          })
+        )
+      );
     }
 
     const hsk1Total = await prisma.word.count({ where: { hskLevel: 1 } });
@@ -78,6 +99,8 @@ export async function POST(request: Request) {
       where: { userId, word: { hskLevel: 2 }, status: 'MASTERED' },
     });
 
+    console.log(`[Diagnostic API] Succès pour ${userId}. HSK1 Maîtrisés: ${hsk1Mastered}/${hsk1Total}, HSK2 Maîtrisés: ${hsk2Mastered}/${hsk2Total}`);
+
     return NextResponse.json({
       success: true,
       updatedCount: masterWordIds.length,
@@ -88,6 +111,6 @@ export async function POST(request: Request) {
     });
   } catch (error) {
     console.error('Erreur API Diagnostic POST :', error);
-    return NextResponse.json({ error: 'Erreur serveur' }, { status: 500 });
+    return NextResponse.json({ error: 'Erreur lors de l’enregistrement du diagnostic', details: String(error) }, { status: 500 });
   }
 }

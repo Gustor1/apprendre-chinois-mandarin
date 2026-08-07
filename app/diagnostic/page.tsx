@@ -76,16 +76,25 @@ export default function DiagnosticPage() {
   const finishDiagnostic = async (validatedIds: string[]) => {
     setSaving(true);
     try {
+      console.log('[Diagnostic UI] Soumission des mots maîtrisés :', validatedIds);
       const res = await fetch('/api/diagnostic', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ masterWordIds: validatedIds }),
       });
+
+      if (!res.ok) {
+        const errData = await res.json();
+        throw new Error(errData.error || 'Erreur HTTP ' + res.status);
+      }
+
       const data = await res.json();
+      console.log('[Diagnostic UI] Résultats enregistrés avec succès :', data);
       setFinalStats(data.stats);
       setQuizFinished(true);
     } catch (err) {
-      console.error(err);
+      console.error('[Diagnostic UI] Erreur lors de l’enregistrement des résultats :', err);
+      alert('Impossible d’enregistrer vos résultats de diagnostic. Veuillez réessayer.');
     } finally {
       setSaving(false);
     }
