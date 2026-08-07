@@ -1,0 +1,308 @@
+[
+  {
+    "title": "D'abord... ensuite... (先...然后...)",
+    "hskLevel": 1,
+    "pattern": "先...然后...",
+    "explanation": "Structure orale incontournable pour décrire l'enchaînement logique d'une journée, d'un itinéraire ou d'une procédure.",
+    "exampleSentence": "我们先去陆家嘴开会，然后一起吃晚饭。",
+    "examplePinyin": "Wǒmen xiān qù Lùjiāzuǐ kāihuì, ránhòu yìqǐ chī wǎnfàn.",
+    "exampleTranslation": "On va d'abord en réunion à Lujiazui, et ensuite on dîne ensemble."
+  },
+  {
+    "title": "Dès / Depuis... alors... (从...就...)",
+    "hskLevel": 1,
+    "pattern": "从...就...",
+    "explanation": "Utilisé fréquemment à l'oral pour exprimer qu'une action ou un état a commencé très tôt ou immédiatement après un point de départ.",
+    "exampleSentence": "他从大学时代就立志要在上海创业。",
+    "examplePinyin": "Tā cóng dàxué shídài jiù lìzhì yào zài Shànghǎi chuàngyè.",
+    "exampleTranslation": "Dès ses années d'université, il s'est juré de créer sa boîte à Shanghai."
+  },
+  {
+    "title": "Dès que... aussitôt... (一...就...)",
+    "hskLevel": 1,
+    "pattern": "一...就...",
+    "explanation": "Structure très courante pour exprimer la rapidité de réaction ou une habitude systématique.",
+    "exampleSentence": "我一到家就给你发微信通知。",
+    "examplePinyin": "Wǒ yì dào jiā jiù gěi nǐ fā Wēixìn tōngzhī.",
+    "exampleTranslation": "Dès que j'arrive à la maison, je t'envoie un message sur WeChat."
+  },
+  {
+    "title": "L'aspect accompli avec 了 (le)",
+    "hskLevel": 1,
+    "pattern": "Sujet + Verbe + 了 + Objet",
+    "explanation": "Indique que l'action est accomplie ou qu'un changement d'état s'est produit.",
+    "exampleSentence": "我喝了一杯咖啡。",
+    "examplePinyin": "Wǒ hē le yì bēi kāfēi.",
+    "exampleTranslation": "J'ai bu une tasse de café."
+  },
+  {
+    "title": "La forme progressive avec 在 (zài) / 正在",
+    "hskLevel": 1,
+    "pattern": "Sujet + 在 / 正在 + Verbe",
+    "explanation": "Indique une action en train de se dérouler au moment où l'on parle (équivalent de -ing en anglais).",
+    "exampleSentence": "我正在听中文课。",
+    "examplePinyin": "Wǒ zhèngzài tīng zhōngwén kè.",
+    "exampleTranslation": "Je suis en train d'écouter un cours de chinois."
+  },
+  {
+    "title": "La structure d'accentuation 是...的 (shì...de)",
+    "hskLevel": 1,
+    "pattern": "Sujet + 是 + [Détail : Temps/Lieu/Manière] + Verbe + 的",
+    "explanation": "Permet d'insister sur un détail d'une action passée déjà connue (quand, où, comment ou avec qui).",
+    "exampleSentence": "我是去年去上海的。",
+    "examplePinyin": "Wǒ shì qùnián qù Shànghǎi de.",
+    "exampleTranslation": "C'est l'année dernière que je suis allé à Shanghai."
+  },
+  {
+    "title": "Mais / Cependant (但是 / 不过)",
+    "hskLevel": 1,
+    "pattern": "但是 / 不过",
+    "explanation": "但是 est la forme standard, tandis que 不过 (búguò) est extrêmement courant à l'oral pour apporter une nuance ou adoucir une opposition.",
+    "exampleSentence": "这家餐厅味道很好，不过排队的人太多了。",
+    "examplePinyin": "Zhè jiā cāntīng wèidao hěn hǎo, búguò páiduì de rén tài duō le.",
+    "exampleTranslation": "Ce restaurant est très bon, mais il y a vraiment trop de queue."
+  },
+  {
+    "title": "À partir de... (从...开始)",
+    "hskLevel": 1,
+    "pattern": "从...开始",
+    "explanation": "Permet d'introduire le point de départ temporel ou logique d'une habitude ou d'un changement à l'oral.",
+    "exampleSentence": "从下个月开始，我们团队要实行远程办公。",
+    "examplePinyin": "Cóng xià gè yuè kāishǐ, wǒmen tuánduì yào shíxíng yuǎnchéng bàngōng.",
+    "exampleTranslation": "À partir du mois prochain, notre équipe passe au télétravail."
+  },
+  {
+    "title": "Autrement dit / C'est-à-dire (也就是说...)",
+    "hskLevel": 2,
+    "pattern": "也就是说...",
+    "explanation": "Excellente locution orale pour reformuler ou clarifier sa pensée pour son interlocuteur.",
+    "exampleSentence": "预算增加了，也就是说我们可以招聘更多技术人员。",
+    "examplePinyin": "Yùsuàn zēngjiā le, yějiùshìshuō wǒmen kěyǐ zhāopìn gèng duō jìshù rényuán.",
+    "exampleTranslation": "Le budget a augmenté, c'est-à-dire que nous pouvons recruter plus de techniciens."
+  },
+  {
+    "title": "Bien que... mais... (虽然...但是...)",
+    "hskLevel": 2,
+    "pattern": "虽然...但是...",
+    "explanation": "Structure de concession essentielle pour opposer deux faits : bien que la première affirmation soit vraie, la seconde s'impose à l'oral.",
+    "exampleSentence": "虽然今天天气不好，但是我们还是决定去外滩散步。",
+    "examplePinyin": "Suīrán jīntiān tiānqì bù hǎo, dànshì wǒmen háishì juédìng qù Wàitān sànbù.",
+    "exampleTranslation": "Bien qu'il fasse mauvais aujourd'hui, nous avons quand même décidé d'aller nous promener au Bund."
+  },
+  {
+    "title": "En plus de / À part (除了...以外 (还/都))",
+    "hskLevel": 2,
+    "pattern": "除了...以外 (还/都)",
+    "explanation": "Combinaison courante à l'oral. Avec 还 (hái) cela signifie 'en plus de', avec 都 (dōu) cela signifie 'à l'exception de'.",
+    "exampleSentence": "除了工作以外，他平时最喜欢去徐家汇打羽毛球。",
+    "examplePinyin": "Chúle gōngzuò yǐwài, tā píngshí zuì xǐhuan qù Xújiāhuì dǎ yǔmáoqiú.",
+    "exampleTranslation": "En plus du travail, ce qu'il aime le plus faire, c'est aller jouer au badminton à Xujiahui."
+  },
+  {
+    "title": "Ensuite / Puis (然后)",
+    "hskLevel": 2,
+    "pattern": "...然后...",
+    "explanation": "Connecteur logique de chronologie indispensable à l'oral pour enchaîner deux actions ou étapes de manière fluide ('et puis', 'ensuite').",
+    "exampleSentence": "我们先去陆家嘴开会，然后一起吃晚饭。",
+    "examplePinyin": "Wǒmen xiān qù Lùjiāzuǐ kāihuì, ránhòu yìqǐ chī wǎnfàn.",
+    "exampleTranslation": "On va d'abord en réunion à Lujiazui, et ensuite on dîne ensemble."
+  },
+  {
+    "title": "Et si... / Sinon... (要不...)",
+    "hskLevel": 2,
+    "pattern": "要不...",
+    "explanation": "Tournure orale très naturelle pour proposer une alternative spontanée ou faire une suggestion amicale.",
+    "exampleSentence": "外面下大雨，要不我们改天再去外滩吧？",
+    "examplePinyin": "Wàimiàn xià dàyǔ, yàobù wǒmen gǎitiān zài qù Wàitān ba?",
+    "exampleTranslation": "Il pleut à verse dehors, et si on allait au Bund un autre jour ?"
+  },
+  {
+    "title": "Heureusement que... (幸好 / 多亏...)",
+    "hskLevel": 2,
+    "pattern": "幸好 / 多亏...",
+    "explanation": "Exprimer le soulagement face à une situation évitée de justesse.",
+    "exampleSentence": "多亏你帮我复印了这份文件，太感谢了。",
+    "examplePinyin": "Duōkuī nǐ bāng wǒ fùyìn le zhè fèn wénjiàn, tài gǎnxiè le.",
+    "exampleTranslation": "Heureusement que tu m'as aidé à photocopier ce document, mille mercis."
+  },
+  {
+    "title": "L'expression de l'expérience avec 过 (guo)",
+    "hskLevel": 2,
+    "pattern": "Sujet + Verbe + 过 + Objet",
+    "explanation": "Indique qu'une action a déjà été faite dans le passé (avoir déjà l'expérience de).",
+    "exampleSentence": "我看过这部电影。",
+    "examplePinyin": "Wǒ kàn guo zhè bù diànyǐng.",
+    "exampleTranslation": "J'ai déjà vu ce film."
+  },
+  {
+    "title": "L'obligation et le souhait : 想 vs 要 (xiǎng vs yào)",
+    "hskLevel": 2,
+    "pattern": "Sujet + 想 / 要 + Verbe",
+    "explanation": "想 exprime une envie/souhait ('j'aimerais'), tandis que 要 exprime une volonté ferme ou une nécessité ('je veux / je dois').",
+    "exampleSentence": "我想喝茶，但我必须要工作。",
+    "examplePinyin": "Wǒ xiǎng hē chá, dàn wǒ bìxū yào gōngzuò.",
+    "exampleTranslation": "J'aimerais boire du thé, mais je dois absolument travailler."
+  },
+  {
+    "title": "La comparaison avec 比 (bǐ)",
+    "hskLevel": 2,
+    "pattern": "A + 比 + B + Adjectif",
+    "explanation": "Sert à comparer deux éléments A et B (A est plus [adjectif] que B).",
+    "exampleSentence": "上海的夏天比巴黎热。",
+    "examplePinyin": "Shànghǎi de xiàtiān bǐ Bālí rè.",
+    "exampleTranslation": "L'été à Shanghai est plus chaud qu'à Paris."
+  },
+  {
+    "title": "Non seulement... mais aussi... (不仅...而且...)",
+    "hskLevel": 2,
+    "pattern": "不仅...而且...",
+    "explanation": "Permet de cumuler deux arguments valorisants (ou négatifs) pour convaincre son interlocuteur.",
+    "exampleSentence": "这个软件不仅界面好看，而且操作非常简单。",
+    "examplePinyin": "Zhège ruǎnjiàn bùjǐn jièmiàn hǎokàn, érqiě cāozuò fēicháng jiǎndān.",
+    "exampleTranslation": "Ce logiciel a non seulement une belle interface, mais en plus il est très simple à utiliser."
+  },
+  {
+    "title": "Puisque / Du moment que (既然...就...)",
+    "hskLevel": 2,
+    "pattern": "既然...就...",
+    "explanation": "Prend un fait établi comme point de départ évident pour tirer une conclusion logique.",
+    "exampleSentence": "既然你已经到上海了，就多留几天吧。",
+    "examplePinyin": "Jìrán nǐ yǐjīng dào Shànghǎi le, jiù duō liú jǐ tiān ba.",
+    "exampleTranslation": "Puisque tu es déjà à Shanghai, reste donc quelques jours de plus."
+  },
+  {
+    "title": "Seulement si / Ce n'est que quand... (只有...才...)",
+    "hskLevel": 2,
+    "pattern": "只有...才...",
+    "explanation": "Exprime une condition unique et indispensable pour obtenir un résultat.",
+    "exampleSentence": "只有多开口练习，口语才能提高得快。",
+    "examplePinyin": "Zhǐyǒu duō kāikǒu liànxí, kǒuyǔ cái néng tígāo de kuài.",
+    "exampleTranslation": "Ce n'est qu'en pratiquant régulièrement à l'oral que ton niveau s'améliorera vite."
+  },
+  {
+    "title": "Tout en... en même temps (一边...一边...)",
+    "hskLevel": 2,
+    "pattern": "一边...一边...",
+    "explanation": "Sert à exprimer deux actions simultanées à l'oral (ex: marcher et discuter, boire un café et travailler).",
+    "exampleSentence": "我们喜欢一边喝咖啡，一边讨论项目进展。",
+    "examplePinyin": "Wǒmen xǐhuan yìbiān hē kāfēi, yìbiān tǎolùn xiàngmù jìnzhǎn.",
+    "exampleTranslation": "Nous aimons boire du café tout en discutant de l'avancement du projet."
+  },
+  {
+    "title": "D'un côté... de l'autre... (一方面...另一方面...)",
+    "hskLevel": 3,
+    "pattern": "一方面...另一方面...",
+    "explanation": "Structurer son raisonnement oral lors d'une discussion d'affaires ou d'un débat.",
+    "exampleSentence": "一方面要考虑成本，另一方面要保证产品质量。",
+    "examplePinyin": "Yì fāngmiàn yào kǎolǜ chéngběn, lìng yì fāngmiàn yào bǎozhèng chǎnpǐn zhìliàng.",
+    "exampleTranslation": "D'un côté il faut penser aux coûts, de l'autre il faut garantir la qualité du produit."
+  },
+  {
+    "title": "L'addition avec 不仅...而且... (bùjǐn...érqiě...)",
+    "hskLevel": 3,
+    "pattern": "Sujet + 不仅 + Prop 1 + 而且 + Prop 2",
+    "explanation": "Permet de relier deux propositions positives/négatives ('non seulement..., mais aussi...').",
+    "exampleSentence": "上海不仅交通方便，而且非常安全。",
+    "examplePinyin": "Shànghǎi bùjǐn jiāotōng fāngbiàn, érqiě fēicháng ānquán.",
+    "exampleTranslation": "Non seulement les transports à Shanghai sont pratiques, mais c'est aussi très sûr."
+  },
+  {
+    "title": "L'insistance extrême avec 连...也/都 (lián...yě/dōu)",
+    "hskLevel": 3,
+    "pattern": "Sujet + 连 + Objet + 也 / 都 + Verbe",
+    "explanation": "Insiste sur le caractère extrême d'une situation (même [X] est/fait [Y]).",
+    "exampleSentence": "他连这么难的中文句子都听懂了。",
+    "examplePinyin": "Tā lián zhème nán de zhōngwén jùzi dōu tīngdǒng le.",
+    "exampleTranslation": "Il a même compris une phrase chinoise aussi difficile."
+  },
+  {
+    "title": "La comparaison d'égalité avec 跟...一样 (gēn...yíyàng)",
+    "hskLevel": 3,
+    "pattern": "A + 跟 + B + 一样 + (Adjectif)",
+    "explanation": "Permet d'exprimer que deux éléments A et B sont identiques ou ont la même qualité.",
+    "exampleSentence": "这个新方案跟那个方案一样可行。",
+    "examplePinyin": "Zhège xīn fāng'àn gēn nàge fāng'àn yíyàng kěxíng.",
+    "exampleTranslation": "Cette nouvelle proposition est aussi réalisable que l'autre."
+  },
+  {
+    "title": "La progression graduelle avec 越来越... (yuè lái yuè...)",
+    "hskLevel": 3,
+    "pattern": "Sujet + 越来越 + Adjectif / Verbe de sentiment",
+    "explanation": "Exprime une augmentation progressive dans le temps ('de plus en plus').",
+    "exampleSentence": "我的中文听力水平越来越好了。",
+    "examplePinyin": "Wǒ de zhōngwén tīnglì shuǐpíng yuèláiyuè hǎo le.",
+    "exampleTranslation": "Mon niveau de compréhension orale en chinois devient de plus en plus bon."
+  },
+  {
+    "title": "La structure de disposition avec 把 (bǎ)",
+    "hskLevel": 3,
+    "pattern": "Sujet + 把 + Objet + Verbe + Résultat / Emplacement",
+    "explanation": "Utilisée pour indiquer ce que le sujet fait subir à un objet précis (déplacement, transformation, résultat).",
+    "exampleSentence": "请把这份简历交给HR。",
+    "examplePinyin": "Qǐng bǎ zhè fèn jiǎnlì jiāo gěi HR.",
+    "exampleTranslation": "Transmettez ce CV aux RH s'il vous plaît."
+  },
+  {
+    "title": "La voix passive avec 被 (bèi)",
+    "hskLevel": 3,
+    "pattern": "Objet + 被 + (Agent) + Verbe + Résultat",
+    "explanation": "Sert à exprimer la voix passive : l'objet subit l'action provoquée par un agent.",
+    "exampleSentence": "我的手机在地铁上被他拿走了。",
+    "examplePinyin": "Wǒ de shǒujī zài dìtiě shàng bèi tā ná zǒu le.",
+    "exampleTranslation": "Mon téléphone portable s'est fait emporter par lui dans le métro."
+  },
+  {
+    "title": "Même si... (即使...也...)",
+    "hskLevel": 3,
+    "pattern": "即使...也...",
+    "explanation": "Exprimer la détermination malgré des obstacles supposés.",
+    "exampleSentence": "即使工作很忙，我也坚持每天练习15分钟中文。",
+    "examplePinyin": "Jíshǐ gōngzuò hěn máng, wǒ yě jiānchí měitiān liànxí shíwǔ fēnzhōng zhōngwén.",
+    "exampleTranslation": "Même si le travail est intense, je persiste à m'entraîner 15 minutes par jour en chinois."
+  },
+  {
+    "title": "Non seulement... mais surtout... (不但...反而...)",
+    "hskLevel": 3,
+    "pattern": "不但...反而...",
+    "explanation": "Marque une réaction inverse à ce qui était attendu à l'oral.",
+    "exampleSentence": "吃了药以后，病情不但没好，反而更严重了。",
+    "examplePinyin": "Chī le yào yǐhòu, bìngqíng búdàn méi hǎo, fǎn'ér gèng yánzhòng le.",
+    "exampleTranslation": "Après avoir pris le médicament, la maladie, loin de s'améliorer, s'est au contraire aggravée."
+  },
+  {
+    "title": "Plutôt que... il vaut mieux... (与其...不如...)",
+    "hskLevel": 3,
+    "pattern": "与其...不如...",
+    "explanation": "Exprimer une préférence nette entre deux choix lors d'une discussion ou d'une prise de décision.",
+    "exampleSentence": "与其在家里发呆，不如去世纪公园散散步。",
+    "examplePinyin": "Yǔqí zài jiālǐ fādāi, bùrú qù Shìjì Gōngyuán sànsànbù.",
+    "exampleTranslation": "Plutôt que de tourner en rond à la maison, il vaut mieux aller se promener au Century Park."
+  },
+  {
+    "title": "Sans quoi / Heureusement que... (要不是...)",
+    "hskLevel": 3,
+    "pattern": "要不是...",
+    "explanation": "Tournure expressive pour souligner le rôle décisif de quelqu'un ou d'un événement qui a évité un problème.",
+    "exampleSentence": "要不是你提醒我，我今天肯定就忘记打卡了。",
+    "examplePinyin": "Yàobúshì nǐ tíxǐng wǒ, wǒ jīntiān kěndìng jiù wàngjì dǎkǎ le.",
+    "exampleTranslation": "Sans tes rappels, j'aurais à coup sûr oublié de badger aujourd'hui."
+  },
+  {
+    "title": "Si bien que / Par conséquent (以至于...)",
+    "hskLevel": 3,
+    "pattern": "以至于...",
+    "explanation": "Accentue la conséquence impressionnante d'un état ou d'une action dans un récit oral.",
+    "exampleSentence": "地铁里太拥挤了，以至于我几乎没地方站立。",
+    "examplePinyin": "Dìtiě lǐ tài yōngjǐ le, yǐzhìyú wǒ jīhū méi dìfang zhànlì.",
+    "exampleTranslation": "Le métro était tellement bondé que j'avais à peine la place de me tenir debout."
+  },
+  {
+    "title": "Soit... soit... (要么...要么...)",
+    "hskLevel": 3,
+    "pattern": "要么...要么...",
+    "explanation": "Utilisé pour présenter deux alternatives mutuellement exclusives lors d'un choix.",
+    "exampleSentence": "今晚我们要么吃火锅，要么去吃生煎包。",
+    "examplePinyin": "Jīnwǎn wǒmen yàome chī huǒguō, yàome qù chī shēngjiānbāo.",
+    "exampleTranslation": "Ce soir, soit on mange de la fondue, soit on va manger des shengjianbao."
+  }
+]

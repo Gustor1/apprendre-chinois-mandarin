@@ -1,0 +1,56 @@
+CLAUDE SONNET 5
+
+# Plan chinois mandarin : 15 min/jour, priorité à l'oral
+
+Vu ton niveau (HSK2 avec lacunes) et ton objectif (vivre/travailler à Shanghai), la meilleure approche est de reconstruire les bases à l'oral en t'appuyant sur la structure de vocabulaire du HSK 3.0 — sans viser l'examen tout de suite, mais en restant compatible avec lui si un employeur le demande plus tard. Les employeurs en Chine attendent typiquement HSK 4+ pour un poste "normal", HSK 5-6 pour négocier/rédiger, donc c'est ton horizon réaliste à moyen terme. [learn-chinese](https://learn-chinese.online/mod/page/view.php?id=1836)
+
+## Vue d'ensemble des étapes
+
+| Étape | Durée estimée | Vocabulaire cible (cumulé, HSK 3.0) | Équivalent |
+|---|---|---|---|
+| 0. Diagnostic & fondations | 2 semaines | Révision des ~300 mots HSK1 | A0→A1 |
+| 1. Survie orale | 6 semaines | ~500 mots (HSK1-2) | A1 |
+| 2. Vie quotidienne | 10-12 semaines | ~1000 mots (HSK3) | A2 |
+| 3. Aisance conversationnelle | 14-16 semaines | ~2000 mots (HSK4) | B1 |
+| 4. Chinois professionnel | Continu | ~3600 mots (HSK5) | B1+/B2 |
+
+Ces paliers viennent du nouveau barème HSK 3.0 (300/500/1000/2000/3600 mots cumulés par niveau). [learn-chinese](https://learn-chinese.online/mod/page/view.php?id=1836)
+
+## Structure quotidienne (15 min)
+
+Chaque session suit toujours : révision → rappel de structure → nouveau contenu, avec priorité oral/écoute et écrit en soutien  : [nihawa](https://nihawa.com/learn/free-chinese-resources/)
+
+- **4-5 min — révision (Anki/Pleco)** : flashcards tapées (pas d'écriture manuscrite, inutile avant HSK5 sous 3.0), en mode "audio → je dis la réponse à voix haute" avant de taper. [mandarinzone](https://www.mandarinzone.com/hsk-3-0-analyse-complete/)
+- **3 min — rappel de structure** : tu te reparles à toi-même une phrase-modèle de la veille (ex. "我今天…了"), variation avec 2-3 nouveaux mots.
+- **6-7 min — nouveau contenu** : écoute d'un mini-dialogue ou podcast adapté au niveau, puis shadowing (répéter en imitant le ton/rythme) et 1-2 phrases de production libre sur le sujet du jour. [mandarinmaster](https://mandarinmaster.fr/ressources/apprendre-le-chinois/langue-chinoise/parler-chinois/blocage-oral/)
+
+## Étape 0-1 : Diagnostic et survie (semaines 1-8)
+
+Objectif : combler les trous du HSK2 (tons, structures de base : 是/有/在, mesures, temps) et pouvoir gérer les échanges du quotidien (taxi, marché, présentations).
+
+- **Oral (50%)** : HelloChinese pour les leçons guidées avec reconnaissance vocale ; auto-conversation quotidienne sur un thème simple. [visa-chinois](https://visa-chinois.fr/apprendre-le-chinois-gratuit/)
+- **Écoute (30%)** : podcasts débutant type ChinesePod niveau élémentaire ou "Slow Chinese". [nihawa](https://nihawa.com/learn/free-chinese-resources/)
+- **Écrit/flashcards (20%)** : Pleco + deck Anki "HSK 1-2" en tapant pinyin→caractère, pas d'écriture à la main. [mandarinzone](https://www.mandarinzone.com/hsk-3-0-analyse-complete/)
+- **Jalon de passage** : tu commandes au restaurant, donnes une adresse en taxi et tiens une présentation de 30 secondes sans bloquer.
+
+## Étape 2 : Vie quotidienne à Shanghai (semaines 9-20)
+
+Objectif : ~1000 mots, structures composées (把, 被, comparatifs, aspect 了/过/着), conversations de 5-10 minutes.
+
+- **Oral (45%)** : tandem réel avec des locuteurs natifs — à Shanghai, tu as l'avantage de pouvoir faire ça en vrai (échanges de langue, English corners inversés) en plus de HelloTalk ; 1 session courte type "5 phrases ultra-utiles maîtrisées à fond" par semaine. [mandarinmaster](https://mandarinmaster.fr/ressources/apprendre-le-chinois/langue-chinoise/parler-chinois/blocage-oral/)
+- **Écoute (30%)** : dramas/sitcoms sous-titrés chinois (家有儿女 est souvent cité comme excellent pour ce niveau) et chansons avec paroles ; extension Language Reactor si tu regardes sur navigateur.
+- **Écrit/flashcards (25%)** : Anki HSK3, articles graduels sur Chairman's Bao ou Du Chinese.
+- **Jalon de passage** : tu comprends 70-80% d'un dialogue simple de série sans sous-titres, et tu tiens une conversation de 5 min sur ta journée sans repasser au français/anglais.
+
+## Étape 3-4 : Aisance et chinois professionnel (semaines 21+)
+
+Objectif : ~2000 puis 3600 mots, capacité à discuter sujets abstraits, comprendre du contenu authentique (actualité, réunions simples), viser HSK4-5 en test blanc si besoin professionnel se présente.
+
+- **Oral (40%)** : tuteur natif régulier (italki, ou tandem approfondi) pour correction en temps réel, monologues quotidiens plus longs (1-2 min) sur des sujets variés. [mandarinmaster](https://mandarinmaster.fr/ressources/apprendre-le-chinois/langue-chinoise/parler-chinois/blocage-oral/)
+- **Écoute (30%)** : contenu 100% authentique (variétés, podcasts avancés comme 非正式会谈), actualité simplifiée (Xinhua/头条 en lecture parallèle).
+- **Écrit/flashcards (30%)** : Anki HSK4-5, lecture de manhua/nouvelles courtes pour ancrer le vocabulaire vu à l'oral.
+- **Jalon de passage** : tu peux avoir un entretien d'embauche basique en chinois ou suivre une réunion simple ; à ce stade, un examen blanc HSK4 (format oral HSKK obligatoire dès HSK3 sous la 3.0, ~7 min : répétition, description d'image, réponse à un thème) te dira si tu es prêt à passer l'examen si un employeur le demande. [hanlexon](https://www.hanlexon.com/v2/guide/hsk-3-speaking-test)
+
+## Points clés à retenir
+
+Le HSK 3.0 rend l'oral obligatoire dès le niveau 3, ce qui colle parfaitement à ta priorité — étudier avec les listes de vocabulaire officielles te prépare donc naturellement à parler, même sans viser l'examen tout de suite. Le retour d'expérience des apprenants (forums, chinoistips.com) converge sur trois leviers : parler dès le début sans attendre la perfection, faire du shadowing intensif, et trouver un partenaire tandem régulier plutôt que de multiplier les apps passives. [nihawa](https://nihawa.com/learn/free-chinese-resources/)

@@ -1,0 +1,133 @@
+GPT 5.6 TERRA 
+
+Ton meilleur objectif n’est pas de « refaire le HSK 2 », mais de reconstruire une base orale fiable, puis d’atteindre progressivement un chinois autonome du quotidien et du travail. Avec 15 minutes actives par jour, vise environ 12–18 mois pour un solide niveau conversationnel quotidien, puis HSK 4/5 comme repère professionnel — sans sacrifier l’oral à la préparation d’examen.
+
+## Le cadre à suivre
+
+La nouvelle référence HSK est organisée en **3 paliers et 9 niveaux** et couvre tâches communicatives, thèmes, vocabulaire, grammaire et caractères. Pour les trois premiers niveaux, elle vise notamment la vie personnelle, les études, le travail et les interactions sociales. [chinesetest](https://www.chinesetest.cn/hsk)
+
+À 15 min/jour, ne poursuis pas les énormes listes de mots « pour cocher une case ». Ton système doit être :
+
+- **70% oral + écoute active**
+- **20% révision écrite / flashcards**
+- **10% caractères et grammaire explicitement étudiés**
+- Une conversation réelle de **15 à 30 min une ou deux fois par semaine**, qui remplace une séance solo ce jour-là.
+
+### La séance quotidienne fixe — 15 min
+
+1. **Révision — 4 min** : Anki ou Pleco, uniquement des cartes utiles à l’oral : mot + audio + phrase courte + exemple personnel.
+2. **Rappel de structure — 3 min** : relis et prononce 2 à 3 phrases-modèles déjà apprises.
+3. **Nouveau contenu — 5 min** : une mini-leçon ou un dialogue de 3 à 6 phrases.
+4. **Production — 3 min** : shadowing, enregistrement vocal, ou réponse libre à une question liée au dialogue.
+
+Ne mémorise pas un mot isolé comme `预约 yùyuē`. Apprends plutôt : **我想预约明天上午十点。** (« Je voudrais prendre rendez-vous demain à 10 h. »). Ton cerveau récupérera plus facilement des blocs prêts à dire.
+
+## Étape 0 — Remise à niveau sonore
+
+**Durée : 3 à 4 semaines.** Objectif : supprimer les lacunes qui empêchent d’être compris, pas revoir tout ton ancien HSK 2.
+
+| Axe | Cible |
+|---|---|
+| Oral | Te présenter, parler de Shanghai, commander, payer, demander une direction, expliquer un problème simple |
+| Prononciation | Tons, paires difficiles (j/q/x, zh/ch/sh, z/c/s), neutral tone, changements de tons de 不 et 一 |
+| Structures | `是…的`, `在/有`, `想/要/会/能`, `了`, `过`, questions avec `吗/呢/怎么/为什么`, ordre temps–lieu–verbe |
+| Écrit | Reconnaître les caractères fréquents ; retaper, pas recopier longuement à la main |
+
+**Ressources**
+- **Pleco** : dictionnaire principal, création de cartes et recherche d’exemples.
+- **Anki** : un seul deck personnel, idéalement 5 à 8 nouvelles cartes maximum les jours où tu en ajoutes.
+- **SuperChinese** ou **HelloChinese** : pour reprendre pinyin, tons et structures de base de façon guidée.
+- **ChinesePod**, leçons débutant/elementary : dialogues courts avec audio et notes ; l’abonnement Premium comprend audio, vidéo, notes PDF, exercices et entraînement de prononciation. [chinesepod](https://www.chinesepod.com/pricing)
+- YouTube : **Comprehensible Chinese**, **Little Fox Chinese** ou **Mandarin Click**. Les retours d’apprenants recommandent notamment Little Fox pour ses histoires graduées gratuites avec listes de vocabulaire, transcription et MP3. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/rnmp42/looking_for_comprehensible_input_for_beginner/)
+
+**Jalon de passage**
+- Tu peux faire un monologue de 60–90 secondes sur toi sans lire.
+- Tu comprends l’essentiel d’un dialogue lent connu sans pinyin.
+- Tu peux survivre à 5 situations Shanghai : café, restaurant, Didi, livraison, paiement/retour Taobao.
+
+## Étape 1 — Quotidien autonome
+
+**Durée : mois 2 à 6.** C’est le cœur de ton projet : parler tous les jours avec moins de traduction mentale.
+
+| Axe | Cible |
+|---|---|
+| Vocabulaire | 600–900 mots réellement actifs, organisés par scènes : logement, achats, santé, travail/études, relations, transports, loisirs, téléphone et apps chinoises |
+| Structures | Comparaison `比`, expériences `过`, changement `了`, durée `了…`, résultat `听懂/看完/找到了`, cause `因为…所以…`, condition `如果…就…`, opinion `我觉得…` |
+| Oral/écoute/écrit | 45% expression, 30% écoute active, 25% flashcards/transcription |
+| Caractères | Reconnaissance prioritaire ; écriture de 100–150 caractères très fréquents seulement |
+
+La norme HSK place le niveau 2 autour de 1 272 mots cumulés et le niveau 3 autour de 2 245, avec une exigence croissante en caractères et grammaire. C’est une bonne **carte du territoire**, mais ton vocabulaire actif doit être d’abord dicté par les conversations que tu as réellement à Shanghai. [wuzhou.hfbook](https://wuzhou.hfbook.cn/api/wzsc/arc/arc/file/CA1635406039455178/81630125/AT1665387053573178.pdf)
+
+**Ressources**
+- **Du Chinese** : histoires graduées avec audio ; très bon pour faire le pont entre flashcards, écoute et lecture courte. Des apprenants le recommandent régulièrement avec Pleco et des contenus à input compréhensible. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/1iyx08m/some_comprehensible_input_recommendations_for_hsk3/)
+- **Lazy Chinese** / **Comprehensible Chinese** : écoute lente et naturelle, avec transcript.
+- **HelloTalk** ou **Tandem** : échanges vocaux asynchrones ; envoie 1 message vocal de 20–40 secondes, puis demande une seule correction précise.
+- Un tuteur **italki** toutes les une ou deux semaines : envoie à l’avance le thème et 5 phrases que tu veux employer. Des retours d’apprenants soulignent que préparer un sujet et des phrases avant la conversation rend les séances beaucoup plus productives. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/1ojz9hq/italki_for_conversation_practice/)
+- Dans la vraie vie : choisis une micro-mission quotidienne — demander une recommandation, préciser une commande, faire une remarque sur la météo, raconter ton week-end à un collègue.
+
+**Rituel hebdomadaire**
+- Jour 1–5 : 1 situation pratique par semaine.
+- Jour 6 : 15 min de conversation ou messages vocaux.
+- Jour 7 : raconte ta semaine en 90 secondes et note seulement 3 erreurs récurrentes.
+
+**Jalon de passage**
+- Conversation de 10 minutes avec un partenaire patient sur ta routine, tes goûts, ton travail/tes études et tes projets.
+- Tu comprends 70–80% d’un contenu lent sur un sujet familier sans sous-titres français/anglais.
+- Tu sais relancer : `真的吗？为什么？后来呢？你觉得怎么样？`
+
+## Étape 2 — Social et professionnel simple
+
+**Durée : mois 7 à 15.** Ici, tu passes de « je gère » à « je participe ».
+
+| Axe | Cible |
+|---|---|
+| Vocabulaire | 1 200–1 800 mots actifs ; logement/administratif, santé, relations, projets, réunions simples, tech/ingénierie de base |
+| Structures | `把`, `被`, compléments directionnels (`拿过来`, `走进去`), hypothèses, nuances (`其实/不过/反而/顺便`), discours rapporté |
+| Oral/écoute/écrit | 40% conversation, 35% écoute, 15% lecture, 10% écriture utile |
+| Écrit | WeChat, e-mails très courts, demandes, comptes rendus simples ; taper avant d’écrire à la main |
+
+La description officielle du niveau 4 couvre déjà les échanges cohérents sur des thèmes plus complexes de vie, d’études et de travail, et cite entre autres une interaction médicale ou des démarches liées à un emploi. [wuzhou.hfbook](https://wuzhou.hfbook.cn/api/wzsc/arc/arc/file/CA1635406039455178/81630125/AT1665387053573178.pdf)
+
+**Ressources**
+- **Mandarin Corner** : interviews de rue et vidéos plus proches du chinois réel, à introduire quand tu es vers HSK 3/4. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/1m8a6mz/advise_for_learning_chinese_maybe_comprehensible/)
+- Dramas ou variété : un extrait de 2–5 minutes, pas un épisode passif. Séquence : écoute → sous-titres chinois → relève 3 expressions → répète 3 répliques.
+- Chansons : utiles pour rythme, tons et mémorisation, mais ne les utilise pas comme ressource grammaticale principale ; choisis 1 refrain et travaille la diction.
+- italki : passe à des jeux de rôle — réunion, explication d’un bug, appel à un service client, discussion avec un propriétaire, entretien léger.
+
+**Projet mensuel**
+Enregistre une vidéo de 2–3 minutes : par exemple « mon quartier à Shanghai », « expliquer mon alternance », « mon avis sur une appli chinoise ». Fais corriger seulement : prononciation, mots non naturels, et une structure grammaticale.
+
+**Jalon de passage**
+- 20–30 minutes de conversation, avec pauses mais sans devoir revenir systématiquement à l’anglais.
+- Tu peux expliquer un problème, défendre une préférence, raconter un événement et demander une clarification.
+- Tu comprends l’idée principale d’un contenu natif clair sur un sujet connu, même si tu manques des détails.
+
+## Étape 3 — Chinois de travail crédible
+
+**Durée : à partir du mois 16.** Oriente cet étage vers ton domaine : ingénierie, informatique, IA, énergie, projets et communication d’équipe.
+
+| Axe | Cible |
+|---|---|
+| Vocabulaire | 2 000–3 000 mots actifs, dont un lexique métier ciblé et des formulations de réunion |
+| Oral | Expliquer un processus, poser des questions de clarification, faire un point d’avancement, exprimer un désaccord poli |
+| Écoute | Réunions lentes, tutoriels techniques chinois, conversations entre collègues |
+| Écrit | Messages professionnels, e-mails, consignes, mini-comptes rendus |
+
+Pour l’emploi, le HSK est surtout un **signal** de compétence : l’organisme officiel indique qu’il peut servir au recrutement, à la formation et à l’avancement. Dans la pratique, HSK 4–5 est souvent le seuil cité pour des postes locaux avec usage régulier du chinois ; mais un entretien oral et ta capacité à travailler concrètement primeront toujours sur le certificat seul. [chinesetest](https://www.chinesetest.cn/hsk)
+
+**Jalon utile**
+- **HSK 4 comme premier certificat stratégique** si une entreprise le demande.
+- **HSK 5** si ton poste exige e-mails, documentation, réunions et interactions quotidiennes en chinois.
+- Prépare le format d’examen seulement 8–12 semaines avant une inscription : auparavant, conserve la priorité à l’oral et à l’écoute.
+
+## Ton kit minimal recommandé
+
+- **Indispensable gratuit** : Pleco + Anki + un carnet de phrases + HelloTalk/Tandem.
+- **Un support structuré** : SuperChinese/HelloChinese *ou* Chinese Zero to Hero, mais pas trois apps en parallèle.
+- **Un support d’écoute gradué** : Du Chinese *ou* ChinesePod.
+- **Un humain** : tandem local, messages vocaux réguliers, ou tuteur italki.
+- **Une immersion choisie** : contenus Shanghai, vlogs, dramas, tech chinoise — du contenu que tu regarderais même sans objectif scolaire.
+
+La leçon des témoignages est cohérente : les applis et Anki aident à rendre les mots disponibles, mais le saut vers la conversation vient de l’enregistrement vocal, du shadowing et de rendez-vous réguliers avec de vraies personnes. HelloTalk, Xiaohongshu et italki sont fréquemment cités pour cette étape. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/1sy04u9/how_can_i_practice_speaking/)
+
+La règle finale : **ne laisse jamais une journée se terminer sans avoir produit du chinois à voix haute**, même seulement 30 secondes. Avec ta présence déjà sur place à Shanghai, cette régularité vaudra davantage qu’un programme théorique beaucoup plus ambitieux mais intermittent.

@@ -1,0 +1,160 @@
+GLM 5.2
+Voici un plan d'apprentissage du mandarin conçu pour ta situation spécifique : 15 min/jour, priorité oral, base HSK 2 à consolider, vie quotidienne à Shanghai.
+
+## Principes de base
+
+Avec 15 minutes quotidiennes, la régularité prime sur la quantité. Le HSK 3.0 (version novembre 2025) compte désormais 9 niveaux : HSK 1 (300 mots), HSK 2 (497 cumulés), HSK 3 (988), HSK 4 (1 978), HSK 5 (3 557). Côté employeurs en Chine, le **HSK 4 est le minimum généralement attendu** pour un poste professionnel utilisant le chinois au quotidien ; le HSK 3 suffit pour des rôles de support en environnement bilingue. [chineselanguagehub](https://chineselanguagehub.com/blog/hsk-3-guide)
+
+Ta routine quotidienne de 15 min suit ce schéma fixe :
+- **5 min — Révision** : Anki (répétition espacée) sur les cartes dues
+- **5 min — Rappel de structure** : shadowing ou répétition après audio natif (1 clip court)
+- **5 min — Nouveau contenu** : 3-5 nouveaux mots/structures, intégrés oralement
+
+Le week-end, remplace « nouveau contenu » par une session de 15 min avec un tandem ou un tuteur iTalki.
+
+***
+
+## Étape 0 — Réactivation (Semaines 1-4)
+
+Tu pars de zéro mais avec des restes de HSK 2. L'objectif n'est pas d'apprendre du neuf, mais de **réparer les fondations** (prononciation, tons, structures de base).
+
+### Objectifs
+- Réactiver les ~500 mots HSK 1-2 (salutations, nombres, temps, achats, directions)
+- Verrouiller les 4 tons + tons neutres + principales paires tonales
+- Maîtriser 5-6 structures-clés : 是/有/在, le/laquelle, structure SVO, 了, modalités (想/要/会/能)
+
+### Répartition oral/écoute/écrit
+| Activité | Temps | Support |
+|---|---|---|
+| Shadowing (répétition synchronisée) | 5 min | Pimsleur leçons 1-10 ou Mandarin Corner (YouTube) |
+| Écoute passive | 5 min | ChinesePod Newbie ou HelloChinese audio |
+| Flashcards Anki | 5 min | Paquet HSK 2 (révision, pas de nouveau) |
+
+### Ressources
+- **Anki** (gratuit) : paquet « HSK 2 » depuis AnkiWeb, 15-20 cartes/jour [study-abroad](https://www.study-abroad.org/fr/blog/cn-learning-chinese-guide/)
+- **Pimsleur Mandarin** (~15$/mois, essai 7 jours) : audio-first, idéal pour les tons et la production orale dès le jour 1 [kilolingo](https://kilolingo.com/compare/mandarin-learning-apps)
+- **HelloChinese** (gratuit) : parcours structuré HSK 1-2, excellent pour réactiver [mandarintutors](https://mandarintutors.com/learn/best-mandarin-apps-2026)
+- **Mandarin Corner** (YouTube, gratuit) : interviews de rue en mandarin lent avec sous-titres [trykaiwa](https://trykaiwa.com/blog/chinese-shadowing-technique-fluency-2026)
+
+### Jalon de passage
+Tu peux : te présenter (nom, nationalité, profession), commander un plat/drink en te faisant comprendre, demander ton chemin et comprendre la réponse, dire l'heure et la date, échanger 5 messages texte simples avec un Chinois sur WeChat — **sans hésiter plus de 3 secondes par phrase**.
+
+***
+
+## Étape 1 — HSK 2 → HSK 3 (Mois 1-4)
+
+C'est l'étape où tu construis la **masse critique conversationnelle** : assez de mots et de structures pour tenir une conversation simple de 5 minutes sur la vie quotidienne.
+
+### Objectifs
+- Vocabulaire : atteindre ~988 mots cumulés (HSK 3.0) [chineselanguagehub](https://chineselanguagehub.com/blog/hsk-3-guide)
+- Grammaire : construction avec 把, compléments de résultat (听懂, 看见), aspect 了/着/过, comparaisons avec 比 [hanlexon](https://www.hanlexon.com/fr/v2/guide/hsk-3-prep-plan)
+- Thèmes : routine, famille, travail, transports, santé, météo, achats négociés
+
+### Répartition
+| Activité | Temps | Support |
+|---|---|---|
+| Shadowing + self-talk | 5 min | Du Chinese HSK 2-3 (audio + texte) |
+| Écoute active | 5 min | ChinesePod Elementary ou podcast Chillchat |
+| Anki (nouveaux mots) | 5 min | 3-5 cartes/jour HSK 3 |
+
+**Week-end** : 1 session HelloTalk ou iTalki (15-30 min) avec un tandem chinois à Shanghai — objectif : utiliser les mots de la semaine en situation réelle.
+
+### Ressources
+- **Anki** : paquet HSK 3.0, 3-5 nouveaux mots/jour (objectif : ~300 nouveaux mots sur 4 mois)
+- **Du Chinese** (~12$/mois) : lectures graduées avec audio natif, pinyin tapable, parfait pour le shadowing [mandarintutors](https://mandarintutors.com/learn/best-mandarin-apps-2026)
+- **ChinesePod** (~30$/mois, ou contenu gratuit limité) : dialogues réels niveau Elementary avec transcripts [mandarintutors](https://mandarintutors.com/learn/best-mandarin-apps-2026)
+- **HelloTalk** (gratuit) : échange linguistique, trouve des Shanghaïens qui veulent pratiquer l'anglais/français [digmandarin](https://www.digmandarin.com/best-chinese-language-learning-apps.html)
+- **Chillchat / Lazy Chinese** (podcasts gratuits) : épisodes courts <10 min avec transcript, parfaits pour 5 min d'écoute [youtube](https://www.youtube.com/watch?v=M_rJb20HHzE)
+
+### Jalon de passage
+Tu peux : tenir une conversation de **5-7 minutes** sur ta journée, ton travail, tes loisirs ; comprendre l'essentiel d'un dialogue HSK 3 à vitesse normale ; raconter une anecdote simple au passé et au futur ; négocier un prix au marché. Si tu passes un test blanc HSK 3, tu vises ~70%. [hanlexon](https://www.hanlexon.com/fr/v2/guide/hsk-3-prep-plan)
+
+***
+
+## Étape 2 — HSK 3 → HSK 4 (Mois 4-10)
+
+C'est le **seuil professionnel** : le niveau où tu deviens fonctionnel en Chine au quotidien et employable pour des postes utilisant le chinois. [ngoainguuk.edu](https://ngoainguuk.edu.vn/muon-lam-viec-voi-cong-ty-trung-quoc-can-trinh-do-hsk-bao-nhieu)
+
+### Objectifs
+- Vocabulaire : ~1 978 mots cumulés (HSK 4.0) [chineselanguagehub](https://chineselanguagehub.com/blog/hsk-3-guide)
+- Grammaire : structures complexes (被, 连...都,不但...而且), discours indirect, expression d'opinions et de nuances
+- Thèmes : société, éducation, environnement, travail, culture chinoise, actualités simples
+
+### Répartition
+| Activité | Temps | Support |
+|---|---|---|
+| Shadowing + production orale | 6 min | C-drama court ou vlog Shanghai (clip 30-60s) |
+| Écoute active | 5 min | ChinesePod Intermediate ou drama avec sous-titres chinois |
+| Anki + écriture | 4 min | 5 nouveaux mots/jour, écrits à la main ou tapés |
+
+**Week-end** : 1 session iTalki avec un tuteur (30 min, ~10-15$) — focus sur la conversation libre, pas de manuel.
+
+### Ressources
+- **Du Chinese** (HSK 3-4) : lectures plus longues, audio natif [languavibe](https://languavibe.com/best-chinese-learning-apps/)
+- **ChinesePod Intermediate** : dialogues plus rapides et naturels [mandarintutors](https://mandarintutors.com/learn/best-mandarin-apps-2026)
+- **iTalki** (payant, ~10-20$/session) : tuteur natif pour pratique orale ciblée [reddit](https://www.reddit.com/r/ChineseLanguage/comments/1fzxacw/beginner_resources_roadmap/)
+- **C-dramas** (iQIYI, WeTV, gratuits en Chine) : regarde avec sous-titres chinois uniquement, choisis des dramas modernes (sitcom 家有儿女, dramas urbains) [youtube](https://www.youtube.com/watch?v=M_rJb20HHzE)
+- **Pleco** (gratuit) : dictionnaire toujours ouvert, OCR pour les panneaux/menus dans Shanghai [languavibe](https://languavibe.com/best-chinese-learning-apps/)
+- **Bilibili / Little Fox Chinese** (gratuit) : contenu authentique adapté au niveau [youtube](https://www.youtube.com/watch?v=M_rJb20HHzE)
+
+### Jalon de passage
+Tu peux : tenir une conversation de **15 minutes** sur des sujets variés ; comprendre 70-80% d'un dialogue de série moderne sans sous-titres ; exprimer ton opinion avec nuances (je pense que, à mon avis, d'un côté... de l'autre) ; lire un article d'actualité simple. Test blanc HSK 4 visé : ~65-70%.
+
+***
+
+## Étape 3 — HSK 4 → HSK 5 (Mois 10-18)
+
+Le HSK 5 (~3 557 mots) ouvre les portes des postes où le chinois est utilisé professionnellement au quotidien. À ce stade, ta vie à Shanghai devient ton principal terrain d'entraînement. [ngoainguuk.edu](https://ngoainguuk.edu.vn/muon-lam-viec-voi-cong-ty-trung-quoc-can-trinh-do-hsk-bao-nhieu)
+
+### Objectifs
+- Vocabulaire : ~3 557 mots cumulés [chineselanguagehub](https://chineselanguagehub.com/blog/hsk-3-guide)
+- Registres : chinois professionnel (réunions, emails), vocabulaire de spécialisation (ton domaine ingénierie/tech)
+- Fluidité : parler sans traduire mentalement, comprendre les conversations natives à vitesse normale
+
+### Répartition
+| Activité | Temps | Support |
+|---|---|---|
+| Production orale (self-talk + shadowing) | 5 min | Vlog Bilibili ou interview Mandarin Corner |
+| Écoute immersive | 5 min | Drama sans sous-titres ou podcast native-speed |
+| Anki + lecture | 5 min | 5 mots/jour + 1 court article |
+
+**Au quotidien à Shanghai** : force-toi à commander, négocier, demander des infos en chinois (pas d'anglais). Rejoins une activité (basket, gym) où les participants sont chinois — c'est ton immersion gratuite.
+
+### Ressources
+- **The Chairman's Bao** (payant, ~10$/mois) : articles d'actualité gradués par niveau HSK [blog.coachers](https://blog.coachers.org/posts/discover-the-best-apps-for-learning-chinese)
+- **ChinesePod Upper-Intermediate** : contenu plus riche [mandarintutors](https://mandarintutors.com/learn/best-mandarin-apps-2026)
+- **Contenu natif** : Bilibili, iQIYI, WeChat Moments (lis les posts de tes contacts chinois), 头条 (actualités) [youtube](https://www.youtube.com/watch?v=M_rJb20HHzE)
+- **Anki** : paquet HSK 5 + cartes personnelles créées à partir des mots rencontrés dans la vraie vie
+- **Tandem régulier** : 1-2x/semaine, objectif conversation libre 30 min sans anglais
+
+### Jalon de passage
+Tu peux : participer à une réunion de travail en chinois (comprendre 80%, contribuer) ; regarder un drama moderne sans sous-titres et comprendre l'intrigue ; lire un article d'actualité avec ~85% de compréhension ; téléphoner en chinois pour régler un problème pratique. Tu es prêt à passer le HSK 5 si un employeur le demande.
+
+***
+
+## Récapitulatif des ressources par étape
+
+| Ressource | Étape 0 | Étape 1 | Étape 2 | Étape 3 | Coût |
+|---|---|---|---|---|---|
+| Anki (SRS) | ✅ | ✅ | ✅ | ✅ | Gratuit |
+| Pleco (dictionnaire) | ✅ | ✅ | ✅ | ✅ | Gratuit |
+| HelloChinese | ✅ | ✅ | — | — | Gratuit / ~10$/mo |
+| Pimsleur (tons/oral) | ✅ | ✅ | — | — | ~15$/mo |
+| Du Chinese (lecture graduée) | — | ✅ | ✅ | — | ~12$/mo |
+| ChinesePod (écoute) | ✅ | ✅ | ✅ | ✅ | ~30$/mo ou gratuit limité |
+| HelloTalk (tandem) | — | ✅ | ✅ | ✅ | Gratuit |
+| iTalki (tuteur 1:1) | — | — | ✅ | ✅ | ~10-20$/session |
+| C-dramas / Bilibili | — | — | ✅ | ✅ | Gratuit |
+| The Chairman's Bao | — | — | — | ✅ | ~10$/mo |
+
+## Conseils stratégiques pour ta situation
+
+**Profite de Shanghai** : c'est ton atout majeur. 15 min/jour d'étude formelle + immersion gratuite (marchés, transports, gym, basket) = équivalent de 1h+ en Europe. Les apprenants en immersion progressent significativement plus vite. [chineselanguagehub](https://chineselanguagehub.com/fr/blog/hsk-3-guide)
+
+**Le shadowing est ta technique-clé** : 10-15 min/jour de shadowing focalisé battent 1h d'écoute passive. Progression recommandée : semaine 1 (5 min, audio lent), semaine 2 (10 min), semaine 3 (vitesse moyenne), semaine 4 (audio natif). [trykaiwa](https://trykaiwa.com/blog/chinese-shadowing-technique-fluency-2026)
+
+**Ne néglige pas les flashcards** : même si l'oral est ta priorité, l'écriture/tapping aide ta mémoire (tu l'as dit toi-même). Anki reste ton moteur de rétention — mais garde-la en soutien (5 min/jour), pas en activité principale. [reddit](https://www.reddit.com/r/ChineseLanguage/comments/152jstv/free_resourceslanguage_learning_plan_to_start/)
+
+**Garde la porte HSK ouverte** : si un employeur te demande un niveau certifié un jour, tu pourras passer un test blanc HSK 4 ou 5 en 4-6 semaines de préparation ciblée (examens blancs, format de test) — la base orale que tu auras construite rendra cette préparation beaucoup plus facile. [hanlexon](https://www.hanlexon.com/fr/v2/guide/hsk-3-prep-plan)
+
+Le plan complet est conçu pour ~18 mois à 15 min/jour, soit l'équivalent d'environ 160-180 heures d'étude active — cohérent avec les estimations de 150-300h pour atteindre le HSK 4. Ta vie à Shanghai accélère considérablement ce parcours. [study-abroad](https://www.study-abroad.org/fr/blog/cn-learning-chinese-guide/)

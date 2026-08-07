@@ -1,0 +1,4842 @@
+[
+  {
+    "character": "交流",
+    "pinyin": "jiāoliú",
+    "meaning": "Échanger, communiquer",
+    "category": "Communication",
+    "exampleSentence": "多跟当地人交流能提高口语。",
+    "examplePinyin": "Duō gēn dāngdìrén jiāoliú néng tígāo kǒuyǔ.",
+    "exampleTranslation": "Beaucoup échanger avec les locaux permet d'améliorer l'oral.",
+    "hskLevel": 3
+  },
+  {
+    "character": "经历",
+    "pinyin": "jīnglì",
+    "meaning": "Expérience, vivre une expérience",
+    "category": "Vie pro",
+    "exampleSentence": "这是一段非常难忘的经历。",
+    "examplePinyin": "Zhè shì yí duàn fēicháng nánwàng de jīnglì.",
+    "exampleTranslation": "C'est une expérience vraiment inoubliable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "影响",
+    "pinyin": "yǐngxiǎng",
+    "meaning": "Influencer, impact",
+    "category": "Général",
+    "exampleSentence": "环境对人的影响很大。",
+    "examplePinyin": "Huánjìng duì rén de yǐngxiǎng hěn dà.",
+    "exampleTranslation": "L'environnement a un grand impact sur les gens.",
+    "hskLevel": 3
+  },
+  {
+    "character": "面试",
+    "pinyin": "miànshì",
+    "meaning": "Entretien d'embauche",
+    "category": "Travail",
+    "exampleSentence": "明天上午我有一个线上面试。",
+    "examplePinyin": "Míngtiān shàngwǔ wǒ yǒu yí gè xiànshàng miànshì.",
+    "exampleTranslation": "Demain matin j'ai un entretien d'embauche en ligne.",
+    "hskLevel": 3
+  },
+  {
+    "character": "简历",
+    "pinyin": "jiǎnlì",
+    "meaning": "CV, Curriculum Vitae",
+    "category": "Travail",
+    "exampleSentence": "请把你的中文简历发到我的邮箱。",
+    "examplePinyin": "Qǐng bǎ nǐ de zhōngwén jiǎnlì fā dào wǒ de yóuxiāng.",
+    "exampleTranslation": "Envoyez votre CV en chinois sur ma boîte mail s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "安排",
+    "pinyin": "ānpái",
+    "meaning": "Organiser, programme",
+    "category": "Travail",
+    "exampleSentence": "本周的工作安排非常紧凑。",
+    "examplePinyin": "Běn zhōu de gōngzuò ānpái fēicháng jǐncòu.",
+    "exampleTranslation": "Le programme de travail de cette semaine est très dense.",
+    "hskLevel": 3
+  },
+  {
+    "character": "水平",
+    "pinyin": "shuǐpíng",
+    "meaning": "Niveau",
+    "category": "Études",
+    "exampleSentence": "我的中文听力水平提高得很快。",
+    "examplePinyin": "Wǒ de zhōngwén tīnglì shuǐpíng tígāo de hěn kuài.",
+    "exampleTranslation": "Mon niveau de compréhension orale en chinois s'améliore très vite.",
+    "hskLevel": 3
+  },
+  {
+    "character": "提高",
+    "pinyin": "tígāo",
+    "meaning": "Améliorer, hausser",
+    "category": "Progrès",
+    "exampleSentence": "每天练习15分钟能提高口语。",
+    "examplePinyin": "Měitiān liànxí shíwǔ fēnzhōng néng tígāo kǒuyǔ.",
+    "exampleTranslation": "S'entraîner 15 minutes chaque jour permet d'améliorer l'oral.",
+    "hskLevel": 3
+  },
+  {
+    "character": "能力",
+    "pinyin": "nénglì",
+    "meaning": "Capacité, compétence",
+    "category": "Carrière",
+    "exampleSentence": "他的工作能力得到了领导的认可。",
+    "examplePinyin": "Tā de gōngzuò nénglì dédào le lǐngdǎo de rènkě.",
+    "exampleTranslation": "Ses compétences professionnelles ont été reconnues par les dirigeants.",
+    "hskLevel": 3
+  },
+  {
+    "character": "任务",
+    "pinyin": "rènwu",
+    "meaning": "Tâche, mission",
+    "category": "Travail",
+    "exampleSentence": "我们必须按时完成这个项目任务。",
+    "examplePinyin": "Wǒmen bìxū ànshí wánchéng zhège xiàngmù rènwu.",
+    "exampleTranslation": "Nous devons accomplir cette tâche de projet à temps.",
+    "hskLevel": 3
+  },
+  {
+    "character": "目标",
+    "pinyin": "mùbiāo",
+    "meaning": "Objectif, cible",
+    "category": "Planification",
+    "exampleSentence": "今年的销售目标已经实现了。",
+    "examplePinyin": "Jīnnián de xiāoshòu mùbiāo yǐjīng shíxiàn le.",
+    "exampleTranslation": "L'objectif de ventes de cette année est déjà atteint.",
+    "hskLevel": 3
+  },
+  {
+    "character": "责任",
+    "pinyin": "zérèn",
+    "meaning": "Responsabilité",
+    "category": "Travail",
+    "exampleSentence": "作为项目经理，他承担了主要责任。",
+    "examplePinyin": "Zuòwéi xiàngmù jīnglǐ, tā chéngdān le zhǔyào zérèn.",
+    "exampleTranslation": "En tant que chef de projet, il a assumé la responsabilité principale.",
+    "hskLevel": 3
+  },
+  {
+    "character": "总结",
+    "pinyin": "zǒngjié",
+    "meaning": "Bilan, résumer",
+    "category": "Travail",
+    "exampleSentence": "开会时我们对上个月的工作做了总结。",
+    "examplePinyin": "Kāihuì shí wǒmen duì shàng gè yuè de gōngzuò zuò le zǒngjié.",
+    "exampleTranslation": "Lors de la réunion, nous avons fait le bilan du travail du mois dernier.",
+    "hskLevel": 3
+  },
+  {
+    "character": "会议",
+    "pinyin": "huìyì",
+    "meaning": "Réunion, conférence",
+    "category": "Travail",
+    "exampleSentence": "今天下午两点在三楼开会。",
+    "examplePinyin": "Jīntiān xiàwǔ liǎng diǎn zài sān lóu kāihuì.",
+    "exampleTranslation": "Cet après-midi à 14h il y a une réunion au 3ème étage.",
+    "hskLevel": 3
+  },
+  {
+    "character": "申请",
+    "pinyin": "shēnqǐng",
+    "meaning": "Postuler, poser sa candidature",
+    "category": "Travail",
+    "exampleSentence": "她向公司申请了年假。",
+    "examplePinyin": "Tā xiàng gōngsī shēnqǐng le niánjià.",
+    "exampleTranslation": "Elle a demandé des congés payés à l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合同",
+    "pinyin": "hétong",
+    "meaning": "Contrat",
+    "category": "Travail",
+    "exampleSentence": "双方在租赁合同上签了字。",
+    "examplePinyin": "Shuāngfāng zài zūlìn hétong shàng qiān le zì.",
+    "exampleTranslation": "Les deux parties ont signé le contrat de location.",
+    "hskLevel": 3
+  },
+  {
+    "character": "工资",
+    "pinyin": "gōngzī",
+    "meaning": "Salaire, paie",
+    "category": "Travail",
+    "exampleSentence": "公司每月十号按时发工资。",
+    "examplePinyin": "Gōngsī měi yuè shí hào ànshí fā gōngzī.",
+    "exampleTranslation": "L'entreprise verse les salaires à temps le 10 de chaque mois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "奖金",
+    "pinyin": "jiǎngjīn",
+    "meaning": "Prime, bonus",
+    "category": "Travail",
+    "exampleSentence": "年终奖金是对大家努力的肯定。",
+    "examplePinyin": "Niánzhōng jiǎngjīn shì duì dàjiā nǔlì de kěndìng.",
+    "exampleTranslation": "La prime de fin d'année récompense l'effort de chacun.",
+    "hskLevel": 3
+  },
+  {
+    "character": "效率",
+    "pinyin": "xiàolǜ",
+    "meaning": "Efficacité, rendement",
+    "category": "Travail",
+    "exampleSentence": "合理规划时间能提高工作效率。",
+    "examplePinyin": "Hélǐ guīhuà shíjiān néng tígāo gōngzuò xiàolǜ.",
+    "exampleTranslation": "Bien planifier son temps permet d'augmenter l'efficacité au travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "技术",
+    "pinyin": "jìshù",
+    "meaning": "Technologie, technique",
+    "category": "Technologie",
+    "exampleSentence": "这家上海科技公司研发了新技术。",
+    "examplePinyin": "Zhè jiā Shànghǎi kējì gōngsī yánfā le xīn jìshù.",
+    "exampleTranslation": "Cette entreprise tech de Shanghai a développé une nouvelle technologie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "项目",
+    "pinyin": "xiàngmù",
+    "meaning": "Projet",
+    "category": "Travail",
+    "exampleSentence": "这个跨国合作项目非常重要。",
+    "examplePinyin": "Zhège kuàguó hézuò xiàngmù fēicháng zhòngyào.",
+    "exampleTranslation": "Ce projet de coopération internationale est très important.",
+    "hskLevel": 3
+  },
+  {
+    "character": "主管",
+    "pinyin": "zhǔguǎn",
+    "meaning": "Responsable, chef de service",
+    "category": "Travail",
+    "exampleSentence": "请把这份文件交给业务主管。",
+    "examplePinyin": "Qǐng bǎ zhè fèn wénjiàn jiāo gěi yèwù zhǔguǎn.",
+    "exampleTranslation": "Transmettez ce document au chef de service s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "客户",
+    "pinyin": "kèhù",
+    "meaning": "Client",
+    "category": "Achats & Argent",
+    "exampleSentence": "今天下午我要去拜访重要客户。",
+    "examplePinyin": "Jīntiān xiàwǔ wǒ yào qù bàifǎng zhòngyào kèhù.",
+    "exampleTranslation": "Cet après-midi je vais rendre visite à un client important.",
+    "hskLevel": 3
+  },
+  {
+    "character": "方案",
+    "pinyin": "fāng'àn",
+    "meaning": "Plan, proposition",
+    "category": "Travail",
+    "exampleSentence": "团队提出了三个可行的技术方案。",
+    "examplePinyin": "Tuánduì tíchū le sān gè kěxíng de jìshù fāng'àn.",
+    "exampleTranslation": "L'équipe a proposé trois plans techniques réalisables.",
+    "hskLevel": 3
+  },
+  {
+    "character": "报告",
+    "pinyin": "bàogào",
+    "meaning": "Rapport, faire un rapport",
+    "category": "Travail",
+    "exampleSentence": "他在例会上作了财务报告。",
+    "examplePinyin": "Tā zài lìhuì shàng zuò le cáiwù bàogào.",
+    "exampleTranslation": "Il a présenté le rapport financier lors de la réunion de routine.",
+    "hskLevel": 3
+  },
+  {
+    "character": "商业",
+    "pinyin": "shāngyè",
+    "meaning": "Commerce, business",
+    "category": "Achats & Argent",
+    "exampleSentence": "陆家嘴是上海的商业金融中心。",
+    "examplePinyin": "Lùjiāzuǐ shì Shànghǎi de shāngyè jīnróng zhōngxīn.",
+    "exampleTranslation": "Lujiazui est le centre financier et commercial de Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "市场",
+    "pinyin": "shìchǎng",
+    "meaning": "Marché",
+    "category": "Achats & Argent",
+    "exampleSentence": "产品在开拓海外市场。",
+    "examplePinyin": "Chǎnpǐn zài kāituò hǎiwài shìchǎng.",
+    "exampleTranslation": "Le produit s'étend sur les marchés étrangers.",
+    "hskLevel": 3
+  },
+  {
+    "character": "竞争",
+    "pinyin": "jìngzhēng",
+    "meaning": "Concurrence, rivaliser",
+    "category": "Achats & Argent",
+    "exampleSentence": "电商行业的市场竞争非常激烈。",
+    "examplePinyin": "Diànshāng hángyè de shìchǎng jìngzhēng fēicháng jīliè.",
+    "exampleTranslation": "La concurrence sur le marché de l'e-commerce est très intense.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合作",
+    "pinyin": "hézuò",
+    "meaning": "Coopérer, collaboration",
+    "category": "Travail",
+    "exampleSentence": "希望我们未来有更多的合作机会。",
+    "examplePinyin": "Xīwàng wǒmen wèi lái yǒu gèng duō de hézuò jīhuì.",
+    "exampleTranslation": "J'espère que nous aurons plus d'opportunités de collaboration à l'avenir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "发展",
+    "pinyin": "fāzhǎn",
+    "meaning": "Développer, développement",
+    "category": "Achats & Argent",
+    "exampleSentence": "近十年人工智能发展迅速。",
+    "examplePinyin": "Jìn shí nián réngōng zhìnéng fāzhǎn xùnsù.",
+    "exampleTranslation": "L'intelligence artificielle s'est développée rapidement cette dernière décennie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "增长",
+    "pinyin": "zēngzhǎng",
+    "meaning": "Augmenter, croissance",
+    "category": "Achats & Argent",
+    "exampleSentence": "公司今年的营业额稳定增长。",
+    "examplePinyin": "Gōngsī jīnnián de yíngyè'é wěndìng zēngzhǎng.",
+    "exampleTranslation": "Le chiffre d'affaires de l'entreprise est en croissance stable cette année.",
+    "hskLevel": 3
+  },
+  {
+    "character": "降低",
+    "pinyin": "jiàngdī",
+    "meaning": "Réduire, baisser",
+    "category": "Travail",
+    "exampleSentence": "优化流程可以降低生产成本。",
+    "examplePinyin": "Yōuhuà liúchéng kěyǐ jiàngdī shēngchǎn chéngběn.",
+    "exampleTranslation": "Optimiser les processus permet de réduire les coûts de production.",
+    "hskLevel": 3
+  },
+  {
+    "character": "要求",
+    "pinyin": "yāoqiú",
+    "meaning": "Exiger, exigence",
+    "category": "Travail",
+    "exampleSentence": "老板要求项目在周五前提交。",
+    "examplePinyin": "Lǎobǎn yāoqiú xiàngmù zài zhōuwǔ qián tíjiāo.",
+    "exampleTranslation": "Le patron exige que le projet soit soumis avant vendredi.",
+    "hskLevel": 3
+  },
+  {
+    "character": "标准",
+    "pinyin": "biāozhǔn",
+    "meaning": "Norme, standard",
+    "category": "Travail",
+    "exampleSentence": "这个产品符合国际质量标准。",
+    "examplePinyin": "Zhège chǎnpǐn fúhé guójì zhìliàng biāozhǔn.",
+    "exampleTranslation": "Ce produit est conforme aux normes de qualité internationales.",
+    "hskLevel": 3
+  },
+  {
+    "character": "质量",
+    "pinyin": "zhìliàng",
+    "meaning": "Qualité",
+    "category": "Achats & Argent",
+    "exampleSentence": "我们重视产品质量胜过数量。",
+    "examplePinyin": "Wǒmen zhòngshì chǎnpǐn zhìliàng shèngguò shùliàng.",
+    "exampleTranslation": "Nous privilégions la qualité du produit par rapport à la quantité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "制度",
+    "pinyin": "zhìdù",
+    "meaning": "Règlement, système",
+    "category": "Travail",
+    "exampleSentence": "员工需要遵守公司的考勤制度。",
+    "examplePinyin": "Yuángōng xūyào zūnshǒu gōngsī de kǎoqín zhìdù.",
+    "exampleTranslation": "Les employés doivent respecter le règlement de présence de l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "管理",
+    "pinyin": "guǎnlǐ",
+    "meaning": "Gérer, management",
+    "category": "Travail",
+    "exampleSentence": "合理的管理能激发员工潜力。",
+    "examplePinyin": "Hélǐ de guǎnlǐ néng jīfā yuángōng qiánlì.",
+    "exampleTranslation": "Un management adapté permet de stimuler le potentiel des employés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "服务",
+    "pinyin": "fúwù",
+    "meaning": "Servir, service",
+    "category": "Achats & Argent",
+    "exampleSentence": "这家酒店的客房服务非常周到。",
+    "examplePinyin": "Zhè jiā jiǔdiàn de kèfáng fúwù fēicháng zhōudào.",
+    "exampleTranslation": "Le service de chambre de cet hôtel est très attentionné.",
+    "hskLevel": 3
+  },
+  {
+    "character": "讨论",
+    "pinyin": "tǎolùn",
+    "meaning": "Discuter, débat",
+    "category": "Communication",
+    "exampleSentence": "大家在会议室讨论新方案。",
+    "examplePinyin": "Dàjiā zài huìyìshì tǎolùn xīn fāng'àn.",
+    "exampleTranslation": "Tout le monde discute de la nouvelle proposition dans la salle de réunion.",
+    "hskLevel": 3
+  },
+  {
+    "character": "解释",
+    "pinyin": "jiěshì",
+    "meaning": "Expliquer, explication",
+    "category": "Communication",
+    "exampleSentence": "请你给我解释一下这句话的意思。",
+    "examplePinyin": "Qǐng nǐ gěi wǒ jiěshì yíxià zhè jù huà de yìsi.",
+    "exampleTranslation": "Explique-moi le sens de cette phrase s'il te plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "反对",
+    "pinyin": "fǎnduì",
+    "meaning": "S'opposer, être contre",
+    "category": "Opinion",
+    "exampleSentence": "没有人反对这个决定。",
+    "examplePinyin": "Méiyǒu rén fǎnduì zhège juédìng.",
+    "exampleTranslation": "Personne ne s'est opposé à cette décision.",
+    "hskLevel": 3
+  },
+  {
+    "character": "提醒",
+    "pinyin": "tíxǐng",
+    "meaning": "Rappeler, rafraîchir la mémoire",
+    "category": "Communication",
+    "exampleSentence": "谢谢你提醒我明天要开会。",
+    "examplePinyin": "Xièxie nǐ tíxǐng wǒ míngtiān yào kāihuì.",
+    "exampleTranslation": "Merci de me rappeler qu'il y a une réunion demain.",
+    "hskLevel": 3
+  },
+  {
+    "character": "建议",
+    "pinyin": "jiànyì",
+    "meaning": "Suggérer, conseil",
+    "category": "Communication",
+    "exampleSentence": "医生建议他多休息。",
+    "examplePinyin": "Yīshēng jiànyì tā duō xiūxi.",
+    "exampleTranslation": "Le médecin lui conseille de se reposer davantage.",
+    "hskLevel": 3
+  },
+  {
+    "character": "请求",
+    "pinyin": "qǐngqiú",
+    "meaning": "Demander, prier de",
+    "category": "Politesse",
+    "exampleSentence": "他向公司提出了请假请求。",
+    "examplePinyin": "Tā xiàng gōngsī tíchū le qǐngjià qǐngqiú.",
+    "exampleTranslation": "Il a soumis une demande de congé à l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "邀请",
+    "pinyin": "yāoqǐng",
+    "meaning": "Inviter, invitation",
+    "category": "Social",
+    "exampleSentence": "她邀请我们周末去她家做客。",
+    "examplePinyin": "Tā yāoqǐng wǒmen zhōumò qù tā jiā zuòkè.",
+    "exampleTranslation": "Elle nous a invités chez elle ce week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "祝贺",
+    "pinyin": "zhùhè",
+    "meaning": "Féliciter, félicitations",
+    "category": "Social",
+    "exampleSentence": "祝贺你顺利通过了考试！",
+    "examplePinyin": "Zhùhè nǐ shùnlì tōngguò le kǎoshì!",
+    "exampleTranslation": "Félicitations pour avoir réussi ton examen !",
+    "hskLevel": 3
+  },
+  {
+    "character": "原谅",
+    "pinyin": "yuánliàng",
+    "meaning": "Pardonner, excuser",
+    "category": "Relation",
+    "exampleSentence": "请原谅我上次的失礼。",
+    "examplePinyin": "Qǐng yuánliàng wǒ shàng cì de shīlǐ.",
+    "exampleTranslation": "Pardonne-moi pour mon manque de politesse la dernière fois s'il te plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "怀疑",
+    "pinyin": "huáiyí",
+    "meaning": "Douter, suspecter",
+    "category": "Sentiment",
+    "exampleSentence": "我对这个数据的准确性表示怀疑。",
+    "examplePinyin": "Wǒ duì zhège shùjù de zhǔanquèxìng biǎoshì huáiyí.",
+    "exampleTranslation": "J'émets des doutes sur l'exactitude de ces données.",
+    "hskLevel": 3
+  },
+  {
+    "character": "误会",
+    "pinyin": "wùhuì",
+    "meaning": "Malentendu, mal comprendre",
+    "category": "Communication",
+    "exampleSentence": "这完全是一个误会，让我解释一下。",
+    "examplePinyin": "Zhè wánquán shì yí gè wùhuì, ràng wǒ jiěshì yíxià.",
+    "exampleTranslation": "C'est un pur malentendu, laisse-moi expliquer.",
+    "hskLevel": 3
+  },
+  {
+    "character": "批评",
+    "pinyin": "pīpíng",
+    "meaning": "Critiquer, réprimander",
+    "category": "Communication",
+    "exampleSentence": "经理批评了那个粗心的员工。",
+    "examplePinyin": "Jīnglǐ pīpíng le nàge cūxīn de yuángōng.",
+    "exampleTranslation": "Le manager a réprimandé cet employé négligent.",
+    "hskLevel": 3
+  },
+  {
+    "character": "表扬",
+    "pinyin": "biǎoyáng",
+    "meaning": "Féliciter officiellement",
+    "category": "Communication",
+    "exampleSentence": "老板在全公司面前表扬了他。",
+    "examplePinyin": "Lǎobǎn zài quán gōngsī miànqián biǎoyáng le tā.",
+    "exampleTranslation": "Le patron l'a félicité devant toute l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "礼貌",
+    "pinyin": "lǐmào",
+    "meaning": "Politesse, poli",
+    "category": "Comportement",
+    "exampleSentence": "说话有礼貌给人留好印象。",
+    "examplePinyin": "Shuōhuà yǒu lǐmào gěi rén liú hǎo yìnxiàng.",
+    "exampleTranslation": "Parler avec politesse laisse une bonne impression.",
+    "hskLevel": 3
+  },
+  {
+    "character": "态度",
+    "pinyin": "tàidu",
+    "meaning": "Attitude, comportement",
+    "category": "Comportement",
+    "exampleSentence": "她的工作态度非常认真。",
+    "examplePinyin": "Tā de gōngzuò tàidu fēicháng rènzhēn.",
+    "exampleTranslation": "Son attitude au travail est très sérieuse.",
+    "hskLevel": 3
+  },
+  {
+    "character": "印象",
+    "pinyin": "yìnxiǎng",
+    "meaning": "Impression",
+    "category": "Sentiment",
+    "exampleSentence": "上海这座城市给我留下了深刻的印象。",
+    "examplePinyin": "Shànghǎi zhè zuò chéngshì gěi wǒ liúxià le shēnkè de yìnxiǎng.",
+    "exampleTranslation": "La ville de Shanghai m'a laissé une impression profonde.",
+    "hskLevel": 3
+  },
+  {
+    "character": "判断",
+    "pinyin": "pànduàn",
+    "meaning": "Juger, apprécier",
+    "category": "Pensée",
+    "exampleSentence": "凭经验判断，天气很快会放晴。",
+    "examplePinyin": "Píng jīngyàn pànduàn, tiānqì hěn kuài huì fàngqíng.",
+    "exampleTranslation": "À en juger par l'expérience, le temps va bientôt se dégager.",
+    "hskLevel": 3
+  },
+  {
+    "character": "肯定",
+    "pinyin": "kěndìng",
+    "meaning": "Certainement, affirmer",
+    "category": "Adverbe",
+    "exampleSentence": "他肯定能准时到达。",
+    "examplePinyin": "Tā kěndìng néng zhǔnshí dàodá.",
+    "exampleTranslation": "Il pourra certainement arriver à l'heure.",
+    "hskLevel": 3
+  },
+  {
+    "character": "搬家",
+    "pinyin": "bānjiā",
+    "meaning": "Déménager",
+    "category": "Logement",
+    "exampleSentence": "我下周要搬家到静安区。",
+    "examplePinyin": "Wǒ xià zhōu yào bānjiā dào Jìng'ān qū.",
+    "exampleTranslation": "Je déménage la semaine prochaine dans le district de Jing'an.",
+    "hskLevel": 3
+  },
+  {
+    "character": "房租",
+    "pinyin": "fángzū",
+    "meaning": "Loyer",
+    "category": "Logement",
+    "exampleSentence": "上海市中心公寓的房租比较贵。",
+    "examplePinyin": "Shànghǎi shìzhōngxīn gōngyù de fángzū bǐjiào guì.",
+    "exampleTranslation": "Le loyer des appartements au centre-ville de Shanghai est assez cher.",
+    "hskLevel": 3
+  },
+  {
+    "character": "家具",
+    "pinyin": "jiājù",
+    "meaning": "Meuble",
+    "category": "Logement",
+    "exampleSentence": "新房子里的家具都是在宜家买的。",
+    "examplePinyin": "Xīn fángzi lǐ de jiājù dōu shì zài Yíjiā mǎi de.",
+    "exampleTranslation": "Les meubles de la nouvelle maison ont tous été achetés chez IKEA.",
+    "hskLevel": 3
+  },
+  {
+    "character": "打扫",
+    "pinyin": "dǎsǎo",
+    "meaning": "Nettoyer, balayer",
+    "category": "Ménage",
+    "exampleSentence": "周末我们要把房间打扫干净。",
+    "examplePinyin": "Zhōumò wǒmen yào bǎ fángjiān dǎsǎo gānjìng.",
+    "exampleTranslation": "Ce week-end nous devons nettoyer la chambre.",
+    "hskLevel": 3
+  },
+  {
+    "character": "整理",
+    "pinyin": "zhěnglǐ",
+    "meaning": "Ranger, ordonner",
+    "category": "Ménage",
+    "exampleSentence": "她在整理办公桌上的文件。",
+    "examplePinyin": "Tā zài zhěnglǐ bàngōngzhuō shàng de wénjiàn.",
+    "exampleTranslation": "Elle est en train de ranger les documents sur son bureau.",
+    "hskLevel": 3
+  },
+  {
+    "character": "修理",
+    "pinyin": "xiūlǐ",
+    "meaning": "Réparer",
+    "category": "Services",
+    "exampleSentence": "师傅来修理了客房的空调。",
+    "examplePinyin": "Shīfu lái xiūlǐ le kèfáng de kōngtiáo.",
+    "exampleTranslation": "Le technicien est venu réparer la climatisation de la chambre d'amis.",
+    "hskLevel": 3
+  },
+  {
+    "character": "保护",
+    "pinyin": "bǎohù",
+    "meaning": "Protéger, protection",
+    "category": "Environnement",
+    "exampleSentence": "大家都要保护城市的环境。",
+    "examplePinyin": "Dàjiā dōu yào bǎohù chéngshì de huánjìng.",
+    "exampleTranslation": "Tout le monde doit protéger l'environnement de la ville.",
+    "hskLevel": 3
+  },
+  {
+    "character": "便利",
+    "pinyin": "biànlì",
+    "meaning": "Pratique, commode",
+    "category": "Services",
+    "exampleSentence": "上海小区附近都有便利店。",
+    "examplePinyin": "Shànghǎi xiǎoqū fùjìn dōu yǒu biànlìdiàn.",
+    "exampleTranslation": "Près des résidences à Shanghai il y a toujours des mini-marchés 24/7.",
+    "hskLevel": 3
+  },
+  {
+    "character": "麻烦",
+    "pinyin": "máfan",
+    "meaning": "Déranger, embêtant",
+    "category": "Politesse",
+    "exampleSentence": "不好意思，麻烦你帮我拿一下包。",
+    "examplePinyin": "Bùhǎoyìsi, máfan nǐ bāng wǒ ná yíxià bāo.",
+    "exampleTranslation": "Désolé de vous déranger, pourriez-vous m'attraper mon sac s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "免费",
+    "pinyin": "miǎnfèi",
+    "meaning": "Gratuit",
+    "category": "Achats & Argent",
+    "exampleSentence": "这个博物馆周末对公众免费开放。",
+    "examplePinyin": "Zhège bówùguǎn zhōumò duì gōngzhòng miǎnfèi kāifàng.",
+    "exampleTranslation": "Ce musée est ouvert gratuitement au public le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "打折",
+    "pinyin": "dǎzhé",
+    "meaning": "Faire une réduction",
+    "category": "Achats & Argent",
+    "exampleSentence": "商场在举办年底打折活动。",
+    "examplePinyin": "Shāngchǎng zài jǔbàn niándǐ dǎzhé huódòng.",
+    "exampleTranslation": "Le centre commercial organise des soldes de fin d'année.",
+    "hskLevel": 3
+  },
+  {
+    "character": "收据",
+    "pinyin": "shōujù",
+    "meaning": "Reçu, ticket de caisse",
+    "category": "Achats & Argent",
+    "exampleSentence": "付款后请保留好发票和收据。",
+    "examplePinyin": "Fùkuǎn hòu qǐng bǎoliú hǎo fāpiào hé shōujù.",
+    "exampleTranslation": "Conservez bien la facture et le reçu après le paiement s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "买单",
+    "pinyin": "mǎidān",
+    "meaning": "Payer l'addition",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "吃完饭后我们叫服务员买单。",
+    "examplePinyin": "Chī wán fàn hòu wǒmen jiào fúwùyuán mǎidān.",
+    "exampleTranslation": "Après le repas nous avons appelé le serveur pour régler l'addition.",
+    "hskLevel": 3
+  },
+  {
+    "character": "味道",
+    "pinyin": "wèidao",
+    "meaning": "Goût, saveur",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "这道红烧肉的味道很正宗。",
+    "examplePinyin": "Zhè dào hóngshāoròu de wèidao hěn zhèngzōng.",
+    "exampleTranslation": "Le goût de ce porc braisé est très authentique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "新鲜",
+    "pinyin": "xīnxiān",
+    "meaning": "Frais",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "菜市场的水果非常新鲜。",
+    "examplePinyin": "Càishìchǎng de shuǐguǒ fēicháng xīnxiān.",
+    "exampleTranslation": "Les fruits du marché sont très frais.",
+    "hskLevel": 3
+  },
+  {
+    "character": "苦",
+    "pinyin": "kǔ",
+    "meaning": "Amer",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "中药的味道虽然苦，但效果好。",
+    "examplePinyin": "Zhōngyào de wèidao suīrán kǔ, dàn xiàoguǒ hǎo.",
+    "exampleTranslation": "Même si le goût de la médecine chinoise est amer, l'effet est bon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "航班",
+    "pinyin": "hángbān",
+    "meaning": "Vol (avion)",
+    "category": "Voyage",
+    "exampleSentence": "飞往巴黎的航班准备起飞了。",
+    "examplePinyin": "Fēi wǎng Bālí de hángbān zhǔnbèi qǐfēi le.",
+    "exampleTranslation": "Le vol à destination de Paris se prépare au décollage.",
+    "hskLevel": 3
+  },
+  {
+    "character": "登机牌",
+    "pinyin": "dēngjīpái",
+    "meaning": "Carte d'embarquement",
+    "category": "Voyage",
+    "exampleSentence": "请出示您的护照和登机牌。",
+    "examplePinyin": "Qǐng chūshì nín de hùzhào hé dēngjīpái.",
+    "exampleTranslation": "Veuillez présenter votre passeport et votre carte d'embarquement s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "导游",
+    "pinyin": "dǎoyóu",
+    "meaning": "Guide touristique",
+    "category": "Voyage",
+    "exampleSentence": "导游带领参观豫园。",
+    "examplePinyin": "Dǎoyóu dàilǐng cānguān Yùyuán.",
+    "exampleTranslation": "Le guide nous emmène visiter le Jardin Yu.",
+    "hskLevel": 3
+  },
+  {
+    "character": "景点",
+    "pinyin": "jǐngdiǎn",
+    "meaning": "Site touristique",
+    "category": "Voyage",
+    "exampleSentence": "外滩是上海最著名的景点之一。",
+    "examplePinyin": "Wàitān shì Shànghǎi zuì zhùmíng de jǐngdiǎn zhī yī.",
+    "exampleTranslation": "Le Bund est l'un des sites touristiques les plus célèbres de Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "路线",
+    "pinyin": "lùxiàn",
+    "meaning": "Itinéraire, ligne",
+    "category": "Transport",
+    "exampleSentence": "手机导航推荐了最快的路线。",
+    "examplePinyin": "Shǒujī dǎoháng tuījiàn le zuì kuài de lùxiàn.",
+    "exampleTranslation": "Le GPS sur mobile a recommandé l'itinéraire le plus rapide.",
+    "hskLevel": 3
+  },
+  {
+    "character": "堵车",
+    "pinyin": "dǔchē",
+    "meaning": "Embouteillage",
+    "category": "Transport",
+    "exampleSentence": "晚高峰高架桥上经常堵车。",
+    "examplePinyin": "Wǎn gāofēng gāojiàqiáo shàng jīngcháng dǔchē.",
+    "exampleTranslation": "Aux heures de pointe du soir, il y a souvent des embouteillages.",
+    "hskLevel": 3
+  },
+  {
+    "character": "加油站",
+    "pinyin": "jiāyóuzhàn",
+    "meaning": "Station-service",
+    "category": "Transport",
+    "exampleSentence": "前面两百米有一个加油站。",
+    "examplePinyin": "Qiánmiàn liǎngbǎi mǐ yǒu yí gè jiāyóuzhàn.",
+    "exampleTranslation": "Il y a une station-service à deux cents mètres devant.",
+    "hskLevel": 3
+  },
+  {
+    "character": "停车",
+    "pinyin": "tíngchē",
+    "meaning": "Garer la voiture",
+    "category": "Transport",
+    "exampleSentence": "商场地下地下停车场停车很方便。",
+    "examplePinyin": "Shāngchǎng dìxià tíngchēchǎng tíngchē hěn fāngbiàn.",
+    "exampleTranslation": "Garer sa voiture dans le parking souterrain du centre commercial est très pratique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "高速公路",
+    "pinyin": "gāosù gōnglù",
+    "meaning": "Autoroute",
+    "category": "Transport",
+    "exampleSentence": "走高速公路开车只要一个小时。",
+    "examplePinyin": "Zǒu gāosù gōnglù kāichē zhǐ yào yí gè xiǎoshí.",
+    "exampleTranslation": "Prendre l'autoroute en voiture ne prend qu'une heure.",
+    "hskLevel": 3
+  },
+  {
+    "character": "迷路",
+    "pinyin": "mílù",
+    "meaning": "Se perdre",
+    "category": "Voyage",
+    "exampleSentence": "在大商场里很容易迷路。",
+    "examplePinyin": "Zài dà shāngchǎng lǐ hěn róngyì mílù.",
+    "exampleTranslation": "C'est très facile de se perdre dans un grand centre commercial.",
+    "hskLevel": 3
+  },
+  {
+    "character": "方向",
+    "pinyin": "fāngxiàng",
+    "meaning": "Direction, orientation",
+    "category": "Voyage",
+    "exampleSentence": "走出地铁站要注意辨别方向。",
+    "examplePinyin": "Zǒu chū dìtiězhàn yào zhùyì biànbié fāngxiàng.",
+    "exampleTranslation": "En sortant du métro, fais attention à bien repérer la direction.",
+    "hskLevel": 3
+  },
+  {
+    "character": "参观",
+    "pinyin": "cānguān",
+    "meaning": "Visiter (un lieu, musée)",
+    "category": "Tourisme",
+    "exampleSentence": "很多游客去参观上海博物馆。",
+    "examplePinyin": "Hěn duō yóukè qù cānguān Shànghǎi Bówùguǎn.",
+    "exampleTranslation": "De nombreux touristes vont visiter le Musée de Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "报名",
+    "pinyin": "bàomíng",
+    "meaning": "S'inscrire",
+    "category": "Études & Pro",
+    "exampleSentence": "我已经报名参加了HSK三级考试。",
+    "examplePinyin": "Wǒ yǐjīng bàomíng cānjiā le HSK sānjí kǎoshì.",
+    "exampleTranslation": "Je me suis déjà inscrit pour passer l'examen HSK Niveau 3.",
+    "hskLevel": 3
+  },
+  {
+    "character": "互联网",
+    "pinyin": "hùliánwǎng",
+    "meaning": "Internet",
+    "category": "Technologie",
+    "exampleSentence": "互联网改变了人们的生活方式。",
+    "examplePinyin": "Hùliánwǎng gǎibiàn le rénmen de shēnghuó fāngshì.",
+    "exampleTranslation": "Internet a changé le mode de vie des gens.",
+    "hskLevel": 3
+  },
+  {
+    "character": "网站",
+    "pinyin": "wǎngzhàn",
+    "meaning": "Site web",
+    "category": "Technologie",
+    "exampleSentence": "公司的官方网站更新了产品介绍。",
+    "examplePinyin": "Gōngsī de guānfāng wǎngzhàn gēngxīn le chǎnpǐn jièshào.",
+    "exampleTranslation": "Le site officiel de l'entreprise a mis à jour la présentation des produits.",
+    "hskLevel": 3
+  },
+  {
+    "character": "软件",
+    "pinyin": "ruǎnjiàn",
+    "meaning": "Logiciel, application",
+    "category": "Technologie",
+    "exampleSentence": "手机上安装办公软件很方便。",
+    "examplePinyin": "Shǒujī shàng ānzhuāng bàngōng ruǎnjiàn hěn fāngbiàn.",
+    "exampleTranslation": "Installer un logiciel bureautique sur son téléphone est très pratique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "密码",
+    "pinyin": "mìmǎ",
+    "meaning": "Mot de passe",
+    "category": "Technologie",
+    "exampleSentence": "请不要向他人泄露你的账号密码。",
+    "examplePinyin": "Qǐng búyào xiàng tārén xièlòu nǐ de zhànghào mìmǎ.",
+    "exampleTranslation": "Ne divulguez pas le mot de passe de votre compte à autrui s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "打印",
+    "pinyin": "dǎyìn",
+    "meaning": "Imprimer",
+    "category": "Bureautique",
+    "exampleSentence": "请把这份合同打印两份出来。",
+    "examplePinyin": "Qǐng bǎ zhè fèn hétong dǎyìn liǎng fèn chūlái.",
+    "exampleTranslation": "Imprime deux exemplaires de ce contrat s'il te plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "传真",
+    "pinyin": "chuánzhēn",
+    "meaning": "Télécopie, faxer",
+    "category": "Bureautique",
+    "exampleSentence": "办公室有一台多功能传真打印机。",
+    "examplePinyin": "Bàngōngshì yǒu yì tái duō gōngnéng chuánzhēn dǎyìnjī.",
+    "exampleTranslation": "Le bureau dispose d'un télécopieur multifonction.",
+    "hskLevel": 3
+  },
+  {
+    "character": "复印",
+    "pinyin": "fùyìn",
+    "meaning": "Photocopier",
+    "category": "Bureautique",
+    "exampleSentence": "去复印室复印几页资料。",
+    "examplePinyin": "Qù fùyìnshì fùyìn jǐ yè zīliào.",
+    "exampleTranslation": "Va à la salle de photocopie pour copier quelques pages de documents.",
+    "hskLevel": 3
+  },
+  {
+    "character": "通知",
+    "pinyin": "tōngzhī",
+    "meaning": "Notifier, avis",
+    "category": "Communication",
+    "exampleSentence": "公司发布了关于春节放假的通知。",
+    "examplePinyin": "Gōngsī fābù le guānyú Chūnjié fàngjià de tōngzhī.",
+    "exampleTranslation": "L'entreprise a publié un avis concernant les congés du Nouvel An chinois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "广播",
+    "pinyin": "guǎngbō",
+    "meaning": "Diffusion, émission de radio",
+    "category": "Médias",
+    "exampleSentence": "车站的广播通知列车延误十分钟。",
+    "examplePinyin": "Chēzhàn de guǎngbō tōngzhī lièchē yányù shí fēnzhōng.",
+    "exampleTranslation": "L'annonce sonore de la gare informe d'un retard du train de dix minutes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "新闻",
+    "pinyin": "xīnwén",
+    "meaning": "Actualités, informations",
+    "category": "Médias",
+    "exampleSentence": "爷爷喜欢每天晚上看新闻联播。",
+    "examplePinyin": "Yéye xǐhuan měitiān wǎnshang kàn xīnwén liánbō.",
+    "exampleTranslation": "Grand-père aime regarder le journal télévisé tous les soirs.",
+    "hskLevel": 3
+  },
+  {
+    "character": "广告",
+    "pinyin": "guǎnggào",
+    "meaning": "Publicité",
+    "category": "Médias",
+    "exampleSentence": "地铁站里随处可见品牌的广告。",
+    "examplePinyin": "Dìtiězhàn lǐ suíchù kějiàn pǐnpái de guǎnggào.",
+    "exampleTranslation": "Dans la station de métro, on voit des publicités de marques partout.",
+    "hskLevel": 3
+  },
+  {
+    "character": "杂志",
+    "pinyin": "zázhì",
+    "meaning": "Magazine, revue",
+    "category": "Médias",
+    "exampleSentence": "在咖啡馆里翻阅时尚杂志。",
+    "examplePinyin": "Zài kāfēiguǎn lǐ fānyuè shíshàng zázhì.",
+    "exampleTranslation": "Feuilleter un magazine de mode au café.",
+    "hskLevel": 3
+  },
+  {
+    "character": "报纸",
+    "pinyin": "bàozhǐ",
+    "meaning": "Journal (papier)",
+    "category": "Médias",
+    "exampleSentence": "以前很多人习惯在早餐时看报纸。",
+    "examplePinyin": "Yǐqián hěn duō rén xíguàn zài zǎocān shí kàn bàozhǐ.",
+    "exampleTranslation": "Autrefois, beaucoup de gens avaient l'habitude de lire le journal au petit-déjeuner.",
+    "hskLevel": 3
+  },
+  {
+    "character": "文章",
+    "pinyin": "wénzhāng",
+    "meaning": "Article, texte",
+    "category": "Médias",
+    "exampleSentence": "这篇关于人工智能的文章写得很好。",
+    "examplePinyin": "Zhè piān guānyú réngōng zhìnéng de wénzhāng xiě de hěn hǎo.",
+    "exampleTranslation": "Cet article sur l'intelligence artificielle est très bien écrit.",
+    "hskLevel": 3
+  },
+  {
+    "character": "作者",
+    "pinyin": "zuòzhě",
+    "meaning": "Auteur, écrivain",
+    "category": "Littérature",
+    "exampleSentence": "著名作者在书店举办签售会。",
+    "examplePinyin": "Zhùmíng zuòzhě zài shūdiàn jǔbàn qiānshòuhuì.",
+    "exampleTranslation": "Un auteur célèbre organise une séance de dédicace en librairie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "翻译",
+    "pinyin": "fānyì",
+    "meaning": "Traduire, traducteur",
+    "category": "Langues",
+    "exampleSentence": "同声翻译在国际会议中起重要作用。",
+    "examplePinyin": "Tóngshēng fānyì zài guójì huìyì zhōng qǐ zhòngyào zuòyòng.",
+    "exampleTranslation": "L'interprétariat simultané joue un rôle important dans les conférences internationales.",
+    "hskLevel": 3
+  },
+  {
+    "character": "专业",
+    "pinyin": "zhuānyè",
+    "meaning": "Spécialité, professionnel",
+    "category": "Études & Pro",
+    "exampleSentence": "他在大学主修国际贸易专业。",
+    "examplePinyin": "Tā zài dàxué zhǔxiū guójì màoyì zhuānyè.",
+    "exampleTranslation": "Il a fait sa spécialité en commerce international à l'université.",
+    "hskLevel": 3
+  },
+  {
+    "character": "知识",
+    "pinyin": "zhīshi",
+    "meaning": "Connaissances, savoir",
+    "category": "Études",
+    "exampleSentence": "阅读能让人增加很多实用知识。",
+    "examplePinyin": "Yuèdú néng ràng rén zēngjiā hěn duō shíyòng zhīshi.",
+    "exampleTranslation": "La lecture permet d'enrichir ses connaissances pratiques.",
+    "hskLevel": 3
+  },
+  {
+    "character": "科学",
+    "pinyin": "kēxué",
+    "meaning": "Science, scientifique",
+    "category": "Sciences",
+    "exampleSentence": "科学技术的发展改变了人类社会。",
+    "examplePinyin": "Kēxué jìshù de fāzhǎn gǎibiàn le rénlèi shèhuì.",
+    "exampleTranslation": "Le développement des sciences et des technologies a transformé la société humaine.",
+    "hskLevel": 3
+  },
+  {
+    "character": "证明",
+    "pinyin": "zhèngmíng",
+    "meaning": "Prouver, attestation, preuve",
+    "category": "Travail",
+    "exampleSentence": "开具在职证明需要人力资源部盖章。",
+    "examplePinyin": "Kāijù zàizhí zhèngmíng xūyào rénlì zīyuán bù gàizhāng.",
+    "exampleTranslation": "Délivrer une attestation d'emploi nécessite le tampon des RH.",
+    "hskLevel": 3
+  },
+  {
+    "character": "签字",
+    "pinyin": "qiānzì",
+    "meaning": "Signer, signature",
+    "category": "Travail",
+    "exampleSentence": "请在文件右下角签字。",
+    "examplePinyin": "Qǐng zài wénjiàn yòuxiàjiǎo qiānzì.",
+    "exampleTranslation": "Signez en bas à droite du document s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "盖章",
+    "pinyin": "gàizhāng",
+    "meaning": "Apposer un tampon",
+    "category": "Travail",
+    "exampleSentence": "合同盖章后正式生效。",
+    "examplePinyin": "Hétong gàizhāng hòu zhèngshì shēngxiào.",
+    "exampleTranslation": "Le contrat prend officiellement effet après apposition du tampon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "组织",
+    "pinyin": "zǔzhī",
+    "meaning": "Organiser, organisation",
+    "category": "Travail",
+    "exampleSentence": "公司组织大家去千岛湖团建。",
+    "examplePinyin": "Gōngsī zǔzhī dàjiā qù Qiāndǎohú tuánjiàn.",
+    "exampleTranslation": "L'entreprise organise un team building au lac des Mille Îles.",
+    "hskLevel": 3
+  },
+  {
+    "character": "计划",
+    "pinyin": "jìhuà",
+    "meaning": "Planifier, projet",
+    "category": "Planification",
+    "exampleSentence": "我们制定了详细的季度计划。",
+    "examplePinyin": "Wǒmen zhìdìng le xiángxì de jìdù jìhuà.",
+    "exampleTranslation": "Nous avons établi un plan trimestriel détaillé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "执行",
+    "pinyin": "zhíxíng",
+    "meaning": "Exécuter, appliquer",
+    "category": "Travail",
+    "exampleSentence": "严格执行安全标准保障施工。",
+    "examplePinyin": "Yángé zhíxíng ānquán biāozhǔn bǎozhàng shīgōng.",
+    "exampleTranslation": "Appliquer strictement les normes de sécurité garantit les travaux.",
+    "hskLevel": 3
+  },
+  {
+    "character": "调节",
+    "pinyin": "tiáojié",
+    "meaning": "Ajuster, réguler",
+    "category": "Corps & Santé",
+    "exampleSentence": "学会调节工作压力对身体好。",
+    "examplePinyin": "Xuéhuì tiáojié gōngzuò yālì duì shēntǐ hǎo.",
+    "exampleTranslation": "Apprendre à réguler le stress au travail est bon pour la santé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "适应",
+    "pinyin": "shìyìng",
+    "meaning": "S'adapter à",
+    "category": "Vie quotidienne",
+    "exampleSentence": "新员工很快适应了环境。",
+    "examplePinyin": "Xīn yuángōng hěn kuài shìyìng le huánjìng.",
+    "exampleTranslation": "Le nouvel employé s'est vite adapté à l'environnement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "获得",
+    "pinyin": "huòdé",
+    "meaning": "Obtenir, acquérir",
+    "category": "Progrès",
+    "exampleSentence": "他在比赛中获得了第一名。",
+    "examplePinyin": "Tā zài bǐsài zhōng huòdé le dì-yī míng.",
+    "exampleTranslation": "Il a obtenu la première place à la compétition.",
+    "hskLevel": 3
+  },
+  {
+    "character": "失去",
+    "pinyin": "shīqù",
+    "meaning": "Perdre",
+    "category": "Sentiment",
+    "exampleSentence": "不要害怕失去，要勇敢尝试。",
+    "examplePinyin": "Búyào hàipà shīqù, yào yǒnggǎn chángshì.",
+    "exampleTranslation": "N'aie pas peur de perdre, essaie avec courage.",
+    "hskLevel": 3
+  },
+  {
+    "character": "提供",
+    "pinyin": "tígōng",
+    "meaning": "Fournir, offrir",
+    "category": "Services",
+    "exampleSentence": "酒店为宾客提供免费早餐。",
+    "examplePinyin": "Jiǔdiàn wèi bīnkè tígōng miǎnfèi zǎocān.",
+    "exampleTranslation": "L'hôtel fournit un petit-déjeuner gratuit aux clients.",
+    "hskLevel": 3
+  },
+  {
+    "character": "保持",
+    "pinyin": "bǎochí",
+    "meaning": "Maintenir, garder",
+    "category": "Vie quotidienne",
+    "exampleSentence": "请保持车厢内的安静。",
+    "examplePinyin": "Qǐng bǎochí chēxiāng nèi de ānjìng.",
+    "exampleTranslation": "Veuillez maintenir le calme dans le wagon s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "改变",
+    "pinyin": "gǎibiàn",
+    "meaning": "Changer, modifier",
+    "category": "Général",
+    "exampleSentence": "科技正在改变我们的出行习惯。",
+    "examplePinyin": "Kējì zhèngzài gǎibiàn wǒmen de chūxíng xíguàn.",
+    "exampleTranslation": "La technologie est en train de modifier nos habitudes de déplacement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "实现",
+    "pinyin": "shíxiàn",
+    "meaning": "Réaliser, concrétiser",
+    "category": "Progrès",
+    "exampleSentence": "通过努力他实现了梦想。",
+    "examplePinyin": "Tōngguò nǔlì tā shíxiàn le mèngxiǎng.",
+    "exampleTranslation": "Grâce à ses efforts, il a réalisé son rêve.",
+    "hskLevel": 3
+  },
+  {
+    "character": "代表",
+    "pinyin": "dàibiǎo",
+    "meaning": "Représenter, délégué",
+    "category": "Travail",
+    "exampleSentence": "他代表公司参加高峰论坛。",
+    "examplePinyin": "Tā dàibiǎo gōngsī cānjiā gāofēng lùntán.",
+    "exampleTranslation": "Il représente l'entreprise au forum d'affaires.",
+    "hskLevel": 3
+  },
+  {
+    "character": "控制",
+    "pinyin": "kòngzhì",
+    "meaning": "Contrôler, maîtriser",
+    "category": "Technologie",
+    "exampleSentence": "用手机远程控制家里智能空调。",
+    "examplePinyin": "Yòng shǒujī yuǎnchéng kòngzhì jiālǐ zhìnéng kōngtiáo.",
+    "exampleTranslation": "Contrôler à distance la clim intelligente de la maison sur smartphone.",
+    "hskLevel": 3
+  },
+  {
+    "character": "增加",
+    "pinyin": "zēngjiā",
+    "meaning": "Augmenter, rajouter",
+    "category": "Achats & Argent",
+    "exampleSentence": "公司今年增加了研发投入。",
+    "examplePinyin": "Gōngsī jīnnián zēngjiā le yánfā tóurù.",
+    "exampleTranslation": "L'entreprise a augmenté ses investissements en R&D cette année.",
+    "hskLevel": 3
+  },
+  {
+    "character": "减少",
+    "pinyin": "jiǎnshǎo",
+    "meaning": "Diminuer, soustraire",
+    "category": "Achats & Argent",
+    "exampleSentence": "使用塑料袋数量明显减少。",
+    "examplePinyin": "Shǐyòng sùliàodài shùliàng míngxiǎn jiǎnshǎo.",
+    "exampleTranslation": "L'utilisation de sacs en plastique a nettement diminué.",
+    "hskLevel": 3
+  },
+  {
+    "character": "同情",
+    "pinyin": "tóngqíng",
+    "meaning": "Compatir, sympathie",
+    "category": "Sentiment",
+    "exampleSentence": "大家都很同情他的遭遇。",
+    "examplePinyin": "Dàjiā dōu hěn tóngqíng tā de zāoyù.",
+    "exampleTranslation": "Tout le monde compatis à ce qui lui est arrivé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "羡慕",
+    "pinyin": "xiànmù",
+    "meaning": "Envier, admirer",
+    "category": "Sentiment",
+    "exampleSentence": "真羡慕你能去中国留学。",
+    "examplePinyin": "Zhēn xiànmù nǐ néng qù Zhōngguó liúxué.",
+    "exampleTranslation": "Je t'envie vraiment de pouvoir aller étudier en Chine.",
+    "hskLevel": 3
+  },
+  {
+    "character": "后悔",
+    "pinyin": "hòuhuǐ",
+    "meaning": "Regretter",
+    "category": "Sentiment",
+    "exampleSentence": "做决定前要想清楚，不要后悔。",
+    "examplePinyin": "Zuò juédìng qián yào xiǎng qīngchu, búyào hòuhuǐ.",
+    "exampleTranslation": "Réfléchis bien avant de décider pour ne pas regretter.",
+    "hskLevel": 3
+  },
+  {
+    "character": "冷淡",
+    "pinyin": "lěngdàn",
+    "meaning": "Froid, indifférent",
+    "category": "Attitude",
+    "exampleSentence": "他对客人的态度有些冷淡。",
+    "examplePinyin": "Tā duì kèrén de tàidu yǒuxiē lěngdàn.",
+    "exampleTranslation": "Son attitude envers les clients était un peu froide.",
+    "hskLevel": 3
+  },
+  {
+    "character": "骄傲",
+    "pinyin": "jiāo'ào",
+    "meaning": "Fier, orgueilleux",
+    "category": "Sentiment",
+    "exampleSentence": "取得成绩也不要骄傲自满。",
+    "examplePinyin": "Qǔdé chéngjì yě búyào jiāo'ào zìmǎn.",
+    "exampleTranslation": "Même après un succès, il ne faut pas devenir orgueilleux.",
+    "hskLevel": 3
+  },
+  {
+    "character": "害羞",
+    "pinyin": "hàixiū",
+    "meaning": "Timide",
+    "category": "Caractère",
+    "exampleSentence": "这孩子害羞，躲在妈妈身后。",
+    "examplePinyin": "Zhè háizi hàixiū, duǒ zài māma shēnhòu.",
+    "exampleTranslation": "Cet enfant est timide, il se cache derrière sa maman.",
+    "hskLevel": 3
+  },
+  {
+    "character": "勇敢",
+    "pinyin": "yǒnggǎn",
+    "meaning": "Courageux",
+    "category": "Caractère",
+    "exampleSentence": "消防员勇敢地冲进火场救人。",
+    "examplePinyin": "Xiāofángyuán yǒnggǎn de chōng jìn huǒchǎng jiùrén.",
+    "exampleTranslation": "Les pompiers se sont courageusement rués dans l'incendie pour sauver des gens.",
+    "hskLevel": 3
+  },
+  {
+    "character": "诚实",
+    "pinyin": "chéngshí",
+    "meaning": "Honnête, sincère",
+    "category": "Caractère",
+    "exampleSentence": "诚实守信是做人的根本。",
+    "examplePinyin": "Chéngshí shǒuxìn shì zuòrén de gēnběn.",
+    "exampleTranslation": "L'honnêteté et le respect de la parole donnée sont les piliers de l'être humain.",
+    "hskLevel": 3
+  },
+  {
+    "character": "幽默",
+    "pinyin": "yōumò",
+    "meaning": "Humoristique, drôle",
+    "category": "Caractère",
+    "exampleSentence": "他讲话风趣幽默，大家都很喜欢他。",
+    "examplePinyin": "Tā jiǎnghuà fēngqù yōumò, dàjiā dōu hěn xǐhuan tā.",
+    "exampleTranslation": "Il parle de façon drôle et humoristique, tout le monde l'apprécie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "热情",
+    "pinyin": "rèqíng",
+    "meaning": "Chaleureux, enthousiaste",
+    "category": "Social",
+    "exampleSentence": "上海人民接待外宾十分热情。",
+    "examplePinyin": "Shànghǎi rénmín jiēdài wàibīn shífēn rèqíng.",
+    "exampleTranslation": "Les habitants de Shanghai accueillent les hôtes étrangers très chaleureusement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "友好",
+    "pinyin": "yǒuhǎo",
+    "meaning": "Amical",
+    "category": "Social",
+    "exampleSentence": "两国建立了友好的外交关系。",
+    "examplePinyin": "Liǎng guó jiànlì le yǒuhǎo de wàijiāo guānxi.",
+    "exampleTranslation": "Les deux pays ont établi des relations diplomatiques amicales.",
+    "hskLevel": 3
+  },
+  {
+    "character": "硬件",
+    "pinyin": "yìngjiàn",
+    "meaning": "Matériel informatique",
+    "category": "Technologie",
+    "exampleSentence": "服务器硬件设施全面升级。",
+    "examplePinyin": "Fúwùqì yìngjiàn shèshī quánmiàn shēngjí.",
+    "exampleTranslation": "Les équipements matériels des serveurs ont été entièrement modernisés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "保证",
+    "pinyin": "bǎozhèng",
+    "meaning": "Garantir, assurance",
+    "category": "Travail",
+    "exampleSentence": "我们保证按质按量完成交付。",
+    "examplePinyin": "Wǒmen bǎozhèng àn zhì àn liàng wánchéng jiāofù.",
+    "exampleTranslation": "Nous garantissons d'effectuer la livraison en qualité et en quantité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "支持",
+    "pinyin": "zhīchí",
+    "meaning": "Soutenir, appui",
+    "category": "Social",
+    "exampleSentence": "大家都很支持这个公益项目。",
+    "examplePinyin": "Dàjiā dōu hěn zhīchí zhège gōngyì xiàngmù.",
+    "exampleTranslation": "Tout le monde soutient vivement ce projet d'intérêt général.",
+    "hskLevel": 3
+  },
+  {
+    "character": "允许",
+    "pinyin": "yǔnxǔ",
+    "meaning": "Autoriser, permettre",
+    "category": "Règlement",
+    "exampleSentence": "车间内严禁吸烟，只在指定区域允许。",
+    "examplePinyin": "Chējiān nèi yánjìn xīyān, zhǐ zài zhǐdìng qūyù yǔnxǔ.",
+    "exampleTranslation": "Interdiction de fumer dans l'atelier, autorisée uniquement en zone dédiée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "禁止",
+    "pinyin": "jìnzhǐ",
+    "meaning": "Interdire, défense de",
+    "category": "Règlement",
+    "exampleSentence": "展厅内禁止使用闪光灯拍照。",
+    "examplePinyin": "Zhǎntīng nèi jìnzhǐ shǐyòng shǎnguāngdēng pāizhào.",
+    "exampleTranslation": "Il est interdit de prendre des photos avec flash dans la salle d'exposition.",
+    "hskLevel": 3
+  },
+  {
+    "character": "符合",
+    "pinyin": "fúhé",
+    "meaning": "Être conforme à",
+    "category": "Norme",
+    "exampleSentence": "产品检测符合卫生要求。",
+    "examplePinyin": "Chǎnpǐn jiǎncè fúhé wèishēng yāoqiú.",
+    "exampleTranslation": "Le contrôle du produit est conforme aux exigences sanitaires.",
+    "hskLevel": 3
+  },
+  {
+    "character": "包含",
+    "pinyin": "bāohán",
+    "meaning": "Contenir, englober",
+    "category": "Général",
+    "exampleSentence": "套餐费用包含住宿和早餐。",
+    "examplePinyin": "Tàocān fèiyong bāohán zhùsù hé zǎocān.",
+    "exampleTranslation": "Le tarif du forfait comprend l'hébergement et le petit-déjeuner.",
+    "hskLevel": 3
+  },
+  {
+    "character": "表达",
+    "pinyin": "biǎodá",
+    "meaning": "Exprimer, formuler",
+    "category": "Communication",
+    "exampleSentence": "用流利的中文表达观点。",
+    "examplePinyin": "Yòng liúlì de zhōngwén biǎodá guāndiǎn.",
+    "exampleTranslation": "Exprimer son point de vue dans un chinois fluide.",
+    "hskLevel": 3
+  },
+  {
+    "character": "赞成",
+    "pinyin": "zànchéng",
+    "meaning": "Approuver, être pour",
+    "category": "Opinion",
+    "exampleSentence": "大家都非常赞成这个方案。",
+    "examplePinyin": "Dàjiā dōu fēicháng zànchéng zhège fāng'àn.",
+    "exampleTranslation": "Tout le monde approuve vivement cette proposition.",
+    "hskLevel": 3
+  },
+  {
+    "character": "放弃",
+    "pinyin": "fàngqì",
+    "meaning": "Abandonner, renoncer",
+    "category": "Attitude",
+    "exampleSentence": "遇到挫折决不轻易放弃。",
+    "examplePinyin": "Yùdào cuòzhé jué bù qīngyì fàngqì.",
+    "exampleTranslation": "Ne jamais abandonner facilement face aux revers.",
+    "hskLevel": 3
+  },
+  {
+    "character": "取得",
+    "pinyin": "qǔdé",
+    "meaning": "Obtenir, remporter",
+    "category": "Progrès",
+    "exampleSentence": "项目取得了突破性进展。",
+    "examplePinyin": "Xiàngmù qǔdé le tūpòxìng jīnzhǎn.",
+    "exampleTranslation": "Le projet a obtenu une avancée décisive.",
+    "hskLevel": 3
+  },
+  {
+    "character": "承认",
+    "pinyin": "chéngrèn",
+    "meaning": "Reconnaître, admettre",
+    "category": "Communication",
+    "exampleSentence": "他勇敢地承认了自己的错误。",
+    "examplePinyin": "Tā yǒnggǎn de chéngrèn le zìjǐ de cuòwù.",
+    "exampleTranslation": "Il a courageusement reconnu son erreur.",
+    "hskLevel": 3
+  },
+  {
+    "character": "重视",
+    "pinyin": "zhòngshì",
+    "meaning": "Accorder de l'importance à",
+    "category": "Attitude",
+    "exampleSentence": "学校十分重视培养创新能力。",
+    "examplePinyin": "Xuéxiào shífēn zhòngshì péiyǎng chuàngxīn nénglì.",
+    "exampleTranslation": "L'école accorde une grande importance au développement des capacités d'innovation.",
+    "hskLevel": 3
+  },
+  {
+    "character": "负责",
+    "pinyin": "fùzé",
+    "meaning": "Responsable, conscient",
+    "category": "Attitude",
+    "exampleSentence": "他对工作一贯严肃负责。",
+    "examplePinyin": "Tā duì gōngzuò yíguàn yánsù fùzé.",
+    "exampleTranslation": "Il est toujours très sérieux et responsable dans son travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "准确",
+    "pinyin": "zhǔanquè",
+    "meaning": "Exact, précis",
+    "category": "Qualité",
+    "exampleSentence": "翻译需要做到准确表达原意。",
+    "examplePinyin": "Fānyì xūyào zuòdào zhǔanquè biǎodá yuányì.",
+    "exampleTranslation": "La traduction nécessite de restituer avec précision le sens original.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合适",
+    "pinyin": "héshì",
+    "meaning": "Approprié, adapté",
+    "category": "Qualité",
+    "exampleSentence": "这件西装穿起来非常合适。",
+    "examplePinyin": "Zhè jiàn xīzhuāng chuān qǐlái fēicháng héshì.",
+    "exampleTranslation": "Ce costume tombe parfaitement bien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "优秀",
+    "pinyin": "yōuxiù",
+    "meaning": "Excellent, brillant",
+    "category": "Qualité",
+    "exampleSentence": "她是公司非常优秀的青年骨干。",
+    "examplePinyin": "Tā shì gōngsī fēicháng yōuxiù de qīngnián gǔgàn.",
+    "exampleTranslation": "Elle est un cadre très brillant au sein de l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "积极",
+    "pinyin": "jījí",
+    "meaning": "Positif, actif",
+    "category": "Attitude",
+    "exampleSentence": "保持积极乐观的心态生活。",
+    "examplePinyin": "Bǎochí jījí lèguān de xīntài shēnghuó.",
+    "exampleTranslation": "Garder un état d'esprit positif et optimiste au quotidien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "消极",
+    "pinyin": "xiāojí",
+    "meaning": "Négatif, passif",
+    "category": "Attitude",
+    "exampleSentence": "面对困难不能消极避让。",
+    "examplePinyin": "Miànduì kùnnan bùnéng xiāojí bìràng.",
+    "exampleTranslation": "Il ne faut pas fuir passivement devant les difficultés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "真实",
+    "pinyin": "zhēnshí",
+    "meaning": "Vrai, authentique",
+    "category": "Qualité",
+    "exampleSentence": "电影改编自真实历史事件。",
+    "examplePinyin": "Diànyǐng gǎibiān zì zhēnshí lìshǐ shìjiàn.",
+    "exampleTranslation": "Le film est adapté d'événements historiques réels.",
+    "hskLevel": 3
+  },
+  {
+    "character": "虚假",
+    "pinyin": "xūjiǎ",
+    "meaning": "Faux, factice",
+    "category": "Qualité",
+    "exampleSentence": "严厉打击网络虚假广告宣传。",
+    "examplePinyin": "Yánlì dǎjī wǎngluò xūjiǎ guǎnggào xuānchuán.",
+    "exampleTranslation": "Lutter sévèrement contre les fausses publicités sur Internet.",
+    "hskLevel": 3
+  },
+  {
+    "character": "紧张",
+    "pinyin": "jǐnzhāng",
+    "meaning": "Tendu, stressé",
+    "category": "Sentiment",
+    "exampleSentence": "上台发言前感到有些紧张。",
+    "examplePinyin": "Shàngtái fāyán qián gǎndào yǒuxiē jǐnzhāng.",
+    "exampleTranslation": "Ressentir un peu de stress avant d'intervenir sur scène.",
+    "hskLevel": 3
+  },
+  {
+    "character": "松弛",
+    "pinyin": "sōngchí",
+    "meaning": "Détendu, relax",
+    "category": "Sentiment",
+    "exampleSentence": "周末在公园散步感到很松弛。",
+    "examplePinyin": "Zhōumò zài gōngyuán sànbù gǎndào hěn sōngchí.",
+    "exampleTranslation": "Se sentir très détendu en se promenant au parc le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "热闹",
+    "pinyin": "rènao",
+    "meaning": "Animé, ambiance vivante",
+    "category": "Cadre de vie",
+    "exampleSentence": "南京东路步行街非常热闹。",
+    "examplePinyin": "Nánjīng Dōnglù bùxíngjiē fēicháng rènao.",
+    "exampleTranslation": "La rue piétonne Nanjing East Road est très animée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "整洁",
+    "pinyin": "zhěngjié",
+    "meaning": "Impeccable, bien rangé",
+    "category": "Cadre de vie",
+    "exampleSentence": "宿舍房间收拾得干净整洁。",
+    "examplePinyin": "Sùshè fángjiān shōushi de gānjìng zhěngjié.",
+    "exampleTranslation": "La chambre de dortoir est bien propre et impeccablement rangée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "杂乱",
+    "pinyin": "záluàn",
+    "meaning": "Désordonné, en pagaille",
+    "category": "Cadre de vie",
+    "exampleSentence": "把杂乱的书桌整理整齐。",
+    "examplePinyin": "Bǎ záluàn de shūzhuō zhěnglǐ zhěngqí.",
+    "exampleTranslation": "Ranger convenablement le bureau en pagaille.",
+    "hskLevel": 3
+  },
+  {
+    "character": "考虑",
+    "pinyin": "kǎolǜ",
+    "meaning": "Réfléchir, considérer",
+    "category": "Pensée",
+    "exampleSentence": "请认真考虑一下这个建议。",
+    "examplePinyin": "Qǐng rènzhēn kǎolǜ yíxià zhège jiànyì.",
+    "exampleTranslation": "Réfléchis sérieusement à cette suggestion s'il te plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "普通",
+    "pinyin": "pǔtōng",
+    "meaning": "Ordinaire, commun",
+    "category": "Général",
+    "exampleSentence": "这是一家普通的上海便利店。",
+    "examplePinyin": "Zhè shì yì jiā pǔtōng de Shànghǎi biànlìdiàn.",
+    "exampleTranslation": "C'est une épicerie de quartier ordinaire à Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "糊涂",
+    "pinyin": "hútu",
+    "meaning": "Confus, étourdi",
+    "category": "Attitude",
+    "exampleSentence": "别做糊涂事，好好想想。",
+    "examplePinyin": "Bié zuò hútu shì, hǎohāo xiǎngxiang.",
+    "exampleTranslation": "Ne fais pas d'étourderie, réfléchis bien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "笨",
+    "pinyin": "bèn",
+    "meaning": "Lourd, benêt",
+    "category": "Caractère",
+    "exampleSentence": "没有人天生就笨，多练就好。",
+    "examplePinyin": "Méiyǒu rén tiānshēng jiù bèn, duō liàn jiù hǎo.",
+    "exampleTranslation": "Personne n'est maladroit de naissance, il suffit d'exercer.",
+    "hskLevel": 3
+  },
+  {
+    "character": "勤奋",
+    "pinyin": "qínfèn",
+    "meaning": "Assidu, travailleurs",
+    "category": "Qualité",
+    "exampleSentence": "勤奋努力是成功的关键。",
+    "examplePinyin": "Qínfèn nǔlì shì chénggōng de guānjiàn.",
+    "exampleTranslation": "L'assiduité et l'effort sont la clé du succès.",
+    "hskLevel": 3
+  },
+  {
+    "character": "懒惰",
+    "pinyin": "lǎnduò",
+    "meaning": "Presseux, fainéant",
+    "category": "Défaut",
+    "exampleSentence": "克服懒惰才能按时完成目标。",
+    "examplePinyin": "Kèfú lǎnduò cái néng ànshí wánchéng mùbiāo.",
+    "exampleTranslation": "Vaincre la paresse permet d'atteindre ses objectifs à temps.",
+    "hskLevel": 3
+  },
+  {
+    "character": "比较",
+    "pinyin": "bǐjiào",
+    "meaning": "Comparer, plutôt",
+    "category": "Adverbe",
+    "exampleSentence": "今天天气比较凉快。",
+    "examplePinyin": "Jīntiān tiānqì bǐjiào liángkuai.",
+    "exampleTranslation": "Il fait plutôt frais aujourd'hui.",
+    "hskLevel": 3
+  },
+  {
+    "character": "变化",
+    "pinyin": "biànhuà",
+    "meaning": "Changement, évoluer",
+    "category": "Vie quotidienne",
+    "exampleSentence": "上海这几年变化很大。",
+    "examplePinyin": "Shànghǎi zhè jǐ nián biànhuà hěn dà.",
+    "exampleTranslation": "Shanghai a beaucoup changé ces dernières années.",
+    "hskLevel": 3
+  },
+  {
+    "character": "表示",
+    "pinyin": "biǎoshì",
+    "meaning": "Exprimer, manifester",
+    "category": "Communication",
+    "exampleSentence": "他向老师表示感谢。",
+    "examplePinyin": "Tā xiàng lǎoshī biǎoshì gǎnxiè.",
+    "exampleTranslation": "Il a exprimé ses remerciements au professeur.",
+    "hskLevel": 3
+  },
+  {
+    "character": "表演",
+    "pinyin": "biǎoyǎn",
+    "meaning": "Jouer, spectacle",
+    "category": "Loisirs",
+    "exampleSentence": "演员在台上表演节目。",
+    "examplePinyin": "Yǎnyuán zài táishàng biǎoyǎn jiémù.",
+    "exampleTranslation": "Les comédiens jouent un spectacle sur scène.",
+    "hskLevel": 3
+  },
+  {
+    "character": "宾馆",
+    "pinyin": "bīnguǎn",
+    "meaning": "Hôtel",
+    "category": "Voyage",
+    "exampleSentence": "我们在外滩附近定了宾馆。",
+    "examplePinyin": "Wǒmen zài Wàitān fùjìn dìng le bīnguǎn.",
+    "exampleTranslation": "Nous avons réservé un hôtel près du Bund.",
+    "hskLevel": 3
+  },
+  {
+    "character": "冰箱",
+    "pinyin": "bīngxiāng",
+    "meaning": "Réfrigérateur",
+    "category": "Équipement",
+    "exampleSentence": "把牛奶放在冰箱里。",
+    "examplePinyin": "Bǎ niúnǎi fàng zài bīngxiāng lǐ.",
+    "exampleTranslation": "Mets le lait au réfrigérateur.",
+    "hskLevel": 3
+  },
+  {
+    "character": "草",
+    "pinyin": "cǎo",
+    "meaning": "Herbe",
+    "category": "Nature",
+    "exampleSentence": "公园的草坪绿油油的。",
+    "examplePinyin": "Gōngyuán de cǎopíng lǜyóuyóu de.",
+    "exampleTranslation": "La pelouse du parc est bien verte.",
+    "hskLevel": 3
+  },
+  {
+    "character": "差",
+    "pinyin": "chà",
+    "meaning": "Médiocre, manquer de",
+    "category": "Évaluation",
+    "exampleSentence": "他的汉语发音并不差。",
+    "examplePinyin": "Tā de hànyǔ fāyīn bìng bù chà.",
+    "exampleTranslation": "Sa prononciation du chinois n'est pas médiocre du tout.",
+    "hskLevel": 3
+  },
+  {
+    "character": "衬衫",
+    "pinyin": "chènshān",
+    "meaning": "Chemise",
+    "category": "Vêtements",
+    "exampleSentence": "面试时穿了一件白衬衫。",
+    "examplePinyin": "Miànshì shí chuān le yí jiàn bái chènshān.",
+    "exampleTranslation": "Il portait une chemise blanche lors de l'entretien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "成绩",
+    "pinyin": "chéngjì",
+    "meaning": "Note, résultat",
+    "category": "Études",
+    "exampleSentence": "他在考试中取得了优异成绩。",
+    "examplePinyin": "Tā zài kǎoshì zhōng qǔdé le yōuyì chéngjì.",
+    "exampleTranslation": "Il a obtenu d'excellents résultats à l'examen.",
+    "hskLevel": 3
+  },
+  {
+    "character": "锻炼",
+    "pinyin": "duànliàn",
+    "meaning": "S'entraîner, faire de l'exercice",
+    "category": "Corps & Santé",
+    "exampleSentence": "每天早晨去公园锻炼身体。",
+    "examplePinyin": "Měitiān zǎochen qù gōngyuán duànliàn shēntǐ.",
+    "exampleTranslation": "Faire de l'exercice au parc tous les matins.",
+    "hskLevel": 3
+  },
+  {
+    "character": "多么",
+    "pinyin": "duōme",
+    "meaning": "Combien, tellement",
+    "category": "Adverbe",
+    "exampleSentence": "这里的夜景多么美丽！",
+    "examplePinyin": "Zhèlǐ de yèjǐng duōme měilì!",
+    "exampleTranslation": "Combien la vue nocturne d'ici est magnifique !",
+    "hskLevel": 3
+  },
+  {
+    "character": "饿",
+    "pinyin": "è",
+    "meaning": "Avoir faim",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "我肚子饿了，去吃晚饭吧。",
+    "examplePinyin": "Wǒ dùzi è le, qù chī wǎnfàn ba.",
+    "exampleTranslation": "J'ai faim, allons dîner.",
+    "hskLevel": 3
+  },
+  {
+    "character": "耳朵",
+    "pinyin": "ěrduo",
+    "meaning": "Oreille",
+    "category": "Corps & Santé",
+    "exampleSentence": "戴上耳机听音乐保护耳朵。",
+    "examplePinyin": "Dài shàng ěrjī tīng yīnyuè bǎohù ěrduo.",
+    "exampleTranslation": "Porter des écouteurs pour écouter de la musique et protéger ses oreilles.",
+    "hskLevel": 3
+  },
+  {
+    "character": "发",
+    "pinyin": "fā",
+    "meaning": "Envoyer, émettre",
+    "category": "Communication",
+    "exampleSentence": "请把资料通过邮件发给我。",
+    "examplePinyin": "Qǐng bǎ zīliào tōngguò yóujiàn fā gěi wǒ.",
+    "exampleTranslation": "Envoyez-moi les documents par e-mail s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "法律",
+    "pinyin": "fǎlǜ",
+    "meaning": "Loi, droit",
+    "category": "Société",
+    "exampleSentence": "每个人都要遵守国家法律。",
+    "examplePinyin": "Měi gè rén dōu yào zūnshǒu guójiā fǎlǜ.",
+    "exampleTranslation": "Chacun doit respecter les lois du pays.",
+    "hskLevel": 3
+  },
+  {
+    "character": "翻",
+    "pinyin": "fān",
+    "meaning": "Tourner, feuilleter",
+    "category": "Général",
+    "exampleSentence": "翻开书本第三十页。",
+    "examplePinyin": "Fān kāi shūběn dì-sānshí yè.",
+    "exampleTranslation": "Ouvrez le livre à la page 30.",
+    "hskLevel": 3
+  },
+  {
+    "character": "方法",
+    "pinyin": "fāngfǎ",
+    "meaning": "Méthode, moyen",
+    "category": "Études",
+    "exampleSentence": "掌握好的学习方法效率更高。",
+    "examplePinyin": "Zhǎowò hǎo de xuéxí fāngfǎ xiàolǜ gèng gāo.",
+    "exampleTranslation": "Maîtriser une bonne méthode d'apprentissage est plus efficace.",
+    "hskLevel": 3
+  },
+  {
+    "character": "方面",
+    "pinyin": "fāngmiàn",
+    "meaning": "Domaine, aspect",
+    "category": "Général",
+    "exampleSentence": "他在各方面表现都很优秀。",
+    "examplePinyin": "Tā zài gè fāngmiàn biǎoxiàn dōu hěn yōuxiù.",
+    "exampleTranslation": "Il excelle dans tous les domaines.",
+    "hskLevel": 3
+  },
+  {
+    "character": "放心",
+    "pinyin": "fàngxīn",
+    "meaning": "Rassurer, être tranquille",
+    "category": "Sentiment",
+    "exampleSentence": "请放心，事情已经办好了。",
+    "examplePinyin": "Qǐng fàngxīn, shìqing yǐjīng bàn hǎo le.",
+    "exampleTranslation": "Rassurez-vous, l'affaire est déjà réglée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "份",
+    "pinyin": "fèn",
+    "meaning": "Part, exemplaire",
+    "category": "Classificateurs",
+    "exampleSentence": "请给我准备一份一份文件。",
+    "examplePinyin": "Qǐng gěi wǒ zhǔnbèi yí fèn wénjiàn.",
+    "exampleTranslation": "Préparez-moi un exemplaire du document s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "丰富",
+    "pinyin": "fēngfù",
+    "meaning": "Riche, abondant",
+    "category": "Qualité",
+    "exampleSentence": "上海的夜生活非常丰富。",
+    "examplePinyin": "Shànghǎi de yèshēnghuó fēicháng fēngfù.",
+    "exampleTranslation": "La vie nocturne à Shanghai est très riche.",
+    "hskLevel": 3
+  },
+  {
+    "character": "风趣",
+    "pinyin": "fēngqù",
+    "meaning": "Drôle, plein d'esprit",
+    "category": "Caractère",
+    "exampleSentence": "他是一个风趣幽默的人。",
+    "examplePinyin": "Tā shì yí gè fēngqù yōumò de rén.",
+    "exampleTranslation": "C'est une personne drôle et pleine d'esprit.",
+    "hskLevel": 3
+  },
+  {
+    "character": "感",
+    "pinyin": "gǎn",
+    "meaning": "Sentiment, sensation",
+    "category": "Général",
+    "exampleSentence": "他对这份工作有责任感。",
+    "examplePinyin": "Tā duì zhè fèn gōngzuò yǒu zérèngǎn.",
+    "exampleTranslation": "Il a le sens des responsabilités pour ce travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "感情",
+    "pinyin": "gǎnqíng",
+    "meaning": "Sentiment, affection",
+    "category": "Sentiment",
+    "exampleSentence": "他们夫妻之间的感情很好。",
+    "examplePinyin": "Tāmen fūqī zhījiān de gǎnqíng hěn hǎo.",
+    "exampleTranslation": "L'affection entre eux deux en tant qu'époux est très profonde.",
+    "hskLevel": 3
+  },
+  {
+    "character": "感谢",
+    "pinyin": "gǎnxiè",
+    "meaning": "Remercier",
+    "category": "Politesse",
+    "exampleSentence": "非常感谢大家的支持。",
+    "examplePinyin": "Fēicháng gǎnxiè dàjiā de zhīchí.",
+    "exampleTranslation": "Merci beaucoup pour le soutien de chacun.",
+    "hskLevel": 3
+  },
+  {
+    "character": "干劲",
+    "pinyin": "gànjìn",
+    "meaning": "Enthousiasme au travail",
+    "category": "Attitude",
+    "exampleSentence": "年轻人干劲十足。",
+    "examplePinyin": "Niánqīngrén gànjìn shízú.",
+    "exampleTranslation": "Les jeunes sont débordants d'enthousiasme au travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "高级",
+    "pinyin": "gāojí",
+    "meaning": "Haut de gamme, avancé",
+    "category": "Qualité",
+    "exampleSentence": "入住外滩的一家高级酒店。",
+    "examplePinyin": "Rùzhù Wàitān de yì jiā gāojí jiǔdiàn.",
+    "exampleTranslation": "Séjourner dans un hôtel haut de gamme sur le Bund.",
+    "hskLevel": 3
+  },
+  {
+    "character": "高度",
+    "pinyin": "gāodù",
+    "meaning": "Hauteur, très haut degré",
+    "category": "Mesure",
+    "exampleSentence": "大家高度评价了这个方案。",
+    "examplePinyin": "Dàjiā gāodù píngjià le zhège fāng'àn.",
+    "exampleTranslation": "Tout le monde a hautement apprécié cette proposition.",
+    "hskLevel": 3
+  },
+  {
+    "character": "各个",
+    "pinyin": "gègè",
+    "meaning": "Chacun, tous les",
+    "category": "Pronoms",
+    "exampleSentence": "各个部门都在准备年终总结。",
+    "examplePinyin": "Gègè bùmén dōu zài zhǔnbèi niándǐ zǒngjié.",
+    "exampleTranslation": "Tous les services préparent le bilan de fin d'année.",
+    "hskLevel": 3
+  },
+  {
+    "character": "个人",
+    "pinyin": "gèrén",
+    "meaning": "Individu, personnel",
+    "category": "Général",
+    "exampleSentence": "请保护好个人隐私信息。",
+    "examplePinyin": "Qǐng bǎohù hǎo gèrén yǐnsī xìnxī.",
+    "exampleTranslation": "Protégez bien vos informations personnelles privées s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "个性",
+    "pinyin": "gèxìng",
+    "meaning": "Personnalité, caractère",
+    "category": "Caractère",
+    "exampleSentence": "她是一个极具个性的设计师。",
+    "examplePinyin": "Tā shì yí gè jí jù gèxìng de shèjìshī.",
+    "exampleTranslation": "Elle est une designer à la personnalité très marquée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "各样",
+    "pinyin": "gèyàng",
+    "meaning": "Toutes sortes de",
+    "category": "Général",
+    "exampleSentence": "超市里有各样的进口水果。",
+    "examplePinyin": "Chāoshì lǐ yǒu gèyàng de jìnkǒu shuǐguǒ.",
+    "exampleTranslation": "Au supermarché, il y a toutes sortes de fruits importés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "给以",
+    "pinyin": "gěiyǐ",
+    "meaning": "Accorder, donner",
+    "category": "Social",
+    "exampleSentence": "希望领导能给以帮助。",
+    "examplePinyin": "Xīwàng lǐngdǎo néng gěiyǐ bāngzhù.",
+    "exampleTranslation": "J'espère que les dirigeants pourront nous accorder de l'aide.",
+    "hskLevel": 3
+  },
+  {
+    "character": "根",
+    "pinyin": "gēn",
+    "meaning": "Racine, tige (classificateur)",
+    "category": "Classificateurs",
+    "exampleSentence": "买了一根新鲜的香蕉。",
+    "examplePinyin": "Mǎi le yì gēn xīnxiān de xiāngjiāo.",
+    "exampleTranslation": "J'ai acheté une banane fraîche.",
+    "hskLevel": 3
+  },
+  {
+    "character": "更加",
+    "pinyin": "gèngjiā",
+    "meaning": "Encore plus",
+    "category": "Adverbe",
+    "exampleSentence": "努力会让未来更加美好。",
+    "examplePinyin": "Nǔlì huì ràng wèi lái gèngjiā měihǎo.",
+    "exampleTranslation": "L'effort rendra l'avenir encore plus beau.",
+    "hskLevel": 3
+  },
+  {
+    "character": "工具",
+    "pinyin": "gōngjù",
+    "meaning": "Outil",
+    "category": "Objets",
+    "exampleSentence": "手机是日常必备的沟通工具。",
+    "examplePinyin": "Shǒujī shì rìcháng bìbèi de gōutōng gōngjù.",
+    "exampleTranslation": "Le téléphone portable est un outil de communication quotidien indispensable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "工作量",
+    "pinyin": "gōngzuòliàng",
+    "meaning": "Charge de travail",
+    "category": "Travail",
+    "exampleSentence": "本月团队的工作量非常大。",
+    "examplePinyin": "Běn yuè tuánduì de gōngzuòliàng fēicháng dà.",
+    "exampleTranslation": "La charge de travail de l'équipe ce mois-ci est très lourde.",
+    "hskLevel": 3
+  },
+  {
+    "character": "公共",
+    "pinyin": "gōnggòng",
+    "meaning": "Public",
+    "category": "Société",
+    "exampleSentence": "请乘坐公共交通出行。",
+    "examplePinyin": "Qǐng chéngzuò gōnggòng jiāotōng chūxíng.",
+    "exampleTranslation": "Prenez les transports publics s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "够",
+    "pinyin": "gòu",
+    "meaning": "Suffisant, assez",
+    "category": "Quantité",
+    "exampleSentence": "准备的食物足够大家吃了。",
+    "examplePinyin": "Zhǔnbèi de shíwù zúgòu dàjiā chī le.",
+    "exampleTranslation": "La nourriture préparée est amplement suffisante pour tout le monde.",
+    "hskLevel": 3
+  },
+  {
+    "character": "故事",
+    "pinyin": "gùshi",
+    "meaning": "Histoire, conte",
+    "category": "Culture",
+    "exampleSentence": "给小朋友讲老上海的故事。",
+    "examplePinyin": "Gěi xiǎopéngyou jiǎng Lǎo Shànghǎi de gùshi.",
+    "exampleTranslation": "Raconter l'histoire du Vieux Shanghai aux enfants.",
+    "hskLevel": 3
+  },
+  {
+    "character": "关怀",
+    "pinyin": "guānhuái",
+    "meaning": "Sollicitude, attention",
+    "category": "Sentiment",
+    "exampleSentence": "公司给员工提供了人文关怀。",
+    "examplePinyin": "Gōngsī gěi yuángōng tígōng le rénwén guānhuái.",
+    "exampleTranslation": "L'entreprise fait preuve de sollicitude humaine envers ses employés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "观察",
+    "pinyin": "guānchá",
+    "meaning": "Observer, observation",
+    "category": "Sciences",
+    "exampleSentence": "仔细观察实验现象并记录。",
+    "examplePinyin": "Zǐxì guānchá shíyàn xiànxiàng bìng jìlù.",
+    "exampleTranslation": "Observer attentivement le phénomène expérimental et prendre des notes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "观点",
+    "pinyin": "guāndiǎn",
+    "meaning": "Point de vue, opinion",
+    "category": "Opinion",
+    "exampleSentence": "大家在会上发表了不同的观点。",
+    "examplePinyin": "Dàjiā zài huì shàng fābiǎo le bùtóng de guāndiǎn.",
+    "exampleTranslation": "Tout le monde a exprimé des points de vue différents lors de la réunion.",
+    "hskLevel": 3
+  },
+  {
+    "character": "关键",
+    "pinyin": "guānjiàn",
+    "meaning": "Clé, crucial",
+    "category": "Travail",
+    "exampleSentence": "把握解决问题的关键点。",
+    "examplePinyin": "Bǎwò jiějué wèntí de guānjiàndiǎn.",
+    "exampleTranslation": "Saisir le point clé de la résolution du problème.",
+    "hskLevel": 3
+  },
+  {
+    "character": "关注",
+    "pinyin": "guānzhù",
+    "meaning": "Suivre avec attention",
+    "category": "Communication",
+    "exampleSentence": "关注官方微信公众号信息。",
+    "examplePinyin": "Guānzhù guānfāng Wēixìn gōngzhònghào xìnxī.",
+    "exampleTranslation": "Suivre les infos du compte officiel WeChat.",
+    "hskLevel": 3
+  },
+  {
+    "character": "规定",
+    "pinyin": "guīdìng",
+    "meaning": "Règle, stipuler",
+    "category": "Société",
+    "exampleSentence": "严格遵守公共场所消防规定。",
+    "examplePinyin": "Yángé zūnshǒu gōnggòng chǎngsuǒ xiāofáng guīdìng.",
+    "exampleTranslation": "Respecter strictement les consignes incendie des lieux publics.",
+    "hskLevel": 3
+  },
+  {
+    "character": "国际",
+    "pinyin": "guójì",
+    "meaning": "International",
+    "category": "Société",
+    "exampleSentence": "上海举办国际艺术展览。",
+    "examplePinyin": "Shànghǎi jǔbàn guójì yìshù zhǎnlǎn.",
+    "exampleTranslation": "Shanghai accueille une exposition d'art internationale.",
+    "hskLevel": 3
+  },
+  {
+    "character": "国家",
+    "pinyin": "guójiā",
+    "meaning": "Pays, nation",
+    "category": "Société",
+    "exampleSentence": "保护国家的文化遗产。",
+    "examplePinyin": "Bǎohù guójiā de wénhuà yíchǎn.",
+    "exampleTranslation": "Protéger le patrimoine culturel du pays.",
+    "hskLevel": 3
+  },
+  {
+    "character": "过程",
+    "pinyin": "guòchéng",
+    "meaning": "Processus, déroulement",
+    "category": "Général",
+    "exampleSentence": "享受学习中文的过程。",
+    "examplePinyin": "Xiǎngshòu xuéxí zhōngwén de guòchéng.",
+    "exampleTranslation": "Apprécier le processus d'apprentissage du chinois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "过去",
+    "pinyin": "guòqù",
+    "meaning": "Passé, autrefois",
+    "category": "Temps",
+    "exampleSentence": "事情已经过去了，向前看。",
+    "examplePinyin": "Shìqing yǐjīng guòqù le, xiàng qián kàn.",
+    "exampleTranslation": "C'est de l'histoire ancienne, regarde devant.",
+    "hskLevel": 3
+  },
+  {
+    "character": "海关",
+    "pinyin": "hǎiguān",
+    "meaning": "Douane",
+    "category": "Voyage",
+    "exampleSentence": "在浦东机场顺利通关过海关。",
+    "examplePinyin": "Zài Pǔdōng jīchǎng shùnlì tōngguān guò hǎiguān.",
+    "exampleTranslation": "Passer la douane sans encombre à l'aéroport de Pudong.",
+    "hskLevel": 3
+  },
+  {
+    "character": "海鲜",
+    "pinyin": "hǎixiān",
+    "meaning": "Fruits de mer",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "上海的蒸大闸蟹是非常好吃的海鲜。",
+    "examplePinyin": "Shànghǎi de zhēng dàzháxiè shì fēicháng hǎochī de hǎixiān.",
+    "exampleTranslation": "Les crabes de Shanghai à la vapeur sont de délicieux fruits de mer.",
+    "hskLevel": 3
+  },
+  {
+    "character": "害怕",
+    "pinyin": "hàipà",
+    "meaning": "Avoir peur",
+    "category": "Sentiment",
+    "exampleSentence": "不用害怕，我们陪着你。",
+    "examplePinyin": "Búyòng hàipà, wǒmen péi zhe nǐ.",
+    "exampleTranslation": "N'aie pas peur, nous sommes avec toi.",
+    "hskLevel": 3
+  },
+  {
+    "character": "寒假",
+    "pinyin": "hánjià",
+    "meaning": "Vacances d'hiver",
+    "category": "Études",
+    "exampleSentence": "寒假准备去哈尔滨看冰灯。",
+    "examplePinyin": "Hánjià zhǔnbèi qù Hā'ěrbīn kàn bīngdēng.",
+    "exampleTranslation": "Pendant les vacances d'hiver, je compte aller voir les lanternes de glace à Harbin.",
+    "hskLevel": 3
+  },
+  {
+    "character": "汗",
+    "pinyin": "hàn",
+    "meaning": "Sueur, transpirer",
+    "category": "Corps & Santé",
+    "exampleSentence": "运动后流了很多汗。",
+    "examplePinyin": "Yùndòng hòu liú le hěn duō hàn.",
+    "exampleTranslation": "Transpirer beaucoup après le sport.",
+    "hskLevel": 3
+  },
+  {
+    "character": "行业",
+    "pinyin": "hángyè",
+    "meaning": "Secteur d'activité, industrie",
+    "category": "Travail",
+    "exampleSentence": "互联网行业发展迅速。",
+    "examplePinyin": "Hùliánwǎng hángyè fāzhǎn xùnsù.",
+    "exampleTranslation": "Le secteur d'Internet se développe rapidement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "好听",
+    "pinyin": "hǎotīng",
+    "meaning": "Agréable à entendre",
+    "category": "Musique",
+    "exampleSentence": "这首江南民歌非常好听。",
+    "examplePinyin": "Zhè shǒu Jiāngnán míngē fēicháng hǎotīng.",
+    "exampleTranslation": "Cette chanson folklorique du Jiangnan est très agréable à écouter.",
+    "hskLevel": 3
+  },
+  {
+    "character": "好好",
+    "pinyin": "hǎohāo",
+    "meaning": "Bien, convenablement",
+    "category": "Adverbe",
+    "exampleSentence": "周末好好休息一下。",
+    "examplePinyin": "Zhōumò hǎohāo xiūxi yíxià.",
+    "exampleTranslation": "Repose-toi bien ce week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合影",
+    "pinyin": "héyǐng",
+    "meaning": "Photo de groupe",
+    "category": "Loisirs",
+    "exampleSentence": "大家在东方明珠前合影留念。",
+    "examplePinyin": "Dàjiā zài Dōngfāngmíngzhū qián héyǐng liúniàn.",
+    "exampleTranslation": "Tout le monde prend une photo de groupe devant la Perle de l'Orient en souvenir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合格",
+    "pinyin": "hégé",
+    "meaning": "Conforme, qualifié",
+    "category": "Norme",
+    "exampleSentence": "产品通过了合格检测。",
+    "examplePinyin": "Chǎnpǐn tōngguò le hégé jiǎncè.",
+    "exampleTranslation": "Le produit a passé les tests de conformité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "合理",
+    "pinyin": "hélǐ",
+    "meaning": "Raisonné, logique",
+    "category": "Qualité",
+    "exampleSentence": "制定合理的培训计划。",
+    "examplePinyin": "Zhìdìng hélǐ de péixùn jìhuà.",
+    "exampleTranslation": "Établir un programme de formation raisonné.",
+    "hskLevel": 3
+  },
+  {
+    "character": "盒",
+    "pinyin": "hé",
+    "meaning": "Boîte (classificateur)",
+    "category": "Classificateurs",
+    "exampleSentence": "买了一盒茶叶送给朋友。",
+    "examplePinyin": "Mǎi le yì hé cháyè sòng gěi péngyou.",
+    "exampleTranslation": "J'ai acheté une boîte de thé pour l'offrir à un ami.",
+    "hskLevel": 3
+  },
+  {
+    "character": "盒子",
+    "pinyin": "hézi",
+    "meaning": "Petite boîte, coffret",
+    "category": "Objets",
+    "exampleSentence": "将饰品放在包装盒子里面。",
+    "examplePinyin": "Jiāng shìpǐn fàng zài bāozhuāng hézi lǐmiàn.",
+    "exampleTranslation": "Placer le bijou à l'intérieur du coffret emballé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "黑板",
+    "pinyin": "hēibǎn",
+    "meaning": "Tableau noir",
+    "category": "Études",
+    "exampleSentence": "老师在黑板上写下汉字。",
+    "examplePinyin": "Lǎoshī zài hēibǎn shàng xiě xià hànzì.",
+    "exampleTranslation": "Le professeur a écrit des caractères chinois au tableau.",
+    "hskLevel": 3
+  },
+  {
+    "character": "红茶",
+    "pinyin": "hóngchá",
+    "meaning": "Thé noir",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "下午喝一杯红茶暖胃。",
+    "examplePinyin": "Xiàwǔ hē yì bēi hóngchá nuǎnwèi.",
+    "exampleTranslation": "Boire une tasse de thé noir l'après-midi pour se réchauffer l'estomac.",
+    "hskLevel": 3
+  },
+  {
+    "character": "互相",
+    "pinyin": "hùxiāng",
+    "meaning": "Mutuellement, réciproquement",
+    "category": "Social",
+    "exampleSentence": "同事之间互相帮助。",
+    "examplePinyin": "Tóngshì zhījiān hùxiāng bāngzhù.",
+    "exampleTranslation": "Les collègues s'entraident mutuellement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "花园",
+    "pinyin": "huāyuán",
+    "meaning": "Jardin",
+    "category": "Lieux",
+    "exampleSentence": "小区里有一个精致的小花园。",
+    "examplePinyin": "Xiǎoqū lǐ yǒu yí gè jīngzhì de xiǎo huāyuán.",
+    "exampleTranslation": "Il y a un joli petit jardin dans la résidence.",
+    "hskLevel": 3
+  },
+  {
+    "character": "画",
+    "pinyin": "huà",
+    "meaning": "Peindre, dessin",
+    "category": "Art",
+    "exampleSentence": "他喜欢在周末画国画。",
+    "examplePinyin": "Tā xǐhuan zài zhōumò huà guóhuà.",
+    "exampleTranslation": "Il aime peindre à l'encre de Chine le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "画家",
+    "pinyin": "huàjiā",
+    "meaning": "Peintre, artiste",
+    "category": "Art",
+    "exampleSentence": "著名画家在画廊展出作品。",
+    "examplePinyin": "Zhùmíng huàjiā zài huàláng zhǎnchū zuòpǐn.",
+    "exampleTranslation": "Le peintre renommé expose ses œuvres dans la galerie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "画儿",
+    "pinyin": "huàr",
+    "meaning": "Image, peinture",
+    "category": "Art",
+    "exampleSentence": "墙上挂着一幅名画儿。",
+    "examplePinyin": "Qiáng shàng guà zhe yì fú mínghuàr.",
+    "exampleTranslation": "Une peinture célèbre est accrochée au mur.",
+    "hskLevel": 3
+  },
+  {
+    "character": "黄瓜",
+    "pinyin": "huángguā",
+    "meaning": "Concombre",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "凉拌黄瓜是清爽的凉菜。",
+    "examplePinyin": "Liángbàn huángguā shì qīngshuǎng de liángcài.",
+    "exampleTranslation": "Le concombre frappé est une entrée rafraîchissante.",
+    "hskLevel": 3
+  },
+  {
+    "character": "黄金",
+    "pinyin": "huángjīn",
+    "meaning": "Or",
+    "category": "Achats & Argent",
+    "exampleSentence": "黄金周假期很多人旅游。",
+    "examplePinyin": "Huángjīnzhōu jiàqī hěn duō rén lǚyóu.",
+    "exampleTranslation": "Beaucoup de gens voyagent pendant la Semaine d'Or.",
+    "hskLevel": 3
+  },
+  {
+    "character": "皇帝",
+    "pinyin": "huángdì",
+    "meaning": "Empereur",
+    "category": "Histoire",
+    "exampleSentence": "参观故宫了解皇帝的历史。",
+    "examplePinyin": "Cānguān Gùgōng liǎojiě huángdì de lìshǐ.",
+    "exampleTranslation": "Visiter la Cité Interdite pour découvrir l'histoire des empereurs.",
+    "hskLevel": 3
+  },
+  {
+    "character": "恢复",
+    "pinyin": "huīfù",
+    "meaning": "Se rétablir, restaurer",
+    "category": "Corps & Santé",
+    "exampleSentence": "身体恢复得很好。",
+    "examplePinyin": "Shēntǐ huīfù de hěn hǎo.",
+    "exampleTranslation": "La santé s'est très bien rétablie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "灰心",
+    "pinyin": "huīxīn",
+    "meaning": "Se décourager",
+    "category": "Attitude",
+    "exampleSentence": "遇到失败不要灰心。",
+    "examplePinyin": "Yùdào shībài búyào huīxīn.",
+    "exampleTranslation": "Ne te décourage pas face à l'échec.",
+    "hskLevel": 3
+  },
+  {
+    "character": "会话",
+    "pinyin": "huìhuà",
+    "meaning": "Conversation, dialogue",
+    "category": "Langues",
+    "exampleSentence": "练习日常中文口语会话。",
+    "examplePinyin": "Liànxí rìcháng zhōngwén kǒuyǔ huìhuà.",
+    "exampleTranslation": "S'entraîner aux dialogues de conversation chinoise au quotidien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "会员",
+    "pinyin": "huìyuán",
+    "meaning": "Membre, adhérent",
+    "category": "Achats & Argent",
+    "exampleSentence": "办理超市会员享受打折优惠。",
+    "examplePinyin": "Bànlǐ chāoshì huìyuán xiǎngshòu dǎzhé yōuhuì.",
+    "exampleTranslation": "Devenir membre du supermarché pour bénéficier de réductions.",
+    "hskLevel": 3
+  },
+  {
+    "character": "活动",
+    "pinyin": "huódòng",
+    "meaning": "Activité, événement",
+    "category": "Social",
+    "exampleSentence": "周末参加社区文化活动。",
+    "examplePinyin": "Zhōumò cānjiā shèqū wénhuà huódòng.",
+    "exampleTranslation": "Participer à des activités culturelles du quartier le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "活泼",
+    "pinyin": "huópo",
+    "meaning": "Vif, dynamique",
+    "category": "Caractère",
+    "exampleSentence": "这群小学生性格活泼开朗。",
+    "examplePinyin": "Zhè qún xiǎoxuéshēng xìnggé huópo kāilǎng.",
+    "exampleTranslation": "Ce groupe d'écoliers est dynamique et très ouvert.",
+    "hskLevel": 3
+  },
+  {
+    "character": "火柴",
+    "pinyin": "huǒchái",
+    "meaning": "Allumette",
+    "category": "Objets",
+    "exampleSentence": "用火柴点燃蜡烛。",
+    "examplePinyin": "Yòng huǒchái diǎnrán làzhú.",
+    "exampleTranslation": "Allumer la bougie avec une allumette.",
+    "hskLevel": 3
+  },
+  {
+    "character": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "Gare ferroviaire",
+    "category": "Transport",
+    "exampleSentence": "上海虹桥火车站是交通枢纽。",
+    "examplePinyin": "Shànghǎi Hóngqiáo huǒchēzhàn shì jiāotōng shūniǔ.",
+    "exampleTranslation": "La gare de Shanghai Hongqiao est un nœud de transports.",
+    "hskLevel": 3
+  },
+  {
+    "character": "机器",
+    "pinyin": "jīqì",
+    "meaning": "Machine, appareil",
+    "category": "Technologie",
+    "exampleSentence": "车间引进自动机器提升效率。",
+    "examplePinyin": "Chējiān yǐnjìn zìdòng jīqì tíshēng xiàolǜ.",
+    "exampleTranslation": "L'atelier a introduit des machines automatiques pour gagner en efficacité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "积累",
+    "pinyin": "jīlěi",
+    "meaning": "Accumuler, expérience",
+    "category": "Progrès",
+    "exampleSentence": "在工作中不断积累专业经验。",
+    "examplePinyin": "Zài gōngzuò zhōng búduàn jīlěi zhuānyè jīngyàn.",
+    "exampleTranslation": "Accumuler sans cesse de l'expérience professionnelle au travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "基本",
+    "pinyin": "jīběn",
+    "meaning": "Fondamental, de base",
+    "category": "Général",
+    "exampleSentence": "掌握汉语的基本语法和发音。",
+    "examplePinyin": "Zhǎowò hànyǔ de jīběn yǔfǎ hé fāyīn.",
+    "exampleTranslation": "Maîtriser la grammaire de base et la prononciation du chinois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "基础",
+    "pinyin": "jīchǔ",
+    "meaning": "Base, fondation",
+    "category": "Études",
+    "exampleSentence": "打好良好的语言基础。",
+    "examplePinyin": "Dǎ hǎo liánghǎo de yǔyán jīchǔ.",
+    "exampleTranslation": "Se poser de très bonnes fondations linguistiques.",
+    "hskLevel": 3
+  },
+  {
+    "character": "激动",
+    "pinyin": "jīdòng",
+    "meaning": "Ému, passionné",
+    "category": "Sentiment",
+    "exampleSentence": "听到通过考试的消息非常激动。",
+    "examplePinyin": "Tīngdào tōngguò kǎoshì de xiāoxi fēicháng jīdòng.",
+    "exampleTranslation": "Être très ému en apprenant la nouvelle de la réussite à l'examen.",
+    "hskLevel": 3
+  },
+  {
+    "character": "及时",
+    "pinyin": "jíshí",
+    "meaning": "À temps, en temps opportun",
+    "category": "Travail",
+    "exampleSentence": "及时回复客户发来的邮件。",
+    "examplePinyin": "Jíshí huífù kèhù fā lái de yóujiàn.",
+    "exampleTranslation": "Répondre à temps aux e-mails envoyés par les clients.",
+    "hskLevel": 3
+  },
+  {
+    "character": "极",
+    "pinyin": "jí",
+    "meaning": "Extrêmement, au plus haut point",
+    "category": "Adverbe",
+    "exampleSentence": "这个小吃味道极好。",
+    "examplePinyin": "Zhège xiǎochī wèidao jí hǎo.",
+    "exampleTranslation": "Ce snack a un goût extrêmement bon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "极其",
+    "pinyin": "jíqí",
+    "meaning": "Extrêmement",
+    "category": "Adverbe",
+    "exampleSentence": "处理涉密文件需要极其慎重。",
+    "examplePinyin": "Chǔlǐ shèmì wénjiàn xūyào jíqí shènzhòng.",
+    "exampleTranslation": "Traiter les documents confidentiels nécessite une prudence extrême.",
+    "hskLevel": 3
+  },
+  {
+    "character": "集合",
+    "pinyin": "jíhé",
+    "meaning": "Rasserbler, rassemblement",
+    "category": "Social",
+    "exampleSentence": "明天早晨七点在大门口集合。",
+    "examplePinyin": "Míngtiān zǎochen qī diǎn zài dàménkǒu jíhé.",
+    "exampleTranslation": "Se rassembler à 7h demain matin devant la grande porte.",
+    "hskLevel": 3
+  },
+  {
+    "character": "记者",
+    "pinyin": "jìzhě",
+    "meaning": "Journaliste",
+    "category": "Professions",
+    "exampleSentence": "新闻记者现场报道赛事。",
+    "examplePinyin": "Xīnwén jìzhě xiànchǎng bàodào sàishì.",
+    "exampleTranslation": "Le journaliste reporte l'événement sportif en direct sur place.",
+    "hskLevel": 3
+  },
+  {
+    "character": "继续",
+    "pinyin": "jìxù",
+    "meaning": "Continuer, poursuivre",
+    "category": "Action",
+    "exampleSentence": "继续努力提高汉语水平。",
+    "examplePinyin": "Jìxù nǔlì tígāo hànyǔ shuǐpíng.",
+    "exampleTranslation": "Continuer d'étudier avec effort pour améliorer son niveau de chinois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "寄",
+    "pinyin": "jì",
+    "meaning": "Poster, envoyer",
+    "category": "Poste",
+    "exampleSentence": "去邮局寄一封信。",
+    "examplePinyin": "Qù yóujú jì yì fēng xìn.",
+    "exampleTranslation": "Aller à la poste envoyer une lettre.",
+    "hskLevel": 3
+  },
+  {
+    "character": "加",
+    "pinyin": "jiā",
+    "meaning": "Ajouter, plus",
+    "category": "Maths",
+    "exampleSentence": "加上微信好友方便联系。",
+    "examplePinyin": "Jiā shàng Wēixìn hǎoyǒu fāngbiàn liánxì.",
+    "exampleTranslation": "Ajouter sur WeChat pour contacter facilement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "加班",
+    "pinyin": "jiābān",
+    "meaning": "Faire des heures sup",
+    "category": "Travail",
+    "exampleSentence": "今天晚上要在办公室加班。",
+    "examplePinyin": "Jīntiān wǎnshang yào zài bàngōngshì jiābān.",
+    "exampleTranslation": "Devoir faire des heures supplémentaires au bureau ce soir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "加油",
+    "pinyin": "jiāyóu",
+    "meaning": "Encourager, faire le plein",
+    "category": "Expression",
+    "exampleSentence": "考试前大家互相加油打气。",
+    "examplePinyin": "Kǎoshì qián dàjiā hùxiāng jiāyóu dǎqì.",
+    "exampleTranslation": "S'encourager mutuellement avant l'examen.",
+    "hskLevel": 3
+  },
+  {
+    "character": "价格",
+    "pinyin": "jiàgé",
+    "meaning": "Prix, tarif",
+    "category": "Achats & Argent",
+    "exampleSentence": "这件衣服的价格很合适。",
+    "examplePinyin": "Zhè jiàn yīfu de jiàgé hěn héshì.",
+    "exampleTranslation": "Le prix de ce vêtement est très convenable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "驾驶",
+    "pinyin": "jiàshǐ",
+    "meaning": "Conduire, pilotage",
+    "category": "Transport",
+    "exampleSentence": "考取汽车驾驶执照。",
+    "examplePinyin": "Kǎoqǔ qìchē jiàshǐ zhízhào.",
+    "exampleTranslation": "Passer et obtenir son permis de conduire automobile.",
+    "hskLevel": 3
+  },
+  {
+    "character": "坚持",
+    "pinyin": "jiānchí",
+    "meaning": "Persévérer",
+    "category": "Attitude",
+    "exampleSentence": "坚持每天听15分钟中文。",
+    "examplePinyin": "Jiānchí měitiān tīng shíwǔ fēnzhōng zhōngwén.",
+    "exampleTranslation": "Persévérer à écouter 15 min de chinois par jour.",
+    "hskLevel": 3
+  },
+  {
+    "character": "将来",
+    "pinyin": "jiānglái",
+    "meaning": "Avenir, futur",
+    "category": "Temps relatif",
+    "exampleSentence": "希望将来能在中国工作。",
+    "examplePinyin": "Xīwàng jiānglái néng zài Zhōngguó gōngzuò.",
+    "exampleTranslation": "Espérer pouvoir travailler en Chine à l'avenir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "交",
+    "pinyin": "jiāo",
+    "meaning": "Remettre, payer",
+    "category": "Vie quotidienne",
+    "exampleSentence": "月底按时交水电费。",
+    "examplePinyin": "Yuèdǐ ànshí jiāo shuǐdiànfèi.",
+    "exampleTranslation": "Payer les factures d'eau et d'électricité à temps en fin de mois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "交通",
+    "pinyin": "jiāotōng",
+    "meaning": "Transports, circulation",
+    "category": "Transport",
+    "exampleSentence": "上海的交通非常便利。",
+    "examplePinyin": "Shànghǎi de jiāotōng fēicháng biànlì.",
+    "exampleTranslation": "Les transports à Shanghai sont très pratiques.",
+    "hskLevel": 3
+  },
+  {
+    "character": "饺子",
+    "pinyin": "jiǎozi",
+    "meaning": "Raviolis chinois",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "过年吃热气腾腾的包饺子。",
+    "examplePinyin": "Guònián chī rèqìténgténg de bāo jiǎozi.",
+    "exampleTranslation": "Manger des raviolis fumants pour le Nouvel An.",
+    "hskLevel": 3
+  },
+  {
+    "character": "教授",
+    "pinyin": "jiàoshòu",
+    "meaning": "Professeur (université)",
+    "category": "Études",
+    "exampleSentence": "大学教授作学术讲座。",
+    "examplePinyin": "Dàxué jiàoshòu zuò xuéshù jiǎngzuò.",
+    "exampleTranslation": "Un professeur d'université donne une conférence académique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "教育",
+    "pinyin": "jiàoyù",
+    "meaning": "Éducation, instruire",
+    "category": "Société",
+    "exampleSentence": "国家重视基础教育发展。",
+    "examplePinyin": "Guójiā zhòngshì jīchǔ jiàoyù fāzhǎn.",
+    "exampleTranslation": "Le pays accorde une importance majeure au développement de l'éducation de base.",
+    "hskLevel": 3
+  },
+  {
+    "character": "结果",
+    "pinyin": "jiéguǒ",
+    "meaning": "Résultat, issue",
+    "category": "Général",
+    "exampleSentence": "测试结果显示数据良好。",
+    "examplePinyin": "Cèshì jiéguǒ xiǎnshì shùjù liánghǎo.",
+    "exampleTranslation": "Les résultats des tests montrent de bonnes données.",
+    "hskLevel": 3
+  },
+  {
+    "character": "进行",
+    "pinyin": "jìnxíng",
+    "meaning": "Mener, procéder à",
+    "category": "Travail",
+    "exampleSentence": "项目正在按计划顺利进行。",
+    "examplePinyin": "Xiàngmù zhèngzài àn jìhuà shùnlì jìnxíng.",
+    "exampleTranslation": "Le projet se déroule sans encombre comme prévu.",
+    "hskLevel": 3
+  },
+  {
+    "character": "精彩",
+    "pinyin": "jīngcǎi",
+    "meaning": "Captivant, merveilleux",
+    "category": "Loisirs",
+    "exampleSentence": "足球比赛过程非常精彩。",
+    "examplePinyin": "Zúqiú bǐsài guòchéng fēicháng jīngcǎi.",
+    "exampleTranslation": "Le déroulement du match de football était très captivant.",
+    "hskLevel": 3
+  },
+  {
+    "character": "精神",
+    "pinyin": "jīngshén",
+    "meaning": "Esprit, forme",
+    "category": "Corps & Santé",
+    "exampleSentence": "睡好觉第二天精神饱满。",
+    "examplePinyin": "Shuì hǎo jiào dì-èr tiān jīngshén bǎomǎn.",
+    "exampleTranslation": "Bien dormir permet d'être en pleine forme le lendemain.",
+    "hskLevel": 3
+  },
+  {
+    "character": "景色",
+    "pinyin": "jǐngsè",
+    "meaning": "Paysage, vue",
+    "category": "Nature",
+    "exampleSentence": "黄山秋天的景色格外美丽。",
+    "examplePinyin": "Huángshān qiūtiān de jǐngsè géwài měilì.",
+    "exampleTranslation": "Le paysage de Huangshan en automne est particulièrement beau.",
+    "hskLevel": 3
+  },
+  {
+    "character": "经验",
+    "pinyin": "jīngyàn",
+    "meaning": "Expérience pratique",
+    "category": "Carrière",
+    "exampleSentence": "他积累了丰富的项目管理经验。",
+    "examplePinyin": "Tā jīlěi le fēngfù de xiàngmù guǎnlǐ jīngyàn.",
+    "exampleTranslation": "Il a accumulé une riche expérience en gestion de projet.",
+    "hskLevel": 3
+  },
+  {
+    "character": "京剧",
+    "pinyin": "jīngjù",
+    "meaning": "Opéra de Pékin",
+    "category": "Culture",
+    "exampleSentence": "在茶馆里欣赏京剧表演。",
+    "examplePinyin": "Zài cháguǎn lǐ xīnshǎng jīngjù biǎoyǎn.",
+    "exampleTranslation": "Apprécier un spectacle d'opéra de Pékin dans un salon de thé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "警察",
+    "pinyin": "jǐngchá",
+    "meaning": "Policier",
+    "category": "Professions",
+    "exampleSentence": "遇到急事寻求警察帮助。",
+    "examplePinyin": "Yùdào jíshì xúnqiú jǐngchá bāngzhù.",
+    "exampleTranslation": "Demander de l'aide à la police en cas d'urgence.",
+    "hskLevel": 3
+  },
+  {
+    "character": "竟然",
+    "pinyin": "jìngrán",
+    "meaning": "À la surprise générale, contre toute attente",
+    "category": "Adverbe",
+    "exampleSentence": "他竟然提前完成了任务。",
+    "examplePinyin": "Tā jìngrán tíqián wánchéng le rènwu.",
+    "exampleTranslation": "Contre toute attente, il a accompli la tâche en avance.",
+    "hskLevel": 3
+  },
+  {
+    "character": "镜像",
+    "pinyin": "jìngxiàng",
+    "meaning": "Reflet, miroir",
+    "category": "Général",
+    "exampleSentence": "水面反射出清晰的建筑物镜像。",
+    "examplePinyin": "Shuǐmiàn fǎnshè chū qīngxī de jiànzhùwù jìngxiàng.",
+    "exampleTranslation": "La surface de l'eau reflète une image miroir claire des bâtiments.",
+    "hskLevel": 3
+  },
+  {
+    "character": "举行",
+    "pinyin": "jǔxíng",
+    "meaning": "Organiser, tenir (un événement)",
+    "category": "Social",
+    "exampleSentence": "公司在五星级酒店举行年终晚会。",
+    "examplePinyin": "Gōngsī zài wǔxīngjí jiǔdiàn jǔxíng niándǐ wǎnhuì.",
+    "exampleTranslation": "L'entreprise organise sa soirée de fin d'année dans un hôtel 5 étoiles.",
+    "hskLevel": 3
+  },
+  {
+    "character": "拒绝",
+    "pinyin": "jùjué",
+    "meaning": "Refuser, déliner",
+    "category": "Communication",
+    "exampleSentence": "礼貌地拒绝不合理的请求。",
+    "examplePinyin": "Lǐmào de jùjué bù hélǐ de qǐngqiú.",
+    "exampleTranslation": "Refuser poliment une demande déraisonnable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "距离",
+    "pinyin": "jùlí",
+    "meaning": "Distance",
+    "category": "Transport",
+    "exampleSentence": "这里距离地铁站只有五百米。",
+    "examplePinyin": "Zhèlǐ jùlí dìtiězhàn zhǐyǒu wǔbǎi mǐ.",
+    "exampleTranslation": "La distance jusqu'au métro n'est que de 500 mètres d'ici.",
+    "hskLevel": 3
+  },
+  {
+    "character": "开玩笑",
+    "pinyin": "kāi wánxiào",
+    "meaning": "Plaisanter, rire",
+    "category": "Communication",
+    "exampleSentence": "别介意，他只是在开玩笑。",
+    "examplePinyin": "Bié jièyì, tā zhǐshì zài kāi wánxiào.",
+    "exampleTranslation": "Ne fais pas attention, il était juste en train de plaisanter.",
+    "hskLevel": 3
+  },
+  {
+    "character": "看法",
+    "pinyin": "kànfǎ",
+    "meaning": "Point de vue, avis",
+    "category": "Opinion",
+    "exampleSentence": "每个人对这件事有不同看法。",
+    "examplePinyin": "Měi gè rén duì zhè jiàn shì yǒu bùtóng kànfǎ.",
+    "exampleTranslation": "Chacun a un avis différent sur cette affaire.",
+    "hskLevel": 3
+  },
+  {
+    "character": "棵",
+    "pinyin": "kē",
+    "meaning": "Classificateur d'arbres, plantes",
+    "category": "Classificateurs",
+    "exampleSentence": "门前种植了一棵梧桐树。",
+    "examplePinyin": "Ménqián zhòngzhí le yì kē wútóngshù.",
+    "exampleTranslation": "Un platane a été planté devant la porte.",
+    "hskLevel": 3
+  },
+  {
+    "character": "咳嗽",
+    "pinyin": "késou",
+    "meaning": "Tousser",
+    "category": "Corps & Santé",
+    "exampleSentence": "感冒引起喉咙咳嗽。",
+    "examplePinyin": "Gǎnmào yǐnqǐ hóulóng késou.",
+    "exampleTranslation": "Le rhume a provoqué une toux de gorge.",
+    "hskLevel": 3
+  },
+  {
+    "character": "可怜",
+    "pinyin": "kělián",
+    "meaning": "Pitoyable, pauvre",
+    "category": "Sentiment",
+    "exampleSentence": "大家都很可怜这只小流浪猫。",
+    "examplePinyin": "Dàjiā dōu hěn kělián zhè zhī xiǎo liúlàngmāo.",
+    "exampleTranslation": "Tout le monde a pitié de ce petit chat errant.",
+    "hskLevel": 3
+  },
+  {
+    "character": "可惜",
+    "pinyin": "kěxī",
+    "meaning": "Dommage, regrettable",
+    "category": "Sentiment",
+    "exampleSentence": "这场比赛输了真可惜。",
+    "examplePinyin": "Zhěng chǎng bǐsài shū le zhēn kěxī.",
+    "exampleTranslation": "C'est vraiment dommage d'avoir perdu ce match.",
+    "hskLevel": 3
+  },
+  {
+    "character": "客厅",
+    "pinyin": "kètīng",
+    "meaning": "Salon, salle de séjour",
+    "category": "Logement",
+    "exampleSentence": "家人在客厅里看电视聊天。",
+    "examplePinyin": "Jiārén zài kètīng lǐ kàn diànshì liáotiān.",
+    "exampleTranslation": "La famille regarde la télé et discute dans le salon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "空",
+    "pinyin": "kōng",
+    "meaning": "Vide, libre",
+    "category": "Général",
+    "exampleSentence": "车厢里有很多空座位。",
+    "examplePinyin": "Chēxiāng lǐ yǒu hěn duō kōng zuòwèi.",
+    "exampleTranslation": "Il y a beaucoup de sièges libres dans le wagon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "空气",
+    "pinyin": "kōngqì",
+    "meaning": "Air, atmosphère",
+    "category": "Nature",
+    "exampleSentence": "雨后公园里的空气非常清新。",
+    "examplePinyin": "Yǔhòu gōngyuán lǐ de kōngqì fēicháng qīngxīn.",
+    "exampleTranslation": "L'air dans le parc après la pluie est très frais.",
+    "hskLevel": 3
+  },
+  {
+    "character": "恐龙",
+    "pinyin": "kǒnglóng",
+    "meaning": "Dinausore",
+    "category": "Sciences",
+    "exampleSentence": "博物馆展出了恐龙化石。",
+    "examplePinyin": "Bówùguǎn zhǎnchū le kǒnglóng huàshí.",
+    "exampleTranslation": "Le musée a exposé des fossiles de dinosaures.",
+    "hskLevel": 3
+  },
+  {
+    "character": "恐怕",
+    "pinyin": "kǒngpà",
+    "meaning": "Redouter que, craindre que",
+    "category": "Expression",
+    "exampleSentence": "今天下雨，恐怕要迟到了。",
+    "examplePinyin": "Jīntiān xiàyǔ, kǒngpà yào chídào le.",
+    "exampleTranslation": "Il pleut aujourd'hui, je crains de arriver en retard.",
+    "hskLevel": 3
+  },
+  {
+    "character": "裤子",
+    "pinyin": "kùzi",
+    "meaning": "Pantalon",
+    "category": "Vêtements",
+    "exampleSentence": "买了一条黑色的休闲裤子。",
+    "examplePinyin": "Mǎi le yì tiáo hēisè de xiūxián kùzi.",
+    "exampleTranslation": "J'ai acheté un pantalon décontracté noir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "快速",
+    "pinyin": "kuàisù",
+    "meaning": "Rapide, express",
+    "category": "Transport",
+    "exampleSentence": "乘坐快速公交通往市中心。",
+    "examplePinyin": "Chéngzuò kuàisù gōngjiāo tōng wǎng shìzhōngxīn.",
+    "exampleTranslation": "Prendre le bus express vers le centre-ville.",
+    "hskLevel": 3
+  },
+  {
+    "character": "宽",
+    "pinyin": "kuān",
+    "meaning": "Large, spacieux",
+    "category": "Mesure",
+    "exampleSentence": "新落成的南京路马路很宽。",
+    "examplePinyin": "Xīn luòchéng de Nánjīnglù mǎlù hěn kuān.",
+    "exampleTranslation": "La route nouvellement aménagée de Nanjing Road est très large.",
+    "hskLevel": 3
+  },
+  {
+    "character": "困",
+    "pinyin": "kùn",
+    "meaning": "Somnolent, fatigué",
+    "category": "Corps & Santé",
+    "exampleSentence": "工作了一天感到很困想睡觉。",
+    "examplePinyin": "Gōngzuò le yì tiān gǎndào hěn kùn xiǎng shuìjiào.",
+    "exampleTranslation": "Se sentir fatigué et avoir sommeil après une journée de travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "困难",
+    "pinyin": "kùnnan",
+    "meaning": "Difficulté, difficile",
+    "category": "Général",
+    "exampleSentence": "勇敢面对并克服困难。",
+    "examplePinyin": "Yǒnggǎn miànduì bìng kèfú kùnnan.",
+    "exampleTranslation": "Faire preuve de courage pour affronter et surmonter les difficultés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "扩大",
+    "pinyin": "kuòdà",
+    "meaning": "Élargir, étendre",
+    "category": "Achats & Argent",
+    "exampleSentence": "公司正在扩大生产规模。",
+    "examplePinyin": "Gōngsī zhèngzài kuòdà shēngchǎn guīmó.",
+    "exampleTranslation": "L'entreprise est en train d'élargir son échelle de production.",
+    "hskLevel": 3
+  },
+  {
+    "character": "拉",
+    "pinyin": "lā",
+    "meaning": "Tirer, jouer d'un instrument à archet",
+    "category": "Action",
+    "exampleSentence": "请拉一下手柄打开房门。",
+    "examplePinyin": "Qǐng lā yíxià shǒubǐng dǎkāi fángmén.",
+    "exampleTranslation": "Tirez la poignée pour ouvrir la porte s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "垃圾桶",
+    "pinyin": "lājītǒng",
+    "meaning": "Poubelle",
+    "category": "Propreté",
+    "exampleSentence": "请把废纸扔进垃圾桶里。",
+    "examplePinyin": "Qǐng bǎ fèizhǐ rēng jìn lājītǒng lǐ.",
+    "exampleTranslation": "Jetez le papier usagé dans la poubelle s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "来得及",
+    "pinyin": "láidejí",
+    "meaning": "Avoir le temps, être encore temps",
+    "category": "Temps",
+    "exampleSentence": "还有半小时，完全来得及。",
+    "examplePinyin": "Hái yǒu bàn xiǎoshí, wánquán láidejí.",
+    "exampleTranslation": "Il reste encore une demi-heure, on a largement le temps.",
+    "hskLevel": 3
+  },
+  {
+    "character": "来不及",
+    "pinyin": "láibují",
+    "meaning": "Ne pas avoir le temps",
+    "category": "Temps",
+    "exampleSentence": "快点走，不然要来不及了。",
+    "examplePinyin": "Kuài diǎn zǒu, bùrán yào láibují le.",
+    "exampleTranslation": "Marche plus vite, sinon on n'aura plus le temps.",
+    "hskLevel": 3
+  },
+  {
+    "character": "来自",
+    "pinyin": "láizì",
+    "meaning": "Venir de, provenir de",
+    "category": "Origine",
+    "exampleSentence": "我们来自不同的国家。",
+    "examplePinyin": "Wǒmen láizì bùtóng de guójiā.",
+    "exampleTranslation": "Nous venons de pays différents.",
+    "hskLevel": 3
+  },
+  {
+    "character": "懒",
+    "pinyin": "lǎn",
+    "meaning": "Paresseux",
+    "category": "Caractère",
+    "exampleSentence": "周末不想出门只想懒在家里。",
+    "examplePinyin": "Zhōumò bù xiǎng chūmén zhǐ xiǎng lǎn zài jiālǐ.",
+    "exampleTranslation": "Le week-end je n'ai pas envie de sortir, je veux juste flâner à la maison.",
+    "hskLevel": 3
+  },
+  {
+    "character": "浪费",
+    "pinyin": "làngfèi",
+    "meaning": "Gaspiller, gaspillage",
+    "category": "Attitude",
+    "exampleSentence": "节约粮食，不要浪费食物。",
+    "examplePinyin": "Jiéyuē liángshi, búyào làngfèi shíwù.",
+    "exampleTranslation": "Économise la nourriture, ne gaspille pas la nourriture.",
+    "hskLevel": 3
+  },
+  {
+    "character": "浪漫",
+    "pinyin": "làngmàn",
+    "meaning": "Romantique",
+    "category": "Sentiment",
+    "exampleSentence": "上海外滩的夜景非常浪漫。",
+    "examplePinyin": "Shànghǎi Wàitān de yèjǐng fēicháng làngmàn.",
+    "exampleTranslation": "La vue nocturne du Bund à Shanghai est très romantique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "老虎",
+    "pinyin": "lǎohǔ",
+    "meaning": "Tigre",
+    "category": "Animaux",
+    "exampleSentence": "动物园里有一头华南老虎。",
+    "examplePinyin": "Dòngwùyuán lǐ yǒu yì tóu Huánán lǎohǔ.",
+    "exampleTranslation": "Il y a un tigre de Chine du Sud au zoo.",
+    "hskLevel": 3
+  },
+  {
+    "character": "冷静",
+    "pinyin": "lěngjìng",
+    "meaning": "Calme, sang-froid",
+    "category": "Attitude",
+    "exampleSentence": "紧急时刻要保持冷静思考。",
+    "examplePinyin": "Jǐnjí shíkè yào bǎochí lěngjìng sīkǎo.",
+    "exampleTranslation": "Garder son calme pour réfléchir dans les moments d'urgence.",
+    "hskLevel": 3
+  },
+  {
+    "character": "理发",
+    "pinyin": "lǐfà",
+    "meaning": "Se faire couper les cheveux",
+    "category": "Services",
+    "exampleSentence": "去街角理发店理发。",
+    "examplePinyin": "Qù jiējiǎo lǐfàdiàn lǐfà.",
+    "exampleTranslation": "Aller se faire couper les cheveux au salon du coin de la rue.",
+    "hskLevel": 3
+  },
+  {
+    "character": "理解",
+    "pinyin": "lǐjiě",
+    "meaning": "Comprendre, compréhension",
+    "category": "Communication",
+    "exampleSentence": "多沟通能增进互相理解。",
+    "examplePinyin": "Duō gōutōng néng zēngjìn hùxiāng lǐjiě.",
+    "exampleTranslation": "Communiquer davantage permet de renforcer la compréhension mutuelle.",
+    "hskLevel": 3
+  },
+  {
+    "character": "理想",
+    "pinyin": "lǐxiǎng",
+    "meaning": "Idéal, aspiration",
+    "category": "Progrès",
+    "exampleSentence": "为实现人生理想而拼搏。",
+    "examplePinyin": "Wèi shíxiàn rénshēng lǐxiǎng ér pīnbó.",
+    "exampleTranslation": "Lutter pour réaliser ses idéaux de vie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "力气",
+    "pinyin": "lìqi",
+    "meaning": "Force physique",
+    "category": "Corps & Santé",
+    "exampleSentence": "搬重物需要很大力气。",
+    "examplePinyin": "Bān zhòngwù xūyào hěn dà lìqi.",
+    "exampleTranslation": "Porter des objets lourds nécessite beaucoup de force.",
+    "hskLevel": 3
+  },
+  {
+    "character": "厉害",
+    "pinyin": "lìhai",
+    "meaning": "Formidable, terrible",
+    "category": "Qualité",
+    "exampleSentence": "他的中文口语非常厉害。",
+    "examplePinyin": "Tā de zhōngwén kǒuyǔ fēicháng lìhai.",
+    "exampleTranslation": "Son chinois oral est vraiment formidable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "俩",
+    "pinyin": "liǎ",
+    "meaning": "Tous les deux, couple",
+    "category": "Quantité",
+    "exampleSentence": "我们俩一起去超市买菜。",
+    "examplePinyin": "Wǒmen liǎ yìqǐ qù chāoshì mǎi cài.",
+    "exampleTranslation": "Nous deux allons ensemble faire les courses au supermarché.",
+    "hskLevel": 3
+  },
+  {
+    "character": "连",
+    "pinyin": "lián",
+    "meaning": "Même, y compris",
+    "category": "Grammaire",
+    "exampleSentence": "这个字连三岁小孩都认识。",
+    "examplePinyin": "Zhège zì lián sān suì xiǎohái dōu rènshi.",
+    "exampleTranslation": "Même un enfant de trois ans connaît ce caractère.",
+    "hskLevel": 3
+  },
+  {
+    "character": "联系",
+    "pinyin": "liánxì",
+    "meaning": "Contacter, lien",
+    "category": "Communication",
+    "exampleSentence": "保持电话微信联系。",
+    "examplePinyin": "Bǎochí diànhuà Wēixìn liánxì.",
+    "exampleTranslation": "Rester en contact par téléphone ou WeChat.",
+    "hskLevel": 3
+  },
+  {
+    "character": "凉快",
+    "pinyin": "liángkuai",
+    "meaning": "Frais, rafraîchissant",
+    "category": "Météo & Saisons",
+    "exampleSentence": "秋天的大金山凉快舒适。",
+    "examplePinyin": "Qiūtiān de Dàjīnshān liángkuai shūshì.",
+    "exampleTranslation": "Dajinshan en automne est frais et très agréable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "亮",
+    "pinyin": "liàng",
+    "meaning": "Brillant, éclairé",
+    "category": "Général",
+    "exampleSentence": "天亮了，阳光照进房间。",
+    "examplePinyin": "Tiān liàng le, yángguāng zhào jìn fángjiān.",
+    "exampleTranslation": "Le jour s'est levé, la lumière du soleil pénètre dans la chambre.",
+    "hskLevel": 3
+  },
+  {
+    "character": "聊天",
+    "pinyin": "liáotiān",
+    "meaning": "Bavarder, discuter",
+    "category": "Communication",
+    "exampleSentence": "下班后和朋友喝茶聊天。",
+    "examplePinyin": "Xiàbān hòu hé péngyou hē chá liáotiān.",
+    "exampleTranslation": "Bavarder en buvant du thé avec des amis après le travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "另外",
+    "pinyin": "lìngwài",
+    "meaning": "De plus, autre",
+    "category": "Grammaire",
+    "exampleSentence": "另外还有两件事要处理。",
+    "examplePinyin": "Lìngwài hái yǒu liǎng jiàn shì yào chǔlǐ.",
+    "exampleTranslation": "De plus, il y a encore deux affaires à traiter.",
+    "hskLevel": 3
+  },
+  {
+    "character": "留",
+    "pinyin": "liú",
+    "meaning": "Rester, laisser",
+    "category": "Action",
+    "exampleSentence": "请留一下您的联系电话。",
+    "examplePinyin": "Qǐng liú yíxià nín de liánxì diànhuà.",
+    "exampleTranslation": "Laissez votre numéro de téléphone s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "留学",
+    "pinyin": "liúxué",
+    "meaning": "Étudier à l'étranger",
+    "category": "Études",
+    "exampleSentence": "她准备去复旦大学留学。",
+    "examplePinyin": "Tā zhǔnbèi qù Fùdàn Dàxué liúxué.",
+    "exampleTranslation": "Elle se prépare à aller étudier à l'université Fudan.",
+    "hskLevel": 3
+  },
+  {
+    "character": "流利",
+    "pinyin": "liúlì",
+    "meaning": "Fluide, couramment",
+    "category": "Langues",
+    "exampleSentence": "他说着一口流利的上海话。",
+    "examplePinyin": "Tā shuō zhe yì kǒu liúlì de Shànghǎihuà.",
+    "exampleTranslation": "Il parle couramment le shanghaïen.",
+    "hskLevel": 3
+  },
+  {
+    "character": "流行",
+    "pinyin": "liúxíng",
+    "meaning": "Tendance, populaire",
+    "category": "Vêtements",
+    "exampleSentence": "这首流行歌曲到处都在播放。",
+    "examplePinyin": "Zhè shǒu liúxíng gēqǔ dàochù dōu zài bōfàng.",
+    "exampleTranslation": "Cette chanson pop est diffusée partout.",
+    "hskLevel": 3
+  },
+  {
+    "character": "旅行",
+    "pinyin": "lǚxíng",
+    "meaning": "Voyager, voyage",
+    "category": "Voyage",
+    "exampleSentence": "假期去云南旅行看风景。",
+    "examplePinyin": "Jiàqī qù Yúnnán lǚxíng kàn fēngjǐng.",
+    "exampleTranslation": "Voyager dans le Yunnan pendant les vacances pour voir les paysages.",
+    "hskLevel": 3
+  },
+  {
+    "character": "律师",
+    "pinyin": "lǜshī",
+    "meaning": "Avocat",
+    "category": "Professions",
+    "exampleSentence": "咨询专业的法律律师。",
+    "examplePinyin": "Zīxún zhuānyè de fǎlǜ lǜshī.",
+    "exampleTranslation": "Consulter un avocat spécialisé en droit.",
+    "hskLevel": 3
+  },
+  {
+    "character": "马虎",
+    "pinyin": "mǎhu",
+    "meaning": "Négligent, étourdi",
+    "category": "Caractère",
+    "exampleSentence": "做财务计算千万不能马虎。",
+    "examplePinyin": "Zuò cáiwù jìsuàn qiānwàn bùnéng mǎhu.",
+    "exampleTranslation": "Il ne faut absolument pas être étourdi en faisant les calculs financiers.",
+    "hskLevel": 3
+  },
+  {
+    "character": "满",
+    "pinyin": "mǎn",
+    "meaning": "Plein, remplir",
+    "category": "Quantité",
+    "exampleSentence": "车厢里坐满了乘客。",
+    "examplePinyin": "Chēxiāng lǐ zuò mǎn le chéngkè.",
+    "exampleTranslation": "Le wagon est rempli de passagers assis.",
+    "hskLevel": 3
+  },
+  {
+    "character": "毛巾",
+    "pinyin": "máojīn",
+    "meaning": "Serviette de toilette",
+    "category": "Équipement",
+    "exampleSentence": "酒店洗手间提供干净毛巾。",
+    "examplePinyin": "Jiǔdiàn xǐshǒujiān tígōng gānjìng máojīn.",
+    "exampleTranslation": "La salle de bain de l'hôtel fournit des serviettes propres.",
+    "hskLevel": 3
+  },
+  {
+    "character": "美丽",
+    "pinyin": "měilì",
+    "meaning": "Magnifique, beau",
+    "category": "Qualité",
+    "exampleSentence": "上海外滩夜景美丽迷人。",
+    "examplePinyin": "Shànghǎi Wàitān yèjǐng měilì mírén.",
+    "exampleTranslation": "La vue nocturne du Bund à Shanghai est magnifique et séduisante.",
+    "hskLevel": 3
+  },
+  {
+    "character": "梦",
+    "pinyin": "mèng",
+    "meaning": "Rêve, rêver",
+    "category": "Pensée",
+    "exampleSentence": "昨晚做了一个奇妙的梦。",
+    "examplePinyin": "Zuówǎn zuò le yí gè qímiào de mèng.",
+    "exampleTranslation": "J'ai fait un rêve merveilleux hier soir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "目的",
+    "pinyin": "mùdì",
+    "meaning": "But, intention",
+    "category": "Général",
+    "exampleSentence": "明确学习中文的主要目的。",
+    "examplePinyin": "Míngquè xuéxí zhōngwén de zhǔyào mùdì.",
+    "exampleTranslation": "Clarifier le but principal d'apprendre le chinois.",
+    "hskLevel": 3
+  },
+  {
+    "character": "耐看",
+    "pinyin": "nàikàn",
+    "meaning": "Agréable à regarder dans le temps",
+    "category": "Qualité",
+    "exampleSentence": "传统旗袍样式非常耐看。",
+    "examplePinyin": "Chuántǒng qípáo yàngshì fēicháng nàikàn.",
+    "exampleTranslation": "Le style du qipao traditionnel est très indémodable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "耐心",
+    "pinyin": "nàixīn",
+    "meaning": "Patience, patient",
+    "category": "Caractère",
+    "exampleSentence": "耐心地解答客户提出的问题。",
+    "examplePinyin": "Nàixīn de jiědá kèhù tíchū de wèntí.",
+    "exampleTranslation": "Répondre avec patience aux questions posées par le client.",
+    "hskLevel": 3
+  },
+  {
+    "character": "难道",
+    "pinyin": "nándào",
+    "meaning": "Serait-ce vraiment (rhétorique)",
+    "category": "Grammaire",
+    "exampleSentence": "难道你忘了今天的会议？",
+    "examplePinyin": "Nándào nǐ wàng le jīntiān de huìyì?",
+    "exampleTranslation": "Aurais-tu vraiment oublié la réunion d'aujourd'hui ?",
+    "hskLevel": 3
+  },
+  {
+    "character": "难受",
+    "pinyin": "nánshòu",
+    "meaning": "Incommodé, mal à l'aise",
+    "category": "Corps & Santé",
+    "exampleSentence": "胃部不舒服感到很难受。",
+    "examplePinyin": "Wèibù bù shūfu gǎndào hěn nánshòu.",
+    "exampleTranslation": "Se sentir mal à l'aise à cause d'un mal d'estomac.",
+    "hskLevel": 3
+  },
+  {
+    "character": "内",
+    "pinyin": "nèi",
+    "meaning": "Intérieur, dans",
+    "category": "Lieux",
+    "exampleSentence": "请在三天内回复确认。",
+    "examplePinyin": "Qǐng zài sān tiān nèi huífù quèrèn.",
+    "exampleTranslation": "Veuillez répondre pour confirmer dans les trois jours.",
+    "hskLevel": 3
+  },
+  {
+    "character": "内容",
+    "pinyin": "nèiróng",
+    "meaning": "Contenu, sujet",
+    "category": "Médias",
+    "exampleSentence": "这篇文章的内容丰富翔实。",
+    "examplePinyin": "Zhè piān wénzhāng de nèiróng fēngfù xiángshí.",
+    "exampleTranslation": "Le contenu de cet article est riche et détaillé.",
+    "hskLevel": 3
+  },
+  {
+    "character": "年级",
+    "pinyin": "niánjí",
+    "meaning": "Niveau d'étude, année",
+    "category": "Études",
+    "exampleSentence": "弟弟读小学三年级。",
+    "examplePinyin": "Dìdi dú xiǎoxué sān niánjí.",
+    "exampleTranslation": "Le petit frère est en 3ème année de primaire.",
+    "hskLevel": 3
+  },
+  {
+    "character": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "Oiseau",
+    "category": "Nature",
+    "exampleSentence": "清晨听到清脆的鸟叫声。",
+    "examplePinyin": "Qīngchén tīngdào qīngcuì de niǎojiàoshēng.",
+    "exampleTranslation": "Entendre le chant clair des oiseaux au petit matin.",
+    "hskLevel": 3
+  },
+  {
+    "character": "努力",
+    "pinyin": "nǔlì",
+    "meaning": "Faire des efforts, persévérant",
+    "category": "Attitude",
+    "exampleSentence": "只要努力就一定能成功。",
+    "examplePinyin": "Zhǐyào nǔlì jiù yídìng néng chénggōng.",
+    "exampleTranslation": "Tant qu'on fait des efforts, la réussite est assurée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "暖和",
+    "pinyin": "nuǎnhuo",
+    "meaning": "Doux, chaleureux (météo)",
+    "category": "Météo & Saisons",
+    "exampleSentence": "春天的上海气候暖和。",
+    "examplePinyin": "Chūntiān de Shànghǎi qìhòu nuǎnhuo.",
+    "exampleTranslation": "Le climat à Shanghai au printemps est doux.",
+    "hskLevel": 3
+  },
+  {
+    "character": "偶尔",
+    "pinyin": "ǒu'ěr",
+    "meaning": "Occasionnellement, parfois",
+    "category": "Temps",
+    "exampleSentence": "周末偶尔去打网球。",
+    "examplePinyin": "Zhōumò ǒu'ěr qù dǎ wǎngqiú.",
+    "exampleTranslation": "Parfois je vais jouer au tennis le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "爬山",
+    "pinyin": "páshān",
+    "meaning": "Faire de la randonnée en montagne",
+    "category": "Loisirs",
+    "exampleSentence": "秋高气爽适合去爬山。",
+    "examplePinyin": "Qiūgāoqìshuǎng shìhé qù páshān.",
+    "exampleTranslation": "Le temps frais d'automne est parfait pour faire de la randonnée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "盘子",
+    "pinyin": "pánzi",
+    "meaning": "Assiette, plat",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "将果盘端到餐桌上。",
+    "examplePinyin": "Jiāng guǒpán duān dào cānzhuō shàng.",
+    "exampleTranslation": "Porter le plat de fruits sur la table du repas.",
+    "hskLevel": 3
+  },
+  {
+    "character": "跑步",
+    "pinyin": "pǎobù",
+    "meaning": "Courir, footing",
+    "category": "Sport",
+    "exampleSentence": "坚持每天在世纪公园跑步。",
+    "examplePinyin": "Jiānchí měitiān zài Shìjì Gōngyuán pǎobù.",
+    "exampleTranslation": "Persévérer à faire son footing quotidien au Century Park.",
+    "hskLevel": 3
+  },
+  {
+    "character": "陪",
+    "pinyin": "péi",
+    "meaning": "Accompagner",
+    "category": "Social",
+    "exampleSentence": "周末陪家人去逛街。",
+    "examplePinyin": "Zhōumò péi jiārén qù guàngjiē.",
+    "exampleTranslation": "Accompagner sa famille faire du shopping le week-end.",
+    "hskLevel": 3
+  },
+  {
+    "character": "皮肤",
+    "pinyin": "pífū",
+    "meaning": "Peau",
+    "category": "Corps & Santé",
+    "exampleSentence": "使用护肤品保养皮肤。",
+    "examplePinyin": "Shǐyòng hùfūpǐn bǎoyǎng pífū.",
+    "exampleTranslation": "Utiliser des soins pour prendre soin de sa peau.",
+    "hskLevel": 3
+  },
+  {
+    "character": "脾气",
+    "pinyin": "píqi",
+    "meaning": "Humeur, tempérament",
+    "category": "Caractère",
+    "exampleSentence": "他的脾气温和好相处。",
+    "examplePinyin": "Tā de píqi wēnhé hǎo xiāngchǔ.",
+    "exampleTranslation": "Son tempérament doux le rend très facile à vivre.",
+    "hskLevel": 3
+  },
+  {
+    "character": "篇",
+    "pinyin": "piān",
+    "meaning": "Classificateur d'articles, textes",
+    "category": "Classificateurs",
+    "exampleSentence": "发表了一篇学术论文。",
+    "examplePinyin": "Fābiǎo le yì piān xuéshù lùnwén.",
+    "exampleTranslation": "Publier un article de recherche académique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "乒乓球",
+    "pinyin": "pīngpāngqiú",
+    "meaning": "Ping-pong, table-tennis",
+    "category": "Sport",
+    "exampleSentence": "中国乒乓球水平世界领先。",
+    "examplePinyin": "Zhōngguó pīngpāngqiú shuǐpíng shìjiè lǐngxiān.",
+    "exampleTranslation": "Le niveau du ping-pong chinois est en tête mondiale.",
+    "hskLevel": 3
+  },
+  {
+    "character": "破",
+    "pinyin": "pò",
+    "meaning": "Cassé, abîmé",
+    "category": "Général",
+    "exampleSentence": "这双鞋鞋底破了。",
+    "examplePinyin": "Zhè shuāng xié xiédǐ pò le.",
+    "exampleTranslation": "La semelle de cette paire de chaussures est abîmée.",
+    "hskLevel": 3
+  },
+  {
+    "character": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "meaning": "Mandarin (langue commune)",
+    "category": "Langues",
+    "exampleSentence": "学好标准普通话利于交流。",
+    "examplePinyin": "Xuéhǎo biāozhǔn pǔtōnghuà lìyú jiāoliú.",
+    "exampleTranslation": "Bien apprendre le mandarin standard facilite la communication.",
+    "hskLevel": 3
+  },
+  {
+    "character": "期待",
+    "pinyin": "qīdài",
+    "meaning": "Attendre avec impatience",
+    "category": "Sentiment",
+    "exampleSentence": "期待未来的再次相聚。",
+    "examplePinyin": "Qīdài wèi lái de zàicì xiāngjù.",
+    "exampleTranslation": "Attendre les retrouvailles futures avec impatience.",
+    "hskLevel": 3
+  },
+  {
+    "character": "期间",
+    "pinyin": "qījiān",
+    "meaning": "Période, durée",
+    "category": "Temps",
+    "exampleSentence": "会议期间禁止随意走动。",
+    "examplePinyin": "Huìyì qījiān jìnzhǐ suíyì zǒudòng.",
+    "exampleTranslation": "Il est interdit de se déplacer pendant la durée de la réunion.",
+    "hskLevel": 3
+  },
+  {
+    "character": "起来",
+    "pinyin": "qǐlái",
+    "meaning": "Se lever, commencer à",
+    "category": "Grammaire",
+    "exampleSentence": "大家站起来唱国歌。",
+    "examplePinyin": "Dàjiā zhàn qǐlái chàng guógē.",
+    "exampleTranslation": "Tout le monde s'est levé pour chanter l'hymne national.",
+    "hskLevel": 3
+  },
+  {
+    "character": "气候",
+    "pinyin": "qìhòu",
+    "meaning": "Climat",
+    "category": "Météo & Saisons",
+    "exampleSentence": "上海属于亚热带季风气候。",
+    "examplePinyin": "Shànghǎi shǔyú yàrètài jìfēng qìhòu.",
+    "exampleTranslation": "Shanghai appartient à un climat de mousson subtropical.",
+    "hskLevel": 3
+  },
+  {
+    "character": "铅笔",
+    "pinyin": "qiānbǐ",
+    "meaning": "Crayon à papier",
+    "category": "Objets",
+    "exampleSentence": "用铅笔在纸上画图草稿。",
+    "examplePinyin": "Yòng qiānbǐ zài zhǐ shàng huà tú cǎogǎo.",
+    "exampleTranslation": "Faire un croquis au crayon sur le papier.",
+    "hskLevel": 3
+  },
+  {
+    "character": "前",
+    "pinyin": "qián",
+    "meaning": "Devant, avant",
+    "category": "Position & Espace",
+    "exampleSentence": "请在门前稍等片刻。",
+    "examplePinyin": "Qǐng zài mén qián shāo děng piànkè.",
+    "exampleTranslation": "Veuillez patienter un instant devant la porte.",
+    "hskLevel": 3
+  },
+  {
+    "character": "墙",
+    "pinyin": "qiáng",
+    "meaning": "Mur",
+    "category": "Logement",
+    "exampleSentence": "墙上挂着一幅中国画。",
+    "examplePinyin": "Qiáng shàng guà zhe yì fú zhōngguóhuà.",
+    "exampleTranslation": "Une peinture chinoise est accrochée au mur.",
+    "hskLevel": 3
+  },
+  {
+    "character": "敲",
+    "pinyin": "qiāo",
+    "meaning": "Frapper, taper",
+    "category": "Action",
+    "exampleSentence": "进门前请先敲门。",
+    "examplePinyin": "Jìn mén qián qǐng xiān qiāo mén.",
+    "exampleTranslation": "Veuillez frapper à la porte avant d'entrer.",
+    "hskLevel": 3
+  },
+  {
+    "character": "桥",
+    "pinyin": "qiáo",
+    "meaning": "Pont",
+    "category": "Transport",
+    "exampleSentence": "杨浦大桥跨越黄浦江。",
+    "examplePinyin": "Yángpǔ Dàqiáo kuàyuè Huángpǔjiāng.",
+    "exampleTranslation": "Le pont Yangpu franchit la rivière Huangpu.",
+    "hskLevel": 3
+  },
+  {
+    "character": "巧",
+    "pinyin": "qiǎo",
+    "meaning": "Opportun, coïncidence",
+    "category": "Expression",
+    "exampleSentence": "太巧了，我也去那里。",
+    "examplePinyin": "Tài qiǎo le, wǒ yě qù nàlǐ.",
+    "exampleTranslation": "Quelle coïncidence, j'y vais aussi.",
+    "hskLevel": 3
+  },
+  {
+    "character": "巧克力",
+    "pinyin": "qiǎokèlì",
+    "meaning": "Chocolat",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "情人节送盒黑巧克力。",
+    "examplePinyin": "Qíngrénjié sòng hé hēi qiǎokèlì.",
+    "exampleTranslation": "Offrir une boîte de chocolat noir pour la Saint-Valentin.",
+    "hskLevel": 3
+  },
+  {
+    "character": "亲切",
+    "pinyin": "qīnqiè",
+    "meaning": "Aimable, chaleureux",
+    "category": "Attitude",
+    "exampleSentence": "老师的态度非常亲切。",
+    "examplePinyin": "Lǎoshī de tàidu fēicháng qīnqiè.",
+    "exampleTranslation": "L'attitude de l'enseignant est très aimable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "亲自",
+    "pinyin": "qīnzì",
+    "meaning": "En personne, soi-même",
+    "category": "Action",
+    "exampleSentence": "经理亲自出面接待客户。",
+    "examplePinyin": "Jīnglǐ qīnzì chūmiàn jiēdài kèhù.",
+    "exampleTranslation": "Le manager s'est déplacé en personne pour accueillir le client.",
+    "hskLevel": 3
+  },
+  {
+    "character": "轻",
+    "pinyin": "qīng",
+    "meaning": "Léger",
+    "category": "Mesure",
+    "exampleSentence": "这个行李箱重量很轻。",
+    "examplePinyin": "Zhège xínglixiāng zhòngliàng hěn qīng.",
+    "exampleTranslation": "Cette valise est très légère.",
+    "hskLevel": 3
+  },
+  {
+    "character": "轻松",
+    "pinyin": "qīngsōng",
+    "meaning": "Détendu, facile",
+    "category": "Sentiment",
+    "exampleSentence": "考完试感到无比轻松。",
+    "examplePinyin": "Kǎo wán shì gǎndào wúbǐ qīngsōng.",
+    "exampleTranslation": "Se sentir incomparablement détendu après l'examen.",
+    "hskLevel": 3
+  },
+  {
+    "character": "情景",
+    "pinyin": "qíngjǐng",
+    "meaning": "Scène, situation",
+    "category": "Général",
+    "exampleSentence": "令人难忘的热闹情景。",
+    "examplePinyin": "Lìng rén nánwàng de rènao qíngjǐng.",
+    "exampleTranslation": "Une scène animée inoubliable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "情况",
+    "pinyin": "qíngkuàng",
+    "meaning": "Situation, état",
+    "category": "Général",
+    "exampleSentence": "向领导汇报最新情况。",
+    "examplePinyin": "Xiàng lǐngdǎo huìbào zuìxīn qíngkuàng.",
+    "exampleTranslation": "Faire un rapport de la situation la plus récente aux responsables.",
+    "hskLevel": 3
+  },
+  {
+    "character": "请假",
+    "pinyin": "qǐngjià",
+    "meaning": "Demander un congé",
+    "category": "Travail",
+    "exampleSentence": "因病向公司请假三天。",
+    "examplePinyin": "Yīn bìng xiàng gōngsī qǐngjià sān tiān.",
+    "exampleTranslation": "Demander trois jours de congé maladie à l'entreprise.",
+    "hskLevel": 3
+  },
+  {
+    "character": "请帖",
+    "pinyin": "qǐngtiě",
+    "meaning": "Faire-part, invitation",
+    "category": "Social",
+    "exampleSentence": "收到婚礼请帖去赴宴。",
+    "examplePinyin": "Shōudào hūnlǐ qǐngtiě qù fùyàn.",
+    "exampleTranslation": "Recevoir un faire-part de mariage et s'y rendre.",
+    "hskLevel": 3
+  },
+  {
+    "character": "穷",
+    "pinyin": "qióng",
+    "meaning": "Pauvre, dénué",
+    "category": "Achats & Argent",
+    "exampleSentence": "通过勤劳改变穷面貌。",
+    "examplePinyin": "Tōngguò qínláo gǎibiàn qióng miànmào.",
+    "exampleTranslation": "Transformer la pauvreté par le travail acharné.",
+    "hskLevel": 3
+  },
+  {
+    "character": "秋",
+    "pinyin": "qiū",
+    "meaning": "Automne",
+    "category": "Météo & Saisons",
+    "exampleSentence": "上海的秋天金黄美丽。",
+    "examplePinyin": "Shànghǎi de qiūtiān jīnhuáng měilì.",
+    "exampleTranslation": "L'automne à Shanghai est doré et magnifique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "求",
+    "pinyin": "qiú",
+    "meaning": "Prier, solliciter",
+    "category": "Communication",
+    "exampleSentence": "遇到困难寻求朋友帮助。",
+    "examplePinyin": "Yùdào kùnnan xúnqiú péngyou bāngzhù.",
+    "exampleTranslation": "Solliciter l'aide d'amis face aux difficultés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "球",
+    "pinyin": "qiú",
+    "meaning": "Balle, ballon",
+    "category": "Sport",
+    "exampleSentence": "下班后去打羽毛球。",
+    "examplePinyin": "Xiàbān hòu qù dǎ yǔmáoqiú.",
+    "exampleTranslation": "Aller jouer au badminton après le travail.",
+    "hskLevel": 3
+  },
+  {
+    "character": "球迷",
+    "pinyin": "qiúmí",
+    "meaning": "Fan de sport/football",
+    "category": "Loisirs",
+    "exampleSentence": "资深球迷熬夜看球赛。",
+    "examplePinyin": "Zīshēn qiúmí áoyè kàn qiúsài.",
+    "exampleTranslation": "Les fans chevronnés veillent pour regarder le match.",
+    "hskLevel": 3
+  },
+  {
+    "character": "区",
+    "pinyin": "qū",
+    "meaning": "District, zone",
+    "category": "Géographie",
+    "exampleSentence": "浦东新区是经济开发区。",
+    "examplePinyin": "Pǔdōng Xīnqū shì jīngjì kāifāqū.",
+    "exampleTranslation": "Le nouveau district de Pudong est une zone de développement économique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "区别",
+    "pinyin": "qūbié",
+    "meaning": "Différence, distinguer",
+    "category": "Général",
+    "exampleSentence": "比较两者的主要区别。",
+    "examplePinyin": "Bǐjiào liǎngzhě de zhǔyào qūbié.",
+    "exampleTranslation": "Comparer la différence principale entre les deux.",
+    "hskLevel": 3
+  },
+  {
+    "character": "取",
+    "pinyin": "qǔ",
+    "meaning": "Retirer, chercher",
+    "category": "Vie quotidienne",
+    "exampleSentence": "去快件柜收取包裹快递。",
+    "examplePinyin": "Qù kuàijiànguì shōuqǔ bāoguǒ kuàidì.",
+    "exampleTranslation": "Aller au casier à colis retirer son paquet express.",
+    "hskLevel": 3
+  },
+  {
+    "character": "群",
+    "pinyin": "qún",
+    "meaning": "Groupe, troupe",
+    "category": "Classificateurs",
+    "exampleSentence": "微信工作群里发了新通知。",
+    "examplePinyin": "Wēixìn gōngzuò qún lǐ fā le xīn tōngzhī.",
+    "exampleTranslation": "Un avis a été envoyé dans le groupe de travail WeChat.",
+    "hskLevel": 3
+  },
+  {
+    "character": "群众",
+    "pinyin": "qúnzhòng",
+    "meaning": "Masses, public",
+    "category": "Société",
+    "exampleSentence": "倾听广大人民群众的呼声。",
+    "examplePinyin": "Qīngtīng guǎngdà rénmín qúnzhòng de hūshēng.",
+    "exampleTranslation": "Écouter la voix du grand public.",
+    "hskLevel": 3
+  },
+  {
+    "character": "然而",
+    "pinyin": "rán'ér",
+    "meaning": "Cependant, toutefois",
+    "category": "Grammaire",
+    "exampleSentence": "虽然困难很多，然而大家没有放弃。",
+    "examplePinyin": "Suīrán kùnnan hěn duō, rán'ér dàjiā méiyǒu fàngqì.",
+    "exampleTranslation": "Bien que les difficultés soient nombreuses, toutefois personne n'a abandonné.",
+    "hskLevel": 3
+  },
+  {
+    "character": "热心",
+    "pinyin": "rèxīn",
+    "meaning": "Enthousiaste, dévoué",
+    "category": "Caractère",
+    "exampleSentence": "志愿者热心为游客指路。",
+    "examplePinyin": "Zhìyuànzhě rèxīn wèi yóukè zhǐlù.",
+    "exampleTranslation": "Les bénévoles indiquent la route aux touristes avec dévouement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "人才",
+    "pinyin": "réncái",
+    "meaning": "Talent, personne qualifiée",
+    "category": "Travail",
+    "exampleSentence": "上海大力引进高科技人才。",
+    "examplePinyin": "Shànghǎi dàlì yǐnjìn gāo kējì réncái.",
+    "exampleTranslation": "Shanghai attire massivement les talents de haute technologie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "人口",
+    "pinyin": "rénkǒu",
+    "meaning": "Population",
+    "category": "Société",
+    "exampleSentence": "上海常住人口超过两千万。",
+    "examplePinyin": "Shànghǎi chángzhù rénkǒu chāoguò liǎng qiān wàn.",
+    "exampleTranslation": "La population résidente de Shanghai dépasse 20 millions.",
+    "hskLevel": 3
+  },
+  {
+    "character": "人类",
+    "pinyin": "rénlèi",
+    "meaning": "Humanité, espèce humaine",
+    "category": "Société",
+    "exampleSentence": "保护地球是全人类的责任。",
+    "examplePinyin": "Bǎohù dìqiú shì quán rénlèi de zérèn.",
+    "exampleTranslation": "Protéger la Terre est la responsabilité de toute l'humanité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "人生",
+    "pinyin": "rénshēng",
+    "meaning": "Vie humaine",
+    "category": "Philosophie",
+    "exampleSentence": "追求有价值有意义的人生。",
+    "examplePinyin": "Zhuīqiú yǒu jiàzhí yǒu yìyì de rénshēng.",
+    "exampleTranslation": "Poursuivre une vie humaine pleine de valeur et de sens.",
+    "hskLevel": 3
+  },
+  {
+    "character": "人员",
+    "pinyin": "rényuán",
+    "meaning": "Personnel, membres",
+    "category": "Travail",
+    "exampleSentence": "办公区域非工作人员请勿进入。",
+    "examplePinyin": "Bàngōng qūyù fēi gōngzuò rényuán qǐng wù jìnrù.",
+    "exampleTranslation": "Zone de bureau : défense d'entrer aux personnes non autorisées.",
+    "hskLevel": 3
+  },
+  {
+    "character": "认",
+    "pinyin": "rèn",
+    "meaning": "Reconnaître, admettre",
+    "category": "Action",
+    "exampleSentence": "做错事情要勇于认错。",
+    "examplePinyin": "Zuò cuò shìqing yào yǒngyú rèn cuò.",
+    "exampleTranslation": "Avoir le courage d'admettre ses erreurs quand on se trompe.",
+    "hskLevel": 3
+  },
+  {
+    "character": "认真",
+    "pinyin": "rènzhēn",
+    "meaning": "Sérieux, appliqué",
+    "category": "Attitude",
+    "exampleSentence": "认真听讲做好学习笔记。",
+    "examplePinyin": "Rènzhēn tīngjiǎng zuò hǎo xuéxí bǐjì.",
+    "exampleTranslation": "Écouter attentivement le cours et bien prendre des notes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "入",
+    "pinyin": "rù",
+    "meaning": "Entrer",
+    "category": "Action",
+    "exampleSentence": "进入会场请出示邀请函。",
+    "examplePinyin": "Jìnrù huìchǎng qǐng chūshì yāoqǐnghán.",
+    "exampleTranslation": "Veuillez présenter votre invitation pour entrer dans la salle.",
+    "hskLevel": 3
+  },
+  {
+    "character": "入口",
+    "pinyin": "rùkǒu",
+    "meaning": "Entrée, accès",
+    "category": "Transport",
+    "exampleSentence": "地铁站二号入口在前方。",
+    "examplePinyin": "Dìtiězhàn èr hào rùkǒu zài qiánfāng.",
+    "exampleTranslation": "L'accès 2 du métro se trouve devant.",
+    "hskLevel": 3
+  },
+  {
+    "character": "软",
+    "pinyin": "ruǎn",
+    "meaning": "Mou, doux",
+    "category": "Qualité",
+    "exampleSentence": "床垫睡起来非常舒服软和。",
+    "examplePinyin": "Chuángdiàn shuì qǐlái fēicháng shūfu ruǎnhuo.",
+    "exampleTranslation": "Le matelas est très mou et confortable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "润",
+    "pinyin": "rùn",
+    "meaning": "Humide, lubrifier",
+    "category": "Corps & Santé",
+    "exampleSentence": "喝蜂蜜水润润喉咙。",
+    "examplePinyin": "Hē fēngmìshuǐ rùnrùn hóulóng.",
+    "exampleTranslation": "Boire de l'eau au miel pour adoucir la gorge.",
+    "hskLevel": 3
+  },
+  {
+    "character": "弱",
+    "pinyin": "ruò",
+    "meaning": "Faible",
+    "category": "Physique",
+    "exampleSentence": "生病后身体比较虚弱。",
+    "examplePinyin": "Shēngbìng hòu shēntǐ bǐjiào xūruò.",
+    "exampleTranslation": "Le corps est plutôt faible après une maladie.",
+    "hskLevel": 3
+  },
+  {
+    "character": "散步",
+    "pinyin": "sànbù",
+    "meaning": "Se promener",
+    "category": "Loisirs",
+    "exampleSentence": "晚饭后在滨江大道散步。",
+    "examplePinyin": "Wǎnfàn hòu zài Bīnjiāng Dàdào sànbù.",
+    "exampleTranslation": "Se promener sur la promenade de Riverside Avenue après le dîner.",
+    "hskLevel": 3
+  },
+  {
+    "character": "嗓子",
+    "pinyin": "sǎngzi",
+    "meaning": "Gorge, voix",
+    "category": "Corps & Santé",
+    "exampleSentence": "感冒咳嗽导致嗓子发炎。",
+    "examplePinyin": "Gǎnmào késou dǎozhì sǎngzi fāyán.",
+    "exampleTranslation": "La toux de rhume a causé une inflammation de la gorge.",
+    "hskLevel": 3
+  },
+  {
+    "character": "森林",
+    "pinyin": "sēnlín",
+    "meaning": "Forêt",
+    "category": "Nature",
+    "exampleSentence": "走进大森林呼吸新鲜空气。",
+    "examplePinyin": "Zǒu jìn dà sēnlín hūxī xīnxiān kōngqì.",
+    "exampleTranslation": "Pénétrer dans la forêt pour respirer l'air frais.",
+    "hskLevel": 3
+  },
+  {
+    "character": "杀",
+    "pinyin": "shā",
+    "meaning": "Tuer, couper",
+    "category": "Action",
+    "exampleSentence": "严厉打击违法犯罪。",
+    "examplePinyin": "Yánlì dǎjī wéifǎ fànzuì.",
+    "exampleTranslation": "Combattre sévèrement la criminalité.",
+    "hskLevel": 3
+  },
+  {
+    "character": "沙发",
+    "pinyin": "shāfā",
+    "meaning": "Canapé, sofa",
+    "category": "Logement",
+    "exampleSentence": "坐在客厅柔软的沙发上看书。",
+    "examplePinyin": "Zuò zài kètīng róuruǎn de shāfā shàng kàn shū.",
+    "exampleTranslation": "Lire un livre assis sur le canapé confortable du salon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "沙漠",
+    "pinyin": "shāmò",
+    "meaning": "Désert",
+    "category": "Nature",
+    "exampleSentence": "穿越沙漠需要充足的水资源。",
+    "examplePinyin": "Chuānyuè shāmò xūyào chōngzú de shuǐ zīyuán.",
+    "exampleTranslation": "Traverser le désert nécessite des ressources en eau suffisantes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "沙滩",
+    "pinyin": "shātān",
+    "meaning": "Plage de sable",
+    "category": "Nature",
+    "exampleSentence": "在海边沙滩上阳光晒太阳。",
+    "examplePinyin": "Zài hǎibiān shātān shàng yángguāng shài tàiyáng.",
+    "exampleTranslation": "Prendre le soleil sur la plage de sable au bord de la mer.",
+    "hskLevel": 3
+  },
+  {
+    "character": "傻",
+    "pinyin": "shǎ",
+    "meaning": "Niais, nigaud",
+    "category": "Caractère",
+    "exampleSentence": "别发傻了，快动脑筋。",
+    "examplePinyin": "Bié fā shǎ le, kuài dòng nǎojīn.",
+    "exampleTranslation": "Ne fais pas l'idiot, fais marcher tes méninges.",
+    "hskLevel": 3
+  },
+  {
+    "character": "晒",
+    "pinyin": "shài",
+    "meaning": "Bronzer, sécher au soleil",
+    "category": "Nature",
+    "exampleSentence": "把洗好的被单拿到阳台上晒。",
+    "examplePinyin": "Bǎ xǐ hǎo de bèidān ná dào yángtái shàng shài.",
+    "exampleTranslation": "Mettre les draps lavés à sécher au soleil sur le balcon.",
+    "hskLevel": 3
+  },
+  {
+    "character": "十分",
+    "pinyin": "shífēn",
+    "meaning": "Extrêmement, très",
+    "category": "Adverbe",
+    "exampleSentence": "服务人员态度十分亲切。",
+    "examplePinyin": "Fúwù rényuán tàidu shífēn qīnqiè.",
+    "exampleTranslation": "L'attitude du personnel de service est extrêmement aimable.",
+    "hskLevel": 3
+  },
+  {
+    "character": "实际",
+    "pinyin": "shíjì",
+    "meaning": "Réel, pratique",
+    "category": "Général",
+    "exampleSentence": "结合实际情况制定解决方案。",
+    "examplePinyin": "Jiéhé shíjì qíngkuàng zhìdìng jiějué fāng'àn.",
+    "exampleTranslation": "Établir une solution combinée à la situation réelle.",
+    "hskLevel": 3
+  },
+  {
+    "character": "实习",
+    "pinyin": "shíxí",
+    "meaning": "Faire un stage",
+    "category": "Études",
+    "exampleSentence": "在上海的外企进行暑期实习。",
+    "examplePinyin": "Zài Shànghǎi de wàiqǐ jìnxíng shǔqī shíxí.",
+    "exampleTranslation": "Effectuer un stage d'été dans une entreprise étrangère à Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "实验室",
+    "pinyin": "shíyànshì",
+    "meaning": "Laboratoire",
+    "category": "Sciences",
+    "exampleSentence": "科研人员在实验室里做做研究。",
+    "examplePinyin": "Kēyán rényuán zài shíyànshì lǐ zuò yánjiū.",
+    "exampleTranslation": "Les chercheurs mènent leurs recherches au laboratoire.",
+    "hskLevel": 3
+  },
+  {
+    "character": "食品",
+    "pinyin": "shípǐn",
+    "meaning": "Aliment, nourriture",
+    "category": "Achats & Argent",
+    "exampleSentence": "超市进口食品专区商品丰富。",
+    "examplePinyin": "Chāoshì jìnkǒu shípǐn zhuānqū shāngpǐn fēngfù.",
+    "exampleTranslation": "Le rayon des aliments importés du supermarché est très garni.",
+    "hskLevel": 3
+  },
+  {
+    "character": "食物",
+    "pinyin": "shíwù",
+    "meaning": "Nourriture, aliments",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "保持食物的新鲜与卫生。",
+    "examplePinyin": "Bǎochí shíwù de xīnxiān yǔ wèishēng.",
+    "exampleTranslation": "Maintenir la fraîcheur et l'hygiène des aliments.",
+    "hskLevel": 3
+  },
+  {
+    "character": "石头",
+    "pinyin": "shítou",
+    "meaning": "Pierre, rocher",
+    "category": "Nature",
+    "exampleSentence": "古老园林里堆叠着假山石头。",
+    "examplePinyin": "Gǔlǎo yuánlín lǐ duīdié zhe jiǎshān shítou.",
+    "exampleTranslation": "Des pierres d'rocailles sont empilées dans les jardins anciens.",
+    "hskLevel": 3
+  },
+  {
+    "character": "使",
+    "pinyin": "shǐ",
+    "meaning": "Faire que, rendre",
+    "category": "Grammaire",
+    "exampleSentence": "满意的结果使大家感到高兴。",
+    "examplePinyin": "Mǎnyì de jiéguǒ shǐ dàjiā gǎndào gāoxìng.",
+    "exampleTranslation": "Le résultat satisfait a rendu tout le monde joyeux.",
+    "hskLevel": 3
+  },
+  {
+    "character": "使用",
+    "pinyin": "shǐyòng",
+    "meaning": "Utiliser, employer",
+    "category": "Technologie",
+    "exampleSentence": "学会正确使用移动支付。",
+    "examplePinyin": "Xuéhuì zhèngquè shǐyòng yídòng zhīfù.",
+    "exampleTranslation": "Apprendre à utiliser correctement le paiement mobile.",
+    "hskLevel": 3
+  },
+  {
+    "character": "世纪",
+    "pinyin": "shìjì",
+    "meaning": "Siècle",
+    "category": "Histoire",
+    "exampleSentence": "二十一世纪是信息技术时代。",
+    "examplePinyin": "Èrshíyī shìjì shì xìnxī jìshù shídài.",
+    "exampleTranslation": "Le 21ème siècle est l'ère des technologies de l'information.",
+    "hskLevel": 3
+  },
+  {
+    "character": "世界",
+    "pinyin": "shìjiè",
+    "meaning": "Monde",
+    "category": "Géographie",
+    "exampleSentence": "上海是世界知名的国际大都市。",
+    "examplePinyin": "Shànghǎi shì shìjiè zhīmíng de guójì dà dūshì.",
+    "exampleTranslation": "Shanghai est une métropole internationale mondialement connue.",
+    "hskLevel": 3
+  },
+  {
+    "character": "事情",
+    "pinyin": "shìqing",
+    "meaning": "Affaire, chose",
+    "category": "Général",
+    "exampleSentence": "先把手头的紧急事情处理完。",
+    "examplePinyin": "Xiān bǎ shǒutóu de jǐnjí shìqing chǔlǐ wán.",
+    "exampleTranslation": "Traiter d'abord les affaires urgentes sous la main.",
+    "hskLevel": 3
+  },
+  {
+    "character": "适合",
+    "pinyin": "shìhé",
+    "meaning": "Convenir, être adapté",
+    "category": "Général",
+    "exampleSentence": "这件衣服的款式很适合你。",
+    "examplePinyin": "Zhè jiàn yīfu de kuǎnshì hěn shìhé nǐ.",
+    "exampleTranslation": "Le style de ce vêtement te convient très bien.",
+    "hskLevel": 3
+  },
+  {
+    "character": "收",
+    "pinyin": "shōu",
+    "meaning": "Recevoir, récolter",
+    "category": "Vie quotidienne",
+    "exampleSentence": "今天收到了快递寄来的包裹。",
+    "examplePinyin": "Jīntiān shōudào le kuàidì jì lái de bāoguǒ.",
+    "exampleTranslation": "Recevoir le colis envoyé par express aujourd'hui.",
+    "hskLevel": 3
+  },
+  {
+    "character": "收入",
+    "pinyin": "shōurù",
+    "meaning": "Revenu, gain",
+    "category": "Achats & Argent",
+    "exampleSentence": "家庭月收入稳步增长。",
+    "examplePinyin": "Jiātíng yuè shōurù wěnbù zēngzhǎng.",
+    "exampleTranslation": "Le revenu mensuel du foyer augmente régulièrement.",
+    "hskLevel": 3
+  },
+  {
+    "character": "收集",
+    "pinyin": "shōují",
+    "meaning": "Collecter, rassembler",
+    "category": "Travail",
+    "exampleSentence": "收集市场反馈意见作分析。",
+    "examplePinyin": "Shōují shìchǎng fǎnkuì yìjiàn zuò fēnxī.",
+    "exampleTranslation": "Collecter les avis en retour du marché pour faire des analyses.",
+    "hskLevel": 3
+  },
+  {
+    "character": "收拾",
+    "pinyin": "shōushi",
+    "meaning": "Ranger, faire ses bagages",
+    "category": "Ménage",
+    "exampleSentence": "出发前把行李收拾好。",
+    "examplePinyin": "Chūfā qián bǎ xíngli shōushi hǎo.",
+    "exampleTranslation": "Bien ranger ses bagages avant le départ.",
+    "hskLevel": 3
+  },
+  {
+    "character": "首都",
+    "pinyin": "shǒudū",
+    "meaning": "Capitale",
+    "category": "Société",
+    "exampleSentence": "北京是中国的首都。",
+    "examplePinyin": "Běijīng shì Zhōngguó de shǒudū.",
+    "exampleTranslation": "Pékin est la capitale de la Chine.",
+    "hskLevel": 3
+  },
+  {
+    "character": "首先",
+    "pinyin": "shǒuxiān",
+    "meaning": "Tout d'abord, premièrement",
+    "category": "Grammaire",
+    "exampleSentence": "首先要明确项目的核心要求。",
+    "examplePinyin": "Shǒuxiān yào míngquè xiàngmù de héxīn yāoqiú.",
+    "exampleTranslation": "Tout d'abord, il faut clarifier les exigences clés du projet.",
+    "hskLevel": 3
+  },
+  {
+    "character": "受",
+    "pinyin": "shòu",
+    "meaning": "Subir, recevoir",
+    "category": "Grammaire",
+    "exampleSentence": "深受市民和游客的喜爱。",
+    "examplePinyin": "Shēn shòu shìmín hé yóukè de xǐài.",
+    "exampleTranslation": "Être très apprécié des citadins et des touristes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "受伤",
+    "pinyin": "shòushāng",
+    "meaning": "Être blessé",
+    "category": "Corps & Santé",
+    "exampleSentence": "运动前热身防止膝盖受伤。",
+    "examplePinyin": "Yùndòng qián rèshēn fángzhǐ xīgài shòushāng.",
+    "exampleTranslation": "S'échauffer avant le sport pour éviter de se blesser au genou.",
+    "hskLevel": 3
+  },
+  {
+    "character": "售货员",
+    "pinyin": "shòuhuòyuán",
+    "meaning": "Vendeur, commerçant",
+    "category": "Professions",
+    "exampleSentence": "专卖店的售货员服务周到。",
+    "examplePinyin": "Zhuānmàidiàn de shòuhuòyuán fúwù zhōudào.",
+    "exampleTranslation": "Le vendeur de la boutique exclusive offre un service attentionné.",
+    "hskLevel": 3
+  },
+  {
+    "character": "书店",
+    "pinyin": "shūdiàn",
+    "meaning": "Librairie",
+    "category": "Lieux",
+    "exampleSentence": "福州路上有很多特色书店。",
+    "examplePinyin": "Fúzhōulù shàng yǒu hěn duō tèsè shūdiàn.",
+    "exampleTranslation": "Il y a beaucoup de librairies spécialisées sur Fuzhou Road.",
+    "hskLevel": 3
+  },
+  {
+    "character": "书法",
+    "pinyin": "shūfǎ",
+    "meaning": "Calligraphie",
+    "category": "Art",
+    "exampleSentence": "练习中国传统书法艺术。",
+    "examplePinyin": "Liànxí Zhōngguó chuántǒng shūfǎ yìshù.",
+    "exampleTranslation": "Pratiquer l'art de la calligraphie chinoise traditionnelle.",
+    "hskLevel": 3
+  },
+  {
+    "character": "叔叔",
+    "pinyin": "shūshu",
+    "meaning": "Oncle paternal",
+    "category": "Famille",
+    "exampleSentence": "去叔叔家做客吃晚饭。",
+    "examplePinyin": "Qù shūshu jiā zuòkè chī wǎnfàn.",
+    "exampleTranslation": "Aller dîner chez mon oncle.",
+    "hskLevel": 3
+  },
+  {
+    "character": "熟悉",
+    "pinyin": "shúxī",
+    "meaning": "Bien connaître, familier",
+    "category": "Général",
+    "exampleSentence": "他非常熟悉上海的交通路线。",
+    "examplePinyin": "Tā fēicháng shúxī Shànghǎi de jiāotōng lùxiàn.",
+    "exampleTranslation": "Il connaît très bien les itinéraires de transport de Shanghai.",
+    "hskLevel": 3
+  },
+  {
+    "character": "数量",
+    "pinyin": "shùliàng",
+    "meaning": "Quantité",
+    "category": "Quantité",
+    "exampleSentence": "清点仓库货物的数量。",
+    "examplePinyin": "Qīngdiǎn cāngkù huòwù de shùliàng.",
+    "exampleTranslation": "Vérifier la quantité de marchandises en entrepôt.",
+    "hskLevel": 3
+  },
+  {
+    "character": "数字",
+    "pinyin": "shùzì",
+    "meaning": "Chiffre, numérique",
+    "category": "Maths",
+    "exampleSentence": "阿拉伯数字在世界通用。",
+    "examplePinyin": "Ālābó shùzì zài shìjiè tōngyòng.",
+    "exampleTranslation": "Les chiffres arabes sont utilisés dans le monde entier.",
+    "hskLevel": 3
+  },
+  {
+    "character": "刷牙",
+    "pinyin": "shuāyá",
+    "meaning": "Se brosser les dents",
+    "category": "Hygiène",
+    "exampleSentence": "早晚养成刷牙的好习惯。",
+    "examplePinyin": "Zǎowǎn yǎngchéng shuāyá de hǎo xíguàn.",
+    "exampleTranslation": "Prendre la bonne habitude de se brosser les dents matin et soir.",
+    "hskLevel": 3
+  },
+  {
+    "character": "睡",
+    "pinyin": "shuì",
+    "meaning": "Dormir",
+    "category": "Vie quotidienne",
+    "exampleSentence": "晚上十点准时睡觉。",
+    "examplePinyin": "Wǎnshang shí diǎn zhǔnshí shuìjiào.",
+    "exampleTranslation": "Aller dormir à 22h pétantes.",
+    "hskLevel": 3
+  },
+  {
+    "character": "顺便",
+    "pinyin": "shùnbiàn",
+    "meaning": "En passant, au passage",
+    "category": "Grammaire",
+    "exampleSentence": "去超市顺便买瓶牛奶。",
+    "examplePinyin": "Qù chāoshì shùnbiàn mǎi píng niúnǎi.",
+    "exampleTranslation": "Acheter une bouteille de lait au passage en allant au supermarché.",
+    "hskLevel": 3
+  },
+  {
+    "character": "顺利",
+    "pinyin": "shùnlì",
+    "meaning": "Sans encombre, favorable",
+    "category": "Général",
+    "exampleSentence": "祝项目推进一切顺利。",
+    "examplePinyin": "Zhù xiàngmù tuījìn yíqiè shùnlì.",
+    "exampleTranslation": "Je vous souhaite que tout se déroule sans encombre pour le projet.",
+    "hskLevel": 3
+  },
+  {
+    "character": "顺序",
+    "pinyin": "shùnxù",
+    "meaning": "Ordre, séquence",
+    "category": "Grammaire",
+    "exampleSentence": "按词汇表顺序排列记忆。",
+    "examplePinyin": "Àn cíhuìbiǎo shùnxù páiliè jìyì.",
+    "exampleTranslation": "Mémoriser dans l'ordre de la liste de vocabulaire.",
+    "hskLevel": 3
+  },
+  {
+    "character": "说话",
+    "pinyin": "shuōhuà",
+    "meaning": "Parler, parler chinois",
+    "category": "Communication",
+    "exampleSentence": "请用普通话慢慢说话。",
+    "examplePinyin": "Qǐng yòng pǔtōnghuà mànmàn shuōhuà.",
+    "exampleTranslation": "Parlez lentement en mandarin s'il vous plaît.",
+    "hskLevel": 3
+  },
+  {
+    "character": "说明",
+    "pinyin": "shuōmíng",
+    "meaning": "Expliquer, notice",
+    "category": "Communication",
+    "exampleSentence": "阅读产品使用说明书。",
+    "examplePinyin": "Yuèdú chǎnpǐn shǐyòng shuōmíngshū.",
+    "exampleTranslation": "Lire la notice d'utilisation du produit.",
+    "hskLevel": 3
+  },
+  {
+    "character": "硕士",
+    "pinyin": "shuòshì",
+    "meaning": "Master (diplôme)",
+    "category": "Études",
+    "exampleSentence": "获得复旦大学硕士学位。",
+    "examplePinyin": "Huòdé Fùdàn Dàxué shuòshì xuéwèi.",
+    "exampleTranslation": "Obtenir son diplôme de master à l'université Fudan.",
+    "hskLevel": 3
+  },
+  {
+    "character": "死",
+    "pinyin": "sǐ",
+    "meaning": "Mourir, à mourir (intense)",
+    "category": "Général",
+    "exampleSentence": "今天天气热死了。",
+    "examplePinyin": "Jīntiān tiānqì rè sǐ le.",
+    "exampleTranslation": "Il fait chaud à mourir aujourd'hui.",
+    "hskLevel": 3
+  },
+  {
+    "character": "速度",
+    "pinyin": "sùdù",
+    "meaning": "Vitesse, rapidité",
+    "category": "Transport",
+    "exampleSentence": "高铁行驶速度达到三百公里。",
+    "examplePinyin": "Gāotiě xíngshǐ sùdù dàdào sānbǎi gōnglǐ.",
+    "exampleTranslation": "La vitesse de circulation du TGV atteint 300 km/h.",
+    "hskLevel": 3
+  },
+  {
+    "character": "塑料袋",
+    "pinyin": "sùliàodài",
+    "meaning": "Sac en plastique",
+    "category": "Objets",
+    "exampleSentence": "自带环保购物袋减少使用塑料袋。",
+    "examplePinyin": "Zìdài huánbǎo gòuwùdài jiǎnshǎo shǐyòng sùliàodài.",
+    "exampleTranslation": "Apporter son propre sac de courses écologique pour réduire l'usage des sacs en plastique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "酸",
+    "pinyin": "suān",
+    "meaning": "Acide, courbaturé",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "运动后两条腿肌肉发酸。",
+    "examplePinyin": "Yùndòng hòu liǎng tiáo tuǐ jīròu fā suān.",
+    "exampleTranslation": "Avoir les muscles des jambes courbaturés après le sport.",
+    "hskLevel": 3
+  },
+  {
+    "character": "算",
+    "pinyin": "suàn",
+    "meaning": "Calculer, compter",
+    "category": "Maths",
+    "exampleSentence": "算一下这次消费的总金额。",
+    "examplePinyin": "Suàn yíxià zhè cì xiāofèi de zǒng jīn'é.",
+    "exampleTranslation": "Calculer le montant total de cette dépense.",
+    "hskLevel": 3
+  },
+  {
+    "character": "随便",
+    "pinyin": "suíbiàn",
+    "meaning": "Comme on veut, n'importe",
+    "category": "Attitude",
+    "exampleSentence": "请大家随便坐，不要客气。",
+    "examplePinyin": "Qǐng dàjiā suíbiàn zuò, búyào kèqi.",
+    "exampleTranslation": "Asseyez-vous comme vous voulez s'il vous plaît, faites comme chez vous.",
+    "hskLevel": 3
+  },
+  {
+    "character": "随着",
+    "pinyin": "suízhe",
+    "meaning": "Au fur et à mesure de",
+    "category": "Grammaire",
+    "exampleSentence": "随着科技发展生活越来越便利。",
+    "examplePinyin": "Suízhe kējì fāzhǎn shēnghuó yuèláiyuè biànlì.",
+    "exampleTranslation": "Au fur et à mesure du développement de la technologie, la vie devient de plus en plus pratique.",
+    "hskLevel": 3
+  },
+  {
+    "character": "孙子",
+    "pinyin": "sūnzi",
+    "meaning": "Petit-fils",
+    "category": "Famille",
+    "exampleSentence": "爷爷带着孙子去公园玩耍。",
+    "examplePinyin": "Yéye dài zhe sūnzi qù gōngyuán wánshuǎ.",
+    "exampleTranslation": "Grand-père emmène son petit-fils jouer au parc.",
+    "hskLevel": 3
+  },
+  {
+    "character": "所有",
+    "pinyin": "suǒyǒu",
+    "meaning": "Tous, la totalité",
+    "category": "Quantité",
+    "exampleSentence": "所有的资料都已归档完毕。",
+    "examplePinyin": "Suǒyǒu de zīliào dōu yǐ guīdàng wánbì.",
+    "exampleTranslation": "Tous les documents ont déjà été archivés.",
+    "hskLevel": 3
+  },
+  {
+    "character": "台",
+    "pinyin": "tái",
+    "meaning": "Classificateur d'appareils",
+    "category": "Classificateurs",
+    "exampleSentence": "办公室买了一台新打印机。",
+    "examplePinyin": "Bàngōngshì mǎi le yì tái xīn dǎyìnjī.",
+    "exampleTranslation": "Le bureau a acheté une nouvelle imprimante.",
+    "hskLevel": 3
+  },
+  {
+    "character": "抬",
+    "pinyin": "tái",
+    "meaning": "Soulever, porter à deux",
+    "category": "Action",
+    "exampleSentence": "大家一起抬这张重木桌。",
+    "examplePinyin": "Dàjiā yìqǐ tái zhè zhāng zhòng mùzhuō.",
+    "exampleTranslation": "Tout le monde soulevons cette lourde table en bois ensemble.",
+    "hskLevel": 3
+  },
+  {
+    "character": "谈",
+    "pinyin": "tán",
+    "meaning": "Discuter, causer",
+    "category": "Communication",
+    "exampleSentence": "双方在会议室面谈合作细节。",
+    "examplePinyin": "Shuāngfāng zài huìyìshì miàntán hézuò xìjié.",
+    "exampleTranslation": "Les deux parties discutent des détails de la collaboration dans la salle de réunion.",
+    "hskLevel": 3
+  },
+  {
+    "character": "弹钢琴",
+    "pinyin": "tán gāngqín",
+    "meaning": "Jouer du piano",
+    "category": "Art",
+    "exampleSentence": "她从小练习弹钢琴。",
+    "examplePinyin": "Tā cóngxiǎo liànxí tán gāngqín.",
+    "exampleTranslation": "Elle s'entraîne à jouer du piano depuis son enfance.",
+    "hskLevel": 3
+  },
+  {
+    "character": "汤",
+    "pinyin": "tāng",
+    "meaning": "Soupe",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "饭前喝一碗热鸡汤。",
+    "examplePinyin": "Fàn qián hē yì wǎn rè jītāng.",
+    "exampleTranslation": "Boire un bol de soupe de poulet chaude avant le repas.",
+    "hskLevel": 3
+  },
+  {
+    "character": "糖",
+    "pinyin": "táng",
+    "meaning": "Sucre, bonbon",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "咖啡里少放一点糖。",
+    "examplePinyin": "Kāfēi lǐ shǎo fàng yìdiǎn táng.",
+    "exampleTranslation": "Mettre un peu moins de sucre dans le café.",
+    "hskLevel": 3
+  },
+  {
+    "character": "躺",
+    "pinyin": "tǎng",
+    "meaning": "S'allonger, être couché",
+    "category": "Action",
+    "exampleSentence": "躺在草坪上晒太阳休息。",
+    "examplePinyin": "Tǎng zài cǎopíng shàng shài tàiyáng xiūxi.",
+    "exampleTranslation": "S'allonger sur la pelouse pour se reposer au soleil.",
+    "hskLevel": 3
+  },
+  {
+    "character": "趟",
+    "pinyin": "tàng",
+    "meaning": "Voyage, trajet (classificateur)",
+    "category": "Classificateurs",
+    "exampleSentence": "下周去一趟北京开会。",
+    "examplePinyin": "Xià zhōu qù yí tàng Běijīng kāihuì.",
+    "exampleTranslation": "Faire un trajet à Pékin la semaine prochaine pour une réunion.",
+    "hskLevel": 3
+  },
+  {
+    "character": "疼",
+    "pinyin": "téng",
+    "meaning": "Avoir mal, douloureux",
+    "category": "Corps & Santé",
+    "exampleSentence": "运动后胳膊肌肉有点疼。",
+    "examplePinyin": "Yùndòng hòu gēbo jīròu yǒudiǎn téng.",
+    "exampleTranslation": "Avoir un peu mal aux muscles des bras après le sport.",
+    "hskLevel": 3
+  },
+  {
+    "character": "体育",
+    "pinyin": "tǐyù",
+    "meaning": "Éducation physique, sport",
+    "category": "Sport",
+    "exampleSentence": "在体育场进行百米赛跑。",
+    "examplePinyin": "Zài tǐyùchǎng jìnxíng bǎimǐ sàipǎo.",
+    "exampleTranslation": "Faire une course de 100 mètres au stade de sport.",
+    "hskLevel": 3
+  },
+  {
+    "character": "条件",
+    "pinyin": "tiáojiàn",
+    "meaning": "Condition, critère",
+    "category": "Travail",
+    "exampleSentence": "公司提供优厚的福利条件。",
+    "examplePinyin": "Gōngsī tígōng yōuhòu de fúlì tiáojiàn.",
+    "exampleTranslation": "L'entreprise offre des conditions d'avantages très généreuses.",
+    "hskLevel": 3
+  },
+  {
+    "character": "停止",
+    "pinyin": "tíngzhǐ",
+    "meaning": "Arrêter, interrompre",
+    "category": "Action",
+    "exampleSentence": "机器故障暂停停止运转。",
+    "examplePinyin": "Jīqì gùzhàng zàntíng tíngzhǐ yùnzhuǎn.",
+    "exampleTranslation": "La machine a suspendu son fonctionnement en raison d'une panne.",
+    "hskLevel": 3
+  },
+  {
+    "character": "挺",
+    "pinyin": "tǐng",
+    "meaning": "Très, plutôt",
+    "category": "Adverbe",
+    "exampleSentence": "这个小吃味道挺不错的。",
+    "examplePinyin": "Zhège xiǎochī wèidao tǐng búcuò de.",
+    "exampleTranslation": "Ce snack a un goût plutôt pas mal.",
+    "hskLevel": 3
+  },
+  {
+    "character": "通过",
+    "pinyin": "tōngguò",
+    "meaning": "Réussir (examen), traverser",
+    "category": "Général",
+    "exampleSentence": "顺利通过HSK三级考试。",
+    "examplePinyin": "Shùnlì tōngguò HSK sānjí kǎoshì.",
+    "exampleTranslation": "Réussir l'examen HSK Niveau 3 avec succès.",
+    "hskLevel": 3
+  },
+  {
+    "character": "同书",
+    "pinyin": "tóngshū",
+    "meaning": "Même ouvrage",
+    "category": "Général",
+    "exampleSentence": "在同书中引用了该论点。",
+    "examplePinyin": "Zài tóngshū zhōng yǐnyòng le gāi lùndiǎn.",
+    "exampleTranslation": "Cet argument est cité dans le même ouvrage.",
+    "hskLevel": 3
+  },
+  {
+    "character": "同路",
+    "pinyin": "tónglù",
+    "meaning": "Même chemin, compagnon de route",
+    "category": "Transport",
+    "exampleSentence": "我们俩正巧是同路人。",
+    "examplePinyin": "Wǒmen liǎ zhèngqiǎo shì tónglùrén.",
+    "exampleTranslation": "Nous sommes justement compagnons de route.",
+    "hskLevel": 3
+  },
+  {
+    "character": "头等舱",
+    "pinyin": "tóuděngcāng",
+    "meaning": "Première classe (avion)",
+    "category": "Voyage",
+    "exampleSentence": "乘坐国际航班头等舱。",
+    "examplePinyin": "Chéngzuò guójì hángbān tóuděngcāng.",
+    "exampleTranslation": "Voyager en première classe sur un vol international.",
+    "hskLevel": 3
+  },
+  {
+    "character": "透明",
+    "pinyin": "tòumíng",
+    "meaning": "Transparent",
+    "category": "Qualité",
+    "exampleSentence": "信息保持公开透明。",
+    "examplePinyin": "Xìnxī bǎochí gōngkāi tòumíng.",
+    "exampleTranslation": "L'information reste publique et transparente.",
+    "hskLevel": 3
+  },
+  {
+    "character": "图书",
+    "pinyin": "túshū",
+    "meaning": "Livres, publications",
+    "category": "Études",
+    "exampleSentence": "在图书馆借阅学术图书。",
+    "examplePinyin": "Zài túshūguǎn jièyuè xuéshù túshū.",
+    "exampleTranslation": "Emprunter des livres académiques à la bibliothèque.",
+    "hskLevel": 3
+  },
+  {
+    "character": "团聚",
+    "pinyin": "tuánjù",
+    "meaning": "Se réunir en famille",
+    "category": "Famille",
+    "exampleSentence": "春节全家欢聚一堂团聚。",
+    "examplePinyin": "Chūnjié quánjiā huānjù yì táng tuánjù.",
+    "exampleTranslation": "Toute la famille se réjouit de se réunir pour le Nouvel An.",
+    "hskLevel": 3
+  },
+  {
+    "character": "停车场",
+    "pinyin": "tíngchēchǎng",
+    "meaning": "Parking",
+    "hskLevel": 3,
+    "category": "Transport",
+    "exampleSentence": "商场地下停车场很大。",
+    "examplePinyin": "Shāngchǎng dìxià tíngchēchǎng hěn dà.",
+    "exampleTranslation": "Le parking souterrain du centre commercial est très grand."
+  },
+  {
+    "character": "乘",
+    "pinyin": "chéng",
+    "meaning": "Prendre (un transport)",
+    "hskLevel": 3,
+    "category": "Transport",
+    "exampleSentence": "请凭票乘坐公共交通。",
+    "examplePinyin": "Qǐng píng piào chéngzuò gōnggòng jiāotōng.",
+    "exampleTranslation": "Veuillez emprunter les transports publics munis d'un billet."
+  },
+  {
+    "character": "紫色",
+    "pinyin": "zǐsè",
+    "meaning": "Violet",
+    "hskLevel": 3,
+    "category": "Couleurs",
+    "exampleSentence": "买了一束紫色的薰衣草。",
+    "examplePinyin": "Mǎi le yí shù zǐsè de xūnyīcǎo.",
+    "exampleTranslation": "J'ai acheté un bouquet de lavande violette."
+  },
+  {
+    "character": "棕色",
+    "pinyin": "zōngsè",
+    "meaning": "Marron, brun",
+    "hskLevel": 3,
+    "category": "Couleurs",
+    "exampleSentence": "这对棕色的皮鞋穿着很合适。",
+    "examplePinyin": "Zhè duì zōngsè de píxié chuān zhe hěn héshì.",
+    "exampleTranslation": "Ces chaussures en cuir marron vont très bien."
+  },
+  {
+    "character": "彩色",
+    "pinyin": "cǎisè",
+    "meaning": "Coloré, multicolore",
+    "hskLevel": 3,
+    "category": "Couleurs",
+    "exampleSentence": "繁华街道两旁挂满了彩色彩灯。",
+    "examplePinyin": "Fánhuá jiēdào liǎngpáng guàmǎn le cǎisè cǎidēng.",
+    "exampleTranslation": "Des guirlandes multicolores bordent la rue animée."
+  },
+  {
+    "character": "底",
+    "pinyin": "dǐ",
+    "meaning": "Fond, au bas de",
+    "hskLevel": 3,
+    "category": "Position & Espace",
+    "exampleSentence": "文件在抽屉最底下。",
+    "examplePinyin": "Wénjiàn zài chōuti zuì dǐxia.",
+    "exampleTranslation": "Le document est au tout fond du tiroir."
+  },
+  {
+    "character": "顶",
+    "pinyin": "dǐng",
+    "meaning": "Sommet, haut",
+    "hskLevel": 3,
+    "category": "Position & Espace",
+    "exampleSentence": "站在东方明珠顶端俯瞰上海。",
+    "examplePinyin": "Zhàn zài Dōngfāngmíngzhū dǐngduān fǔkàn Shànghǎi.",
+    "exampleTranslation": "Se tenir au sommet de la Perle de l'Orient pour contempler Shanghai."
+  },
+  {
+    "character": "围巾",
+    "pinyin": "wéijīn",
+    "meaning": "Écharpe",
+    "hskLevel": 3,
+    "category": "Vêtements",
+    "exampleSentence": "冬天戴一条羊毛围巾保暖。",
+    "examplePinyin": "Dōngtiān dài yì tiáo yángmáo wéijīn bǎonuǎn.",
+    "exampleTranslation": "Porter une écharpe en laine pour se tenir au chaud en hiver."
+  },
+  {
+    "character": "手套",
+    "pinyin": "shǒutào",
+    "meaning": "Gants",
+    "hskLevel": 3,
+    "category": "Vêtements",
+    "exampleSentence": "天气太冷需要戴手套。",
+    "examplePinyin": "Tiānqì tài lěng xūyào dài shǒutào.",
+    "exampleTranslation": "Le temps est trop froid, il faut porter des gants."
+  },
+  {
+    "character": "皮鞋",
+    "pinyin": "píxié",
+    "meaning": "Chaussures en cuir",
+    "hskLevel": 3,
+    "category": "Vêtements",
+    "exampleSentence": "出席商务会议穿着正装皮鞋。",
+    "examplePinyin": "Chūxí shāngwù huìyì chuān zhe zhèngzhuāng píxié.",
+    "exampleTranslation": "Porter des chaussures en cuir habillées pour assister à la réunion d'affaires."
+  },
+  {
+    "character": "领带",
+    "pinyin": "lǐngdài",
+    "meaning": "Cravate",
+    "hskLevel": 3,
+    "category": "Vêtements",
+    "exampleSentence": "打上一条深色的正装领带。",
+    "examplePinyin": "Dǎ shàng yì tiáo shēnsè de zhèngzhuāng lǐngdài.",
+    "exampleTranslation": "Nouer une cravate habillée de couleur foncée."
+  }
+]

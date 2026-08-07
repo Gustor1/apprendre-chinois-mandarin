@@ -1,0 +1,116 @@
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Word {
+  id                 String     @id @default(uuid())
+  character          String
+  pinyin             String
+  meaning            String
+  hskLevel           Int        // 1, 2, 3
+  category           String?    // e.g. "Salutations", "Vie quotidienne"
+  orderIndex         Int        @default(0)
+  exampleSentence    String?
+  examplePinyin      String?
+  exampleTranslation String?
+  createdAt          DateTime   @default(now())
+  updatedAt          DateTime   @updatedAt
+  srsCards           SRSCard[]
+  favorites          Favorite[]
+
+  @@index([category])
+}
+
+model GrammarStructure {
+  id                 String     @id @default(uuid())
+  title              String
+  hskLevel           Int
+  pattern            String
+  explanation        String
+  exampleSentence    String
+  examplePinyin      String
+  exampleTranslation String
+  createdAt          DateTime   @default(now())
+  favorites          Favorite[]
+}
+
+model SRSCard {
+  id             String    @id @default(uuid())
+  userId         String    @default("user_default")
+  wordId         String
+  word           Word      @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  status         String    @default("NEW") // NEW, LEARNING, REVIEW, MASTERED
+  interval       Int       @default(0)     // jours
+  repetition     Int       @default(0)     // compte de réussites
+  easeFactor     Float     @default(2.5)   // SM-2
+  nextReviewDate DateTime  @default(now())
+  lastReviewedAt DateTime?
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  @@unique([userId, wordId])
+  @@index([userId, status])
+  @@index([userId, nextReviewDate])
+}
+
+model UserSession {
+  id              String   @id @default(uuid())
+  userId          String   @default("user_default")
+  date            DateTime @default(now())
+  durationSeconds Int
+  wordsReviewed   Int
+  wordsLearned    Int
+  completedAt     DateTime @default(now())
+
+  @@index([userId, completedAt])
+}
+
+model UserStreak {
+  id             String    @id @default(uuid())
+  userId         String    @unique @default("user_default")
+  currentStreak  Int       @default(0)
+  longestStreak  Int       @default(0)
+  lastActiveDate DateTime?
+}
+
+model ConversationalItem {
+  id                 String     @id @default(uuid())
+  type               String     // "CONNECTOR" | "CONTRACTION"
+  title              String
+  spokenForm         String?    // Forme orale native (ex: 今晚)
+  standardForm       String?    // Forme manuel équivalente (ex: 今天晚上)
+  pattern            String?    // Patron grammatical oral (ex: 从...就...)
+  meaning            String
+  explanation        String?
+  theme              String     // Thème (Connecteurs, Temps, Politesse, etc.)
+  hskLevel           Int        @default(1)
+  exampleSentence    String
+  examplePinyin      String
+  exampleTranslation String
+  inSRS              Boolean    @default(false)
+  createdAt          DateTime   @default(now())
+  favorites          Favorite[]
+}
+
+model Favorite {
+  id                   String              @id @default(uuid())
+  userId               String              @default("user_default")
+  wordId               String?
+  word                 Word?               @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  grammarStructureId   String?
+  grammarStructure     GrammarStructure?   @relation(fields: [grammarStructureId], references: [id], onDelete: Cascade)
+  conversationalItemId String?
+  conversationalItem   ConversationalItem? @relation(fields: [conversationalItemId], references: [id], onDelete: Cascade)
+  createdAt            DateTime            @default(now())
+
+  @@unique([userId, wordId])
+  @@unique([userId, grammarStructureId])
+  @@unique([userId, conversationalItemId])
+  @@index([userId])
+}

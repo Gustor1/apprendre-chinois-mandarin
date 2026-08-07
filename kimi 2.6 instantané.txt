@@ -1,0 +1,246 @@
+kimi 2.6 instantané 
+
+ Je vais rechercher les informations les plus récentes sur la nouvelle norme HSK 3.0, les retours d'expérience des apprenants, les attentes professionnelles en Chine et les meilleures ressources disponibles pour construire un plan sur mesure. 
+  Je vais approfondir les recherches sur les retours d'expérience des apprenants, les attentes professionnelles en Chine et les ressources spécifiques pour l'oral.  
+ Voici un plan complet, structuré autour de la nouvelle norme **HSK 3.0** (officielle depuis juillet 2026) et calibré pour 15 minutes par jour, avec la **conversation** comme objectif premier.
+
+---
+
+## 🎯 Contexte stratégique : pourquoi ce plan est construit ainsi
+
+### La nouvelle norme HSK 3.0 (juillet 2026)
+Le HSK a été profondément réformé : passage de 6 à 9 niveaux, vocabulaire doublé, et surtout **l'oral intégré dès le niveau 3** (plus de HSKK séparé obligatoire). Le vocabulaire est désormais cumulatif :
+
+| Niveau | Vocabulaire cumulé | Objectif communicatif |
+|--------|-------------------|----------------------|
+| HSK 1 | 300 mots | Informations personnelles, salutations, achats |
+| HSK 2 | 500 mots | Voyages, loisirs, médecine basique |
+| HSK 3 | 1 000 mots | Services (banque, mobile), opinions simples |
+| HSK 4 | 2 000 mots | Travail quotidien, réunions, lectures simples |
+| HSK 5 | 3 600 mots | Négociations, sujets techniques, médias |
+| HSK 6 | 5 400 mots | Documents officiels, présentations, nuances |
+
+
+
+### Ce que demandent vraiment les entreprises en Chine
+- **HSK 4** = seuil d'entrée pour la plupart des postes professionnels (administration, marketing, vente). C'est le niveau où vous pouvez lire des emails, participer à des réunions et gérer des collègues chinois.
+- **HSK 5** = « sweet spot » pour l'intégration complète : vous pouvez travailler sans barrière de langue dans la majorité des environnements.
+- **HSK 6** = requis pour les postes de direction, juridique, médical ou académique.
+
+
+
+---
+
+## ⏱️ La méthode des 15 minutes : structure de session
+
+Chaque jour, votre session suit ce schéma **obligatoire** :
+
+| Phase | Durée | Contenu |
+|-------|-------|---------|
+| **Révision active** | 4 min | Flashcards Anki (rappel spatial) + réécoute audio de phrases déjà apprises |
+| **Rappel de structure** | 3 min | Relire à haute voix 2-3 modèles de phrases clés de l'étape en cours |
+| **Nouveau contenu** | 8 min | 3-5 nouveaux mots + 1 structure grammaticale, toujours avec audio natif |
+
+> **Règle d'or** : chaque nouveau mot doit être appris dans une **phrase entière** que vous dites à voix haute. Pas de mots isolés.
+
+---
+
+## 📚 Le plan étape par étape
+
+### ÉTAPE 0 — Reset & Fondations (HSK 1 · 300 mots)
+**Durée estimée : 2 à 3 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | 300 mots de base : salutations, famille, nombres, dates, nourriture, directions |
+| **Structures** | Ordre SVO, questions avec 吗/什么/哪里/多少, négation 不/没, possession 的 |
+| **Oral (40%)** | Prononciation des tons (crucial), répéter après l'audio, lire les phrases à voix haute |
+| **Écoute (35%)** | Comprehensible Input : Bumpy Chinese / Comprehensible Chinese (podcast débutant 100% chinois avec images) |
+| **Écrit/Flashcards (25%)** | Anki avec deck HSK 1 (taper les mots, pas juste les lire) |
+
+**Ressources concrètes :**
+- **App** : HelloChinese (gamifié, bonne prononciation) ou ChineseSkill (gratuit)
+- **Podcast** : *Bumpy Chinese / Comprehensible Chinese* — la meilleure ressource de « input compréhensible » pour débutants, 100% en chinois avec répétitions et reformulations
+- **Dictionnaire** : Pleco (indispensable, gratuit)
+- **Flashcards** : Anki avec deck HSK 3.0 officiel
+
+**Jalon pour passer à l'étape suivante :**
+- Vous pouvez vous présenter, commander au restaurant, demander votre chemin, et comprendre les réponses simples sans traduire mentalement.
+- Vous maîtrisez les 4 tons à 80% de précision.
+
+---
+
+### ÉTAPE 1 — Survie quotidienne (HSK 2 · 500 mots cumulés)
+**Durée estimée : 2 à 3 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | +200 mots : transport, voyage, loisirs, symptômes médicaux, descriptions physiques |
+| **Structures** | 了 (changement d'état), comparaisons 比, 会/能/可以 (capacité/permission), 因为...所以 |
+| **Oral (45%)** | Shadowing (répéter juste après le natif) de dialogues de 3-4 phrases. Enregistrez-vous et comparez. |
+| **Écoute (35%)** | *Melnyks Chinese* (podcast progressif avec répétitions intégrées) + dramas avec sous-titres chinois |
+| **Écrit/Flashcards (20%)** | Anki HSK 2 + écrire 5 caractères par jour (ordre des traits) |
+
+**Ressources concrètes :**
+- **App** : HelloChinese (poursuivre) + Pimsleur Mandarin (30 min/lesson, idéal en audio pour les déplacements — si vous avez plus de temps le week-end)
+- **Podcast** : *Melnyks Chinese* — cours audio thématiques, très progressif
+- **Drama** : *A Love So Beautiful* (致我们单纯的小美好) — dialogue adolescent simple, prononciation lente et claire
+- **Tandem** : HelloTalk (gratuit) — commencez à envoyer des messages vocaux de 10 secondes, pas des textes
+
+**Jalon pour passer à l'étape suivante :**
+- Vous pouvez décrire une journée type, parler de votre famille, exprimer un besoin médical simple, et gérer un voyage en train/avion en chinois.
+- Vous tenez une conversation de 2-3 minutes avec un natif patient (même hésitante).
+
+---
+
+### ÉTAPE 2 — Conversation basique (HSK 3 · 1 000 mots cumulés)
+**Durée estimée : 3 à 4 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | +500 mots : services (banque, mobile, poste), éducation, fêtes traditionnelles, environnement |
+| **Structures** | 把 sentences, 被 (passif), 虽然...但是, 又...又, 越来越, 对...感兴趣 |
+| **Oral (50%)** | Monologues de 1 minute sur un sujet familier. Sessions iTalki (1x/semaine, 25 min) ou tandem vocal HelloTalk. |
+| **Écoute (30%)** | *TeaTime Chinese* (Nathan, monologues lents sur la vie quotidienne) + *Speak Chinese with Da Peng* |
+| **Écrit/Flashcards (20%)** | Anki HSK 3 + écrire des phrases complètes (pas juste des mots) |
+
+**Ressources concrètes :**
+- **Cours en ligne** : iTalki (professeur natif, ~8-12€/cours de 25 min) — **investissement prioritaire à ce stade**. Demandez à votre prof de vous faire faire des « role-play » : commander, réclamer, prendre rendez-vous.
+- **Podcast** : *TeaTime Chinese* — 99% chinois, Nathan parle lentement et reformule les mots difficiles en chinois. Parfait pour la transition vers le vrai chinois.
+- **Podcast** : *Speak Chinese with Da Peng* — monologues naturels, expressions quotidiennes
+- **Drama** : *Put Your Head on My Shoulder* (致我们暖暖的小时光) — vocabulaire moderne, conversations naturelles
+
+**Jalon pour passer à l'étape suivante :**
+- Vous gérez seul une démarche administrative en Chine (ouverture de compte, forfait mobile, réclamation).
+- Vous participez à une discussion de groupe simple (même avec des blancs).
+- Vous comprenez le « gist » d'un podcast intermédiaire sans sous-titres.
+
+---
+
+### ÉTAPE 3 — Vie sociale & pro basique (HSK 4 · 2 000 mots cumulés)
+**Durée estimée : 4 à 5 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | +1 000 mots : travail (CV, entretien, réunion), médias, culture, opinions, économie simple |
+| **Structures** | 不仅...而且, 既然...就, 不管...都, 于是, 却, 反而, structures conditionnelles avancées |
+| **Oral (50%)** | Présentations de 2-3 minutes. Débats simples. Cours iTalki hebdomadaire obligatoire avec focus « travail en Chine ». |
+| **Écoute (30%)** | *Maomi Chinese* (monologues scriptés mais intéressants) + *Hake Mandarin* (conversations naturelles entre natifs) |
+| **Écrit/Flashcards (20%)** | Anki HSK 4 + lire des articles simples sur Du Chinese |
+
+**Ressources concrètes :**
+- **App** : Du Chinese (lectures graduées HSK 4 avec audio natif) — excellent pour lier écrit et oral
+- **Podcast** : *Maomi Chinese* — podcast bilingue (apprenante + prof) avec explications en chinois
+- **Podcast** : *Hake Mandarin* (還可中文) — conversations naturelles entre amis taïwanais, parfait pour l'oreille réelle
+- **YouTube** : Mandarin Corner (Eileen) — interviews dans la rue, défi d'écoute
+- **Tandem** : Passer à des appels vocaux de 15 min 2x/semaine minimum
+
+**Jalon pour passer à l'étape suivante :**
+- Vous pouvez lire et répondre à un email professionnel simple.
+- Vous suivez une réunion de travail en chinois et posez des questions de clarification.
+- Vous discutez de sujets sociaux (logement, transport, économie) sans préparation.
+
+---
+
+### ÉTAPE 4 — Intégration professionnelle (HSK 5 · 3 600 mots cumulés)
+**Durée estimée : 6 à 8 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | +1 600 mots : business, négociation, technologie, politique simple, culture approfondie |
+| **Structures** | 与其...不如, 固然...不过, 无非, 姑且, nuances du 把 et 被, registres formels/informels |
+| **Oral (45%)** | Simulations d'entretien d'embauche en chinois. Exposés de 5 min. Cours iTalki avec focus business. |
+| **Écoute (35%)** | *Convo Chinese* (conversations authentiques sur la société chinoise) + podcasts natifs avancés |
+| **Écrit/Flashcards (20%)** | Anki HSK 5 + traduction chinois→français de phrases complexes |
+
+**Ressources concrètes :**
+- **Podcast** : *Convo Chinese* — dialogues authentiques entre natifs sur des sujets variés (politique, culture, vie quotidienne)
+- **Podcast natif** : *半拿铁* (podcast business chinois pour natifs — commencez par les sujets que vous connaissez déjà)
+- **Drama** : *The Story of Minglan* (知否知否应是绿肥红瘦) — mélange de registres formels et familiaux, vocabulaire riche
+- **Chansons** : JJ Lin (林俊杰), Jay Chou (周杰伦) — paroles poétiques mais prononciation claire
+
+**Jalon pour passer à l'étape suivante :**
+- Vous pouvez négocuer un contrat de travail ou un loyer en chinois.
+- Vous comprenez les informations télévisées chinoises à 70%.
+- Vous rédigez un rapport professionnel simple.
+
+---
+
+### ÉTAPE 5 — Fluidité professionnelle (HSK 6 · 5 400 mots cumulés)
+**Durée estimée : 8 à 12 mois**
+
+| | Détail |
+|---|---|
+| **Vocabulaire** | +1 800 mots : registres soutenus, expressions idiomatiques (成语), langage diplomatique, académique |
+| **Structures** | 成语 fréquents, registres élevés, sous-entendus culturels, traduction bidirectionnelle |
+| **Oral (45%)** | Prise de parole en public en chinois. Négociations complexes. Cours iTalki avec profs spécialisés business/légal. |
+| **Écoute (35%)** | Podcasts natifs (Gushi FM, 声动早咖啡) + conférences en chinois |
+| **Écrit/Flashcards (20%)** | Anki HSK 6 + rédaction d'articles/comptes-rendus |
+
+**Ressources concrètes :**
+- **Podcast natif** : *Gushi FM* (故事FM) — récits de vie réels, accents régionaux, émotions authentiques
+- **Podcast natif** : *声动早咖啡* — actualités business quotidiennes, 10-15 min
+- **Drama** : *Nirvana in Fire* (琅琊榜) — langage soutenu, structures complexes, 成语
+
+**Jalon final :**
+- Vous pouvez travailler intégralement en chinois dans un environnement professionnel chinois.
+- Vous lisez des documents officiels sans dictionnaire constant.
+- Vous passez le HSK 6 (ou 7-9 si besoin) avec une bonne marge.
+
+---
+
+## 🛠️ Stack d'outils recommandé (gratuits + payants)
+
+| Besoin | Outil | Prix | Pourquoi |
+|--------|-------|------|----------|
+| **Cours structuré** | HelloChinese | Gratuit / ~12€/mois | Gamifié, audio natif, progression claire |
+| **Dictionnaire** | Pleco | Gratuit | Le meilleur dictionnaire chinois, avec audio |
+| **Flashcards** | Anki | Gratuit (Android/PC) / 25€ (iOS) | Rappel spatial, decks HSK 3.0 disponibles |
+| **Cours oral 1-to-1** | iTalki | ~8-15€/25 min | Natifs certifiés, focus conversation |
+| **Écoute graduée** | ChinesePod | Gratuit / 14-29€/mois | Milliers d'épisodes par niveau |
+| **Lecture + audio** | Du Chinese | ~15€/mois | Histoires graduées HSK, audio natif |
+| **Tandem écrit/vocal** | HelloTalk | Gratuit / ~7€/mois | Échange avec natifs, correction mutuelle |
+| **Input compréhensible** | Bumpy Chinese (YouTube) | Gratuit | 100% chinois, visuel, parfait débutant |
+| **Podcast intermédiaire** | TeaTime Chinese | Gratuit | Monologues clairs, sujets variés |
+| **Podcast avancé** | Convo Chinese | Gratuit | Conversations authentiques natifs |
+
+---
+
+## 📺 Contenu authentique : dramas et chansons par niveau
+
+| Niveau | Drama | Chanteur/Style |
+|--------|-------|---------------|
+| **Débutant** | *A Love So Beautiful* (致我们单纯的小美好) | 抖音热歌 (chansons courtes TikTok, vocabulaire simple) |
+| **Intermédiaire** | *Put Your Head on My Shoulder*, *Love O2O* | 毛不易 (Mao Buyi) — paroles claires, émotions |
+| **Avancé** | *The Story of Minglan*, *Nirvana in Fire* | 周杰伦 (Jay Chou), 林俊杰 (JJ Lin) — paroles poétiques |
+| **Natif** | *Ode to Joy* (欢乐颂), *A Little Reunion* (小欢喜) | Podcasts natifs, 说唱 chinois |
+
+> **Méthode de visionnage active** (30 min) :
+> 1. Visionnez 1 scène sans sous-titres → notez ce que vous comprenez
+> 2. Revisitez avec sous-titres chinois → notez 5-8 expressions
+> 3. Shadowing : répétez 3 répliques à voix haute
+> 4. Ajoutez les expressions à Anki
+
+---
+
+## ✅ Récapitulatif : feuille de route sur 2-3 ans
+
+| Période | Niveau | Focus principal | Investissement clé |
+|---------|--------|-----------------|-------------------|
+| **Mois 1-5** | HSK 1→2 | Tons + survie | HelloChinese + Anki |
+| **Mois 6-10** | HSK 3 | Conversation basique | iTalki 1x/semaine + TeaTime Chinese |
+| **Mois 11-18** | HSK 4 | Vie pro basique | iTalki 2x/semaine + Du Chinese |
+| **Mois 19-28** | HSK 5 | Intégration pro | Convo Chinese + tandem vocal régulier |
+| **Mois 29-40** | HSK 6 | Fluidité totale | Podcasts natifs + dramas avancés |
+
+---
+
+## 💡 Conseils finaux basés sur les retours d'apprenants
+
+1. **Ne sautez jamais la phase « oral à voix haute »** — taper des flashcards sans prononcer crée un « chinois passif » inutile pour la conversation.
+2. **L'input doit précéder l'output** — écoutez 10h de chinois compréhensible avant d'essayer de parler librement. C'est la méthode qui fonctionne.
+3. **Un prof iTalki vaut 100 apps** — à partir du HSK 3, 1 cours/semaine accélère plus que 6 mois d'app seul.
+4. **Acceptez l'approximation** — les Chinois comprendront vos tons imparfaits si votre vocabulaire est bon. Ne bloquez pas sur la perfection phonétique.
+5. **HSK 4 = vraie liberté en Chine** — c'est le niveau où la vie quotidienne et professionnelle deviennent fluides. Ciblez-le comme première étape concrète. 
+
+Bonne chance dans votre apprentissage ! 加油 (jiāyóu) ! 🇨🇳

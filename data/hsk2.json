@@ -1,0 +1,2103 @@
+[
+  {
+    "character": "希望",
+    "pinyin": "xīwàng",
+    "meaning": "Espérer",
+    "category": "Verbes",
+    "exampleSentence": "我希望你能来。",
+    "examplePinyin": "Wǒ xīwàng nǐ néng lái.",
+    "exampleTranslation": "J'espère que tu pourras venir."
+  },
+  {
+    "character": "准备",
+    "pinyin": "zhǔnbèi",
+    "meaning": "Préparer, se préparer",
+    "category": "Verbes",
+    "exampleSentence": "你准备好了吗？",
+    "examplePinyin": "Nǐ zhǔnbèi hǎo le ma?",
+    "exampleTranslation": "Es-tu prêt ?"
+  },
+  {
+    "character": "开始",
+    "pinyin": "kāishǐ",
+    "meaning": "Commencer",
+    "category": "Verbes",
+    "exampleSentence": "课开始了。",
+    "examplePinyin": "Kè kāishǐ le.",
+    "exampleTranslation": "Le cours commence."
+  },
+  {
+    "character": "结束",
+    "pinyin": "jiéshù",
+    "meaning": "Finir, terminer",
+    "category": "Verbes",
+    "exampleSentence": "会议几点结束？",
+    "examplePinyin": "Huìyì jǐ diǎn jiéshù?",
+    "exampleTranslation": "À quelle heure se termine la réunion ?"
+  },
+  {
+    "character": "完",
+    "pinyin": "wán",
+    "meaning": "Finir, terminer",
+    "category": "Verbes",
+    "exampleSentence": "我看完这本书了。",
+    "examplePinyin": "Wǒ kàn wán zhè běn shū le.",
+    "exampleTranslation": "J'ai fini de lire ce livre."
+  },
+  {
+    "character": "到达",
+    "pinyin": "dàodá",
+    "meaning": "Arriver à",
+    "category": "Verbes",
+    "exampleSentence": "火车什么时候到达？",
+    "examplePinyin": "Huǒchē shénme shíhou dàodá?",
+    "exampleTranslation": "À quelle heure le train arrive-t-il ?"
+  },
+  {
+    "character": "离开",
+    "pinyin": "líkāi",
+    "meaning": "Quitter, partir",
+    "category": "Verbes",
+    "exampleSentence": "他已经离开了。",
+    "examplePinyin": "Tā yǐjīng líkāi le.",
+    "exampleTranslation": "Il est déjà parti."
+  },
+  {
+    "character": "出发",
+    "pinyin": "chūfā",
+    "meaning": "Partir, se mettre en route",
+    "category": "Verbes",
+    "exampleSentence": "我们几点出发？",
+    "examplePinyin": "Wǒmen jǐ diǎn chūfā?",
+    "exampleTranslation": "À quelle heure partons-nous ?"
+  },
+  {
+    "character": "经过",
+    "pinyin": "jīngguò",
+    "meaning": "Passer par",
+    "category": "Verbes",
+    "exampleSentence": "地铁经过南京路。",
+    "examplePinyin": "Dìtiě jīngguò Nánjīng Lù.",
+    "exampleTranslation": "Le métro passe par Nanjing Road."
+  },
+  {
+    "character": "换",
+    "pinyin": "huàn",
+    "meaning": "Changer, échanger",
+    "category": "Verbes",
+    "exampleSentence": "下一站换2号线。",
+    "examplePinyin": "Xià yí zhàn huàn 2 hào xiàn.",
+    "exampleTranslation": "Changez pour la ligne 2 au prochain arrêt."
+  },
+  {
+    "character": "搬",
+    "pinyin": "bān",
+    "meaning": "Déménager, porter",
+    "category": "Verbes",
+    "exampleSentence": "我刚搬到浦东。",
+    "examplePinyin": "Wǒ gāng bān dào Pǔdōng.",
+    "exampleTranslation": "Je viens de déménager à Pudong."
+  },
+  {
+    "character": "拿",
+    "pinyin": "ná",
+    "meaning": "Prendre, porter",
+    "category": "Verbes",
+    "exampleSentence": "请帮我拿一下。",
+    "examplePinyin": "Qǐng bāng wǒ ná yíxià.",
+    "exampleTranslation": "Aide-moi à porter ça."
+  },
+  {
+    "character": "放",
+    "pinyin": "fàng",
+    "meaning": "Poser, mettre",
+    "category": "Verbes",
+    "exampleSentence": "把包放在这里。",
+    "examplePinyin": "Bǎ bāo fàng zài zhèlǐ.",
+    "exampleTranslation": "Pose le sac ici."
+  },
+  {
+    "character": "忘",
+    "pinyin": "wàng",
+    "meaning": "Oublier",
+    "category": "Verbes",
+    "exampleSentence": "我忘了带钥匙。",
+    "examplePinyin": "Wǒ wàng le dài yàoshi.",
+    "exampleTranslation": "J'ai oublié mes clés."
+  },
+  {
+    "character": "记得",
+    "pinyin": "jìde",
+    "meaning": "Se souvenir",
+    "category": "Verbes",
+    "exampleSentence": "你还记得我吗？",
+    "examplePinyin": "Nǐ hái jìde wǒ ma?",
+    "exampleTranslation": "Tu te souviens de moi ?"
+  },
+  {
+    "character": "了解",
+    "pinyin": "liǎojiě",
+    "meaning": "Comprendre, connaître",
+    "category": "Verbes",
+    "exampleSentence": "我想了解中国文化。",
+    "examplePinyin": "Wǒ xiǎng liǎojiě Zhōngguó wénhuà.",
+    "exampleTranslation": "Je veux comprendre la culture chinoise."
+  },
+  {
+    "character": "明白",
+    "pinyin": "míngbai",
+    "meaning": "Comprendre",
+    "category": "Verbes",
+    "exampleSentence": "你明白了吗？",
+    "examplePinyin": "Nǐ míngbai le ma?",
+    "exampleTranslation": "Tu comprends ?"
+  },
+  {
+    "character": "相信",
+    "pinyin": "xiāngxìn",
+    "meaning": "Croire",
+    "category": "Verbes",
+    "exampleSentence": "我相信你。",
+    "examplePinyin": "Wǒ xiāngxìn nǐ.",
+    "exampleTranslation": "Je te crois."
+  },
+  {
+    "character": "担心",
+    "pinyin": "dānxīn",
+    "meaning": "S'inquiéter",
+    "category": "Verbes",
+    "exampleSentence": "别担心，没问题。",
+    "examplePinyin": "Bié dānxīn, méi wèntí.",
+    "exampleTranslation": "Ne t'inquiète pas, pas de problème."
+  },
+  {
+    "character": "注意",
+    "pinyin": "zhùyì",
+    "meaning": "Faire attention",
+    "category": "Verbes",
+    "exampleSentence": "请注意安全。",
+    "examplePinyin": "Qǐng zhùyì ānquán.",
+    "exampleTranslation": "Faites attention à la sécurité."
+  },
+  {
+    "character": "感兴趣",
+    "pinyin": "gǎn xìngqù",
+    "meaning": "S'intéresser à",
+    "category": "Verbes",
+    "exampleSentence": "我对中国历史很感兴趣。",
+    "examplePinyin": "Wǒ duì Zhōngguó lìshǐ hěn gǎn xìngqù.",
+    "exampleTranslation": "L'histoire de la Chine m'intéresse beaucoup."
+  },
+  {
+    "character": "解决",
+    "pinyin": "jiějué",
+    "meaning": "Résoudre",
+    "category": "Verbes",
+    "exampleSentence": "这个问题要解决。",
+    "examplePinyin": "Zhège wèntí yào jiějué.",
+    "exampleTranslation": "Ce problème doit être résolu."
+  },
+  {
+    "character": "参加",
+    "pinyin": "cānjiā",
+    "meaning": "Participer",
+    "category": "Verbes",
+    "exampleSentence": "你想参加吗？",
+    "examplePinyin": "Nǐ xiǎng cānjiā ma?",
+    "exampleTranslation": "Tu veux participer ?"
+  },
+  {
+    "character": "检查",
+    "pinyin": "jiǎnchá",
+    "meaning": "Vérifier, examiner",
+    "category": "Verbes",
+    "exampleSentence": "医生要检查一下。",
+    "examplePinyin": "Yīshēng yào jiǎnchá yíxià.",
+    "exampleTranslation": "Le médecin va faire un examen."
+  },
+  {
+    "character": "需要",
+    "pinyin": "xūyào",
+    "meaning": "Avoir besoin de",
+    "category": "Verbes",
+    "exampleSentence": "你需要什么帮助？",
+    "examplePinyin": "Nǐ xūyào shénme bāngzhù?",
+    "exampleTranslation": "De quelle aide as-tu besoin ?"
+  },
+  {
+    "character": "应该",
+    "pinyin": "yīnggāi",
+    "meaning": "Devoir, falloir",
+    "category": "Verbes",
+    "exampleSentence": "你应该多练习。",
+    "examplePinyin": "Nǐ yīnggāi duō liànxí.",
+    "exampleTranslation": "Tu devrais t'exercer davantage."
+  },
+  {
+    "character": "必须",
+    "pinyin": "bìxū",
+    "meaning": "Devoir absolument",
+    "category": "Verbes",
+    "exampleSentence": "明天必须早起。",
+    "examplePinyin": "Míngtiān bìxū zǎoqǐ.",
+    "exampleTranslation": "Demain il faut absolument se lever tôt."
+  },
+  {
+    "character": "决定",
+    "pinyin": "juédìng",
+    "meaning": "Décider",
+    "category": "Verbes",
+    "exampleSentence": "你决定了吗？",
+    "examplePinyin": "Nǐ juédìng le ma?",
+    "exampleTranslation": "Tu t'es décidé ?"
+  },
+  {
+    "character": "选择",
+    "pinyin": "xuǎnzé",
+    "meaning": "Choisir",
+    "category": "Verbes",
+    "exampleSentence": "请选择你喜欢的。",
+    "examplePinyin": "Qǐng xuǎnzé nǐ xǐhuan de.",
+    "exampleTranslation": "Choisis celui que tu préfères."
+  },
+  {
+    "character": "试",
+    "pinyin": "shì",
+    "meaning": "Essayer",
+    "category": "Verbes",
+    "exampleSentence": "我可以试试吗？",
+    "examplePinyin": "Wǒ kěyǐ shìshi ma?",
+    "exampleTranslation": "Puis-je essayer ?"
+  },
+  {
+    "character": "洗",
+    "pinyin": "xǐ",
+    "meaning": "Laver",
+    "category": "Verbes",
+    "exampleSentence": "我先洗手。",
+    "examplePinyin": "Wǒ xiān xǐ shǒu.",
+    "exampleTranslation": "Je me lave d'abord les mains."
+  },
+  {
+    "character": "笑",
+    "pinyin": "xiào",
+    "meaning": "Rire, sourire",
+    "category": "Verbes",
+    "exampleSentence": "他笑得很开心。",
+    "examplePinyin": "Tā xiào de hěn kāixīn.",
+    "exampleTranslation": "Il sourit avec joie."
+  },
+  {
+    "character": "哭",
+    "pinyin": "kū",
+    "meaning": "Pleurer",
+    "category": "Verbes",
+    "exampleSentence": "别哭了。",
+    "examplePinyin": "Bié kū le.",
+    "exampleTranslation": "Ne pleure plus."
+  },
+  {
+    "character": "站",
+    "pinyin": "zhàn",
+    "meaning": "Se tenir debout, station",
+    "category": "Verbes",
+    "exampleSentence": "请站起来。",
+    "examplePinyin": "Qǐng zhàn qǐlai.",
+    "exampleTranslation": "Levez-vous s'il vous plaît."
+  },
+  {
+    "character": "见面",
+    "pinyin": "jiànmiàn",
+    "meaning": "Se rencontrer",
+    "category": "Verbes",
+    "exampleSentence": "我们什么时候见面？",
+    "examplePinyin": "Wǒmen shénme shíhou jiànmiàn?",
+    "exampleTranslation": "Quand se voit-on ?"
+  },
+  {
+    "character": "发现",
+    "pinyin": "fāxiàn",
+    "meaning": "Découvrir",
+    "category": "Verbes",
+    "exampleSentence": "我发现了一家好饭店。",
+    "examplePinyin": "Wǒ fāxiàn le yì jiā hǎo fàndiàn.",
+    "exampleTranslation": "J'ai découvert un bon restaurant."
+  },
+  {
+    "character": "变",
+    "pinyin": "biàn",
+    "meaning": "Changer, devenir",
+    "category": "Verbes",
+    "exampleSentence": "天气变冷了。",
+    "examplePinyin": "Tiānqì biàn lěng le.",
+    "exampleTranslation": "Le temps s'est refroidi."
+  },
+  {
+    "character": "迟到",
+    "pinyin": "chídào",
+    "meaning": "Être en retard",
+    "category": "Verbes",
+    "exampleSentence": "对不起，我迟到了。",
+    "examplePinyin": "Duìbuqǐ, wǒ chídào le.",
+    "exampleTranslation": "Désolé, je suis en retard."
+  },
+  {
+    "character": "介绍",
+    "pinyin": "jièshào",
+    "meaning": "Présenter",
+    "category": "Verbes",
+    "exampleSentence": "我来介绍一下。",
+    "examplePinyin": "Wǒ lái jièshào yíxià.",
+    "exampleTranslation": "Laissez-moi faire les présentations."
+  },
+  {
+    "character": "教",
+    "pinyin": "jiāo",
+    "meaning": "Enseigner",
+    "category": "Verbes",
+    "exampleSentence": "她教我中文。",
+    "examplePinyin": "Tā jiāo wǒ zhōngwén.",
+    "exampleTranslation": "Elle m'enseigne le chinois."
+  },
+  {
+    "character": "练习",
+    "pinyin": "liànxí",
+    "meaning": "Pratiquer, exercice",
+    "category": "Verbes",
+    "exampleSentence": "多练习说中文。",
+    "examplePinyin": "Duō liànxí shuō zhōngwén.",
+    "exampleTranslation": "Pratique davantage le chinois oral."
+  },
+  {
+    "character": "考试",
+    "pinyin": "kǎoshì",
+    "meaning": "Passer un examen",
+    "category": "Verbes",
+    "exampleSentence": "下周有中文考试。",
+    "examplePinyin": "Xià zhōu yǒu zhōngwén kǎoshì.",
+    "exampleTranslation": "Il y a un examen de chinois la semaine prochaine."
+  },
+  {
+    "character": "复习",
+    "pinyin": "fùxí",
+    "meaning": "Réviser",
+    "category": "Verbes",
+    "exampleSentence": "明天考试，今晚复习。",
+    "examplePinyin": "Míngtiān kǎoshì, jīnwǎn fùxí.",
+    "exampleTranslation": "Examen demain, révisions ce soir."
+  },
+  {
+    "character": "关心",
+    "pinyin": "guānxīn",
+    "meaning": "Se soucier de",
+    "category": "Verbes",
+    "exampleSentence": "他很关心家人。",
+    "examplePinyin": "Tā hěn guānxīn jiārén.",
+    "exampleTranslation": "Il se soucie beaucoup de sa famille."
+  },
+  {
+    "character": "照顾",
+    "pinyin": "zhàogu",
+    "meaning": "Prendre soin de",
+    "category": "Verbes",
+    "exampleSentence": "请照顾好自己。",
+    "examplePinyin": "Qǐng zhàogu hǎo zìjǐ.",
+    "exampleTranslation": "Prends soin de toi."
+  },
+  {
+    "character": "重要",
+    "pinyin": "zhòngyào",
+    "meaning": "Important",
+    "category": "Adjectifs",
+    "exampleSentence": "这件事很重要。",
+    "examplePinyin": "Zhè jiàn shì hěn zhòngyào.",
+    "exampleTranslation": "C'est très important."
+  },
+  {
+    "character": "简单",
+    "pinyin": "jiǎndān",
+    "meaning": "Simple",
+    "category": "Adjectifs",
+    "exampleSentence": "这个很简单。",
+    "examplePinyin": "Zhège hěn jiǎndān.",
+    "exampleTranslation": "C'est très simple."
+  },
+  {
+    "character": "复杂",
+    "pinyin": "fùzá",
+    "meaning": "Complexe",
+    "category": "Adjectifs",
+    "exampleSentence": "中文语法不复杂。",
+    "examplePinyin": "Zhōngwén yǔfǎ bù fùzá.",
+    "exampleTranslation": "La grammaire chinoise n'est pas complexe."
+  },
+  {
+    "character": "有名",
+    "pinyin": "yǒumíng",
+    "meaning": "Célèbre",
+    "category": "Adjectifs",
+    "exampleSentence": "南京路很有名。",
+    "examplePinyin": "Nánjīng Lù hěn yǒumíng.",
+    "exampleTranslation": "La rue Nanjing est très célèbre."
+  },
+  {
+    "character": "安静",
+    "pinyin": "ānjìng",
+    "meaning": "Calme, silencieux",
+    "category": "Adjectifs",
+    "exampleSentence": "图书馆很安静。",
+    "examplePinyin": "Túshūguǎn hěn ānjìng.",
+    "exampleTranslation": "La bibliothèque est calme."
+  },
+  {
+    "character": "方便",
+    "pinyin": "fāngbiàn",
+    "meaning": "Pratique, commode",
+    "category": "Adjectifs",
+    "exampleSentence": "上海的交通很方便。",
+    "examplePinyin": "Shànghǎi de jiāotōng hěn fāngbiàn.",
+    "exampleTranslation": "Les transports de Shanghai sont très pratiques."
+  },
+  {
+    "character": "清楚",
+    "pinyin": "qīngchu",
+    "meaning": "Clair, net",
+    "category": "Adjectifs",
+    "exampleSentence": "请说清楚一点。",
+    "examplePinyin": "Qǐng shuō qīngchu yìdiǎn.",
+    "exampleTranslation": "Parle plus clairement."
+  },
+  {
+    "character": "特别",
+    "pinyin": "tèbié",
+    "meaning": "Spécial, particulièrement",
+    "category": "Adjectifs",
+    "exampleSentence": "上海的小笼包特别好吃。",
+    "examplePinyin": "Shànghǎi de xiǎolóngbāo tèbié hǎochī.",
+    "exampleTranslation": "Les xiaolongbao de Shanghai sont particulièrement bons."
+  },
+  {
+    "character": "有意思",
+    "pinyin": "yǒu yìsi",
+    "meaning": "Intéressant",
+    "category": "Adjectifs",
+    "exampleSentence": "这部电影很有意思。",
+    "examplePinyin": "Zhè bù diànyǐng hěn yǒu yìsi.",
+    "exampleTranslation": "Ce film est très intéressant."
+  },
+  {
+    "character": "开心",
+    "pinyin": "kāixīn",
+    "meaning": "Joyeux, heureux",
+    "category": "Adjectifs",
+    "exampleSentence": "今天很开心！",
+    "examplePinyin": "Jīntiān hěn kāixīn!",
+    "exampleTranslation": "Aujourd'hui je suis content !"
+  },
+  {
+    "character": "舒服",
+    "pinyin": "shūfu",
+    "meaning": "Confortable, à l'aise",
+    "category": "Adjectifs",
+    "exampleSentence": "这个沙发很舒服。",
+    "examplePinyin": "Zhège shāfā hěn shūfu.",
+    "exampleTranslation": "Ce canapé est très confortable."
+  },
+  {
+    "character": "不舒服",
+    "pinyin": "bù shūfu",
+    "meaning": "Pas bien, mal à l'aise",
+    "category": "Adjectifs",
+    "exampleSentence": "我肚子不舒服。",
+    "examplePinyin": "Wǒ dùzi bù shūfu.",
+    "exampleTranslation": "J'ai mal au ventre."
+  },
+  {
+    "character": "危险",
+    "pinyin": "wēixiǎn",
+    "meaning": "Dangereux",
+    "category": "Adjectifs",
+    "exampleSentence": "过马路要注意，很危险。",
+    "examplePinyin": "Guò mǎlù yào zhùyì, hěn wēixiǎn.",
+    "exampleTranslation": "Attention en traversant la rue, c'est dangereux."
+  },
+  {
+    "character": "安全",
+    "pinyin": "ānquán",
+    "meaning": "Sûr, en sécurité",
+    "category": "Adjectifs",
+    "exampleSentence": "上海是一个很安全的城市。",
+    "examplePinyin": "Shànghǎi shì yí gè hěn ānquán de chéngshì.",
+    "exampleTranslation": "Shanghai est une ville très sûre."
+  },
+  {
+    "character": "满意",
+    "pinyin": "mǎnyì",
+    "meaning": "Satisfait",
+    "category": "Adjectifs",
+    "exampleSentence": "你对这个满意吗？",
+    "examplePinyin": "Nǐ duì zhège mǎnyì ma?",
+    "exampleTranslation": "Es-tu satisfait ?"
+  },
+  {
+    "character": "可爱",
+    "pinyin": "kě'ài",
+    "meaning": "Mignon, adorable",
+    "category": "Adjectifs",
+    "exampleSentence": "这只猫太可爱了！",
+    "examplePinyin": "Zhè zhī māo tài kě'ài le!",
+    "exampleTranslation": "Ce chat est trop mignon !"
+  },
+  {
+    "character": "聪明",
+    "pinyin": "cōngming",
+    "meaning": "Intelligent",
+    "category": "Adjectifs",
+    "exampleSentence": "这个孩子很聪明。",
+    "examplePinyin": "Zhège háizi hěn cōngming.",
+    "exampleTranslation": "Cet enfant est très intelligent."
+  },
+  {
+    "character": "瘦",
+    "pinyin": "shòu",
+    "meaning": "Mince, maigre",
+    "category": "Adjectifs",
+    "exampleSentence": "她很瘦。",
+    "examplePinyin": "Tā hěn shòu.",
+    "exampleTranslation": "Elle est mince."
+  },
+  {
+    "character": "甜",
+    "pinyin": "tián",
+    "meaning": "Sucré, doux",
+    "category": "Adjectifs",
+    "exampleSentence": "上海菜比较甜。",
+    "examplePinyin": "Shànghǎi cài bǐjiào tián.",
+    "exampleTranslation": "La cuisine de Shanghai est plutôt sucrée."
+  },
+  {
+    "character": "辣",
+    "pinyin": "là",
+    "meaning": "Épicé, piquant",
+    "category": "Adjectifs",
+    "exampleSentence": "四川菜太辣了。",
+    "examplePinyin": "Sìchuān cài tài là le.",
+    "exampleTranslation": "La cuisine du Sichuan est trop piquante."
+  },
+  {
+    "character": "咸",
+    "pinyin": "xián",
+    "meaning": "Salé",
+    "category": "Adjectifs",
+    "exampleSentence": "这个菜有点咸。",
+    "examplePinyin": "Zhège cài yǒudiǎn xián.",
+    "exampleTranslation": "Ce plat est un peu salé."
+  },
+  {
+    "character": "奇怪",
+    "pinyin": "qíguài",
+    "meaning": "Bizarre, étrange",
+    "category": "Adjectifs",
+    "exampleSentence": "真奇怪！",
+    "examplePinyin": "Zhēn qíguài!",
+    "exampleTranslation": "C'est bizarre !"
+  },
+  {
+    "character": "着急",
+    "pinyin": "zhāojí",
+    "meaning": "Pressé, anxieux",
+    "category": "Adjectifs",
+    "exampleSentence": "别着急，慢慢来。",
+    "examplePinyin": "Bié zhāojí, mànmàn lái.",
+    "exampleTranslation": "Ne sois pas pressé, prends ton temps."
+  },
+  {
+    "character": "年轻",
+    "pinyin": "niánqīng",
+    "meaning": "Jeune",
+    "category": "Adjectifs",
+    "exampleSentence": "这位老师很年轻。",
+    "examplePinyin": "Zhè wèi lǎoshī hěn niánqīng.",
+    "exampleTranslation": "Ce professeur est très jeune."
+  },
+  {
+    "character": "一样",
+    "pinyin": "yíyàng",
+    "meaning": "Pareil, identique",
+    "category": "Adjectifs",
+    "exampleSentence": "我们的想法一样。",
+    "examplePinyin": "Wǒmen de xiǎngfǎ yíyàng.",
+    "exampleTranslation": "Nous avons la même idée."
+  },
+  {
+    "character": "事",
+    "pinyin": "shì",
+    "meaning": "Chose, affaire",
+    "category": "Général",
+    "exampleSentence": "你有什么事？",
+    "examplePinyin": "Nǐ yǒu shénme shì?",
+    "exampleTranslation": "Qu'est-ce qu'il y a ?"
+  },
+  {
+    "character": "地方",
+    "pinyin": "dìfang",
+    "meaning": "Endroit, lieu",
+    "category": "Lieux",
+    "exampleSentence": "这个地方很漂亮。",
+    "examplePinyin": "Zhège dìfang hěn piàoliang.",
+    "exampleTranslation": "Cet endroit est très joli."
+  },
+  {
+    "character": "办法",
+    "pinyin": "bànfǎ",
+    "meaning": "Méthode, solution",
+    "category": "Général",
+    "exampleSentence": "没办法。",
+    "examplePinyin": "Méi bànfǎ.",
+    "exampleTranslation": "Il n'y a pas de solution."
+  },
+  {
+    "character": "意思",
+    "pinyin": "yìsi",
+    "meaning": "Sens, signification",
+    "category": "Langues",
+    "exampleSentence": "这个词是什么意思？",
+    "examplePinyin": "Zhège cí shì shénme yìsi?",
+    "exampleTranslation": "Que signifie ce mot ?"
+  },
+  {
+    "character": "习惯",
+    "pinyin": "xíguàn",
+    "meaning": "Habitude, s'habituer",
+    "category": "Vie quotidienne",
+    "exampleSentence": "我已经习惯上海的生活了。",
+    "examplePinyin": "Wǒ yǐjīng xíguàn Shànghǎi de shēnghuó le.",
+    "exampleTranslation": "Je me suis habitué à la vie à Shanghai."
+  },
+  {
+    "character": "环境",
+    "pinyin": "huánjìng",
+    "meaning": "Environnement",
+    "category": "Société",
+    "exampleSentence": "这个环境很好。",
+    "examplePinyin": "Zhège huánjìng hěn hǎo.",
+    "exampleTranslation": "L'environnement est bon."
+  },
+  {
+    "character": "文化",
+    "pinyin": "wénhuà",
+    "meaning": "Culture",
+    "category": "Société",
+    "exampleSentence": "中国文化历史悠久。",
+    "examplePinyin": "Zhōngguó wénhuà lìshǐ yōujiǔ.",
+    "exampleTranslation": "La culture chinoise a une longue histoire."
+  },
+  {
+    "character": "历史",
+    "pinyin": "lìshǐ",
+    "meaning": "Histoire",
+    "category": "Études",
+    "exampleSentence": "上海有100多年的历史。",
+    "examplePinyin": "Shànghǎi yǒu yìbǎi duō nián de lìshǐ.",
+    "exampleTranslation": "Shanghai a plus de 100 ans d'histoire."
+  },
+  {
+    "character": "经济",
+    "pinyin": "jīngjì",
+    "meaning": "Économie",
+    "category": "Société",
+    "exampleSentence": "上海经济发展很快。",
+    "examplePinyin": "Shànghǎi jīngjì fāzhǎn hěn kuài.",
+    "exampleTranslation": "L'économie de Shanghai se développe rapidement."
+  },
+  {
+    "character": "生活",
+    "pinyin": "shēnghuó",
+    "meaning": "Vie, vivre",
+    "category": "Vie quotidienne",
+    "exampleSentence": "我喜欢上海的生活。",
+    "examplePinyin": "Wǒ xǐhuan Shànghǎi de shēnghuó.",
+    "exampleTranslation": "J'aime la vie à Shanghai."
+  },
+  {
+    "character": "爱好",
+    "pinyin": "àihào",
+    "meaning": "Hobby, intérêt",
+    "category": "Loisirs",
+    "exampleSentence": "你的爱好是什么？",
+    "examplePinyin": "Nǐ de àihào shì shénme?",
+    "exampleTranslation": "Quels sont tes hobbies ?"
+  },
+  {
+    "character": "机会",
+    "pinyin": "jīhuì",
+    "meaning": "Occasion, opportunité",
+    "category": "Travail",
+    "exampleSentence": "这是一个好机会。",
+    "examplePinyin": "Zhè shì yí gè hǎo jīhuì.",
+    "exampleTranslation": "C'est une bonne opportunité."
+  },
+  {
+    "character": "消息",
+    "pinyin": "xiāoxi",
+    "meaning": "Nouvelle, message",
+    "category": "Communication",
+    "exampleSentence": "有什么新消息？",
+    "examplePinyin": "Yǒu shénme xīn xiāoxi?",
+    "exampleTranslation": "Y a-t-il des nouvelles ?"
+  },
+  {
+    "character": "关系",
+    "pinyin": "guānxi",
+    "meaning": "Relation, lien",
+    "category": "Social",
+    "exampleSentence": "我们的关系很好。",
+    "examplePinyin": "Wǒmen de guānxi hěn hǎo.",
+    "exampleTranslation": "Notre relation est bonne."
+  },
+  {
+    "character": "信息",
+    "pinyin": "xìnxī",
+    "meaning": "Information",
+    "category": "Communication",
+    "exampleSentence": "请发给我这个信息。",
+    "examplePinyin": "Qǐng fā gěi wǒ zhège xìnxī.",
+    "exampleTranslation": "Envoyez-moi cette information."
+  },
+  {
+    "character": "护照",
+    "pinyin": "hùzhào",
+    "meaning": "Passeport",
+    "category": "Voyage",
+    "exampleSentence": "请出示护照。",
+    "examplePinyin": "Qǐng chūshì hùzhào.",
+    "exampleTranslation": "Montrez votre passeport."
+  },
+  {
+    "character": "签证",
+    "pinyin": "qiānzhèng",
+    "meaning": "Visa",
+    "category": "Voyage",
+    "exampleSentence": "我的签证快到期了。",
+    "examplePinyin": "Wǒ de qiānzhèng kuài dào qī le.",
+    "exampleTranslation": "Mon visa expire bientôt."
+  },
+  {
+    "character": "钥匙",
+    "pinyin": "yàoshi",
+    "meaning": "Clé",
+    "category": "Objets",
+    "exampleSentence": "我的钥匙丢了。",
+    "examplePinyin": "Wǒ de yàoshi diū le.",
+    "exampleTranslation": "J'ai perdu mes clés."
+  },
+  {
+    "character": "地图",
+    "pinyin": "dìtú",
+    "meaning": "Carte, plan",
+    "category": "Voyage",
+    "exampleSentence": "你有上海的地图吗？",
+    "examplePinyin": "Nǐ yǒu Shànghǎi de dìtú ma?",
+    "exampleTranslation": "As-tu un plan de Shanghai ?"
+  },
+  {
+    "character": "行李",
+    "pinyin": "xíngli",
+    "meaning": "Bagages",
+    "category": "Voyage",
+    "exampleSentence": "你的行李太多了。",
+    "examplePinyin": "Nǐ de xíngli tài duō le.",
+    "exampleTranslation": "Tu as trop de bagages."
+  },
+  {
+    "character": "礼物",
+    "pinyin": "lǐwù",
+    "meaning": "Cadeau",
+    "category": "Social",
+    "exampleSentence": "谢谢你的礼物！",
+    "examplePinyin": "Xièxie nǐ de lǐwù!",
+    "exampleTranslation": "Merci pour ton cadeau !"
+  },
+  {
+    "character": "照片",
+    "pinyin": "zhàopiàn",
+    "meaning": "Photo",
+    "category": "Loisirs",
+    "exampleSentence": "我可以拍照片吗？",
+    "examplePinyin": "Wǒ kěyǐ pāi zhàopiàn ma?",
+    "exampleTranslation": "Puis-je prendre une photo ?"
+  },
+  {
+    "character": "伞",
+    "pinyin": "sǎn",
+    "meaning": "Parapluie",
+    "category": "Objets",
+    "exampleSentence": "下雨了，带伞了吗？",
+    "examplePinyin": "Xià yǔ le, dài sǎn le ma?",
+    "exampleTranslation": "Il pleut, as-tu un parapluie ?"
+  },
+  {
+    "character": "眼睛",
+    "pinyin": "yǎnjing",
+    "meaning": "Yeux",
+    "category": "Corps & Santé",
+    "exampleSentence": "她的眼睛很漂亮。",
+    "examplePinyin": "Tā de yǎnjing hěn piàoliang.",
+    "exampleTranslation": "Ses yeux sont très beaux."
+  },
+  {
+    "character": "脸",
+    "pinyin": "liǎn",
+    "meaning": "Visage",
+    "category": "Corps & Santé",
+    "exampleSentence": "洗脸了没有？",
+    "examplePinyin": "Xǐ liǎn le méiyǒu?",
+    "exampleTranslation": "Tu t'es lavé le visage ?"
+  },
+  {
+    "character": "头",
+    "pinyin": "tóu",
+    "meaning": "Tête",
+    "category": "Corps & Santé",
+    "exampleSentence": "我头疼。",
+    "examplePinyin": "Wǒ tóu téng.",
+    "exampleTranslation": "J'ai mal à la tête."
+  },
+  {
+    "character": "手",
+    "pinyin": "shǒu",
+    "meaning": "Main",
+    "category": "Corps & Santé",
+    "exampleSentence": "请举手。",
+    "examplePinyin": "Qǐng jǔ shǒu.",
+    "exampleTranslation": "Levez la main."
+  },
+  {
+    "character": "脚",
+    "pinyin": "jiǎo",
+    "meaning": "Pied",
+    "category": "Corps & Santé",
+    "exampleSentence": "我的脚疼。",
+    "examplePinyin": "Wǒ de jiǎo téng.",
+    "exampleTranslation": "J'ai mal au pied."
+  },
+  {
+    "character": "电梯",
+    "pinyin": "diàntī",
+    "meaning": "Ascenseur",
+    "category": "Lieux",
+    "exampleSentence": "电梯在哪里？",
+    "examplePinyin": "Diàntī zài nǎlǐ?",
+    "exampleTranslation": "Où est l'ascenseur ?"
+  },
+  {
+    "character": "银行",
+    "pinyin": "yínháng",
+    "meaning": "Banque",
+    "category": "Lieux",
+    "exampleSentence": "银行几点关门？",
+    "examplePinyin": "Yínháng jǐ diǎn guān mén?",
+    "exampleTranslation": "À quelle heure ferme la banque ?"
+  },
+  {
+    "character": "饮料",
+    "pinyin": "yǐnliào",
+    "meaning": "Boisson",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "你要什么饮料？",
+    "examplePinyin": "Nǐ yào shénme yǐnliào?",
+    "exampleTranslation": "Quelle boisson veux-tu ?"
+  },
+  {
+    "character": "啤酒",
+    "pinyin": "píjiǔ",
+    "meaning": "Bière",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "来两瓶青岛啤酒。",
+    "examplePinyin": "Lái liǎng píng Qīngdǎo píjiǔ.",
+    "exampleTranslation": "Deux bières Tsingtao s'il vous plaît."
+  },
+  {
+    "character": "果汁",
+    "pinyin": "guǒzhī",
+    "meaning": "Jus de fruits",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "来一杯橙汁。",
+    "examplePinyin": "Lái yì bēi chéngzhī.",
+    "exampleTranslation": "Un jus d'orange s'il vous plaît."
+  },
+  {
+    "character": "蔬菜",
+    "pinyin": "shūcài",
+    "meaning": "Légume",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "多吃蔬菜对身体好。",
+    "examplePinyin": "Duō chī shūcài duì shēntǐ hǎo.",
+    "exampleTranslation": "Manger plus de légumes est bon pour la santé."
+  },
+  {
+    "character": "面包",
+    "pinyin": "miànbāo",
+    "meaning": "Pain",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "早上吃面包。",
+    "examplePinyin": "Zǎoshang chī miànbāo.",
+    "exampleTranslation": "Manger du pain le matin."
+  },
+  {
+    "character": "蛋糕",
+    "pinyin": "dàngāo",
+    "meaning": "Gâteau",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "生日快乐！吃蛋糕吧。",
+    "examplePinyin": "Shēngrì kuàilè! Chī dàngāo ba.",
+    "exampleTranslation": "Joyeux anniversaire ! Mangeons du gâteau."
+  },
+  {
+    "character": "牛肉",
+    "pinyin": "niúròu",
+    "meaning": "Bœuf",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "牛肉面很好吃。",
+    "examplePinyin": "Niúròu miàn hěn hǎochī.",
+    "exampleTranslation": "Les nouilles au bœuf sont délicieuses."
+  },
+  {
+    "character": "鸡肉",
+    "pinyin": "jīròu",
+    "meaning": "Poulet",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "这道鸡肉做得不错。",
+    "examplePinyin": "Zhè dào jīròu zuò de búcuò.",
+    "exampleTranslation": "Ce poulet est bien préparé."
+  },
+  {
+    "character": "猪肉",
+    "pinyin": "zhūròu",
+    "meaning": "Porc",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "红烧猪肉是上海名菜。",
+    "examplePinyin": "Hóngshāo zhūròu shì Shànghǎi míngcài.",
+    "exampleTranslation": "Le porc braisé est un plat célèbre de Shanghai."
+  },
+  {
+    "character": "西瓜",
+    "pinyin": "xīguā",
+    "meaning": "Pastèque",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "夏天吃西瓜很凉快。",
+    "examplePinyin": "Xiàtiān chī xīguā hěn liángkuai.",
+    "exampleTranslation": "Manger de la pastèque en été c'est rafraîchissant."
+  },
+  {
+    "character": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "meaning": "Banane",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "我每天吃一根香蕉。",
+    "examplePinyin": "Wǒ měitiān chī yì gēn xiāngjiāo.",
+    "exampleTranslation": "Je mange une banane par jour."
+  },
+  {
+    "character": "葡萄",
+    "pinyin": "pútao",
+    "meaning": "Raisin",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "这些葡萄很甜。",
+    "examplePinyin": "Zhèxiē pútao hěn tián.",
+    "exampleTranslation": "Ces raisins sont sucrés."
+  },
+  {
+    "character": "菜单",
+    "pinyin": "càidān",
+    "meaning": "Menu",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "请给我菜单。",
+    "examplePinyin": "Qǐng gěi wǒ càidān.",
+    "exampleTranslation": "Le menu s'il vous plaît."
+  },
+  {
+    "character": "筷子",
+    "pinyin": "kuàizi",
+    "meaning": "Baguettes",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "你会用筷子吗？",
+    "examplePinyin": "Nǐ huì yòng kuàizi ma?",
+    "exampleTranslation": "Sais-tu utiliser les baguettes ?"
+  },
+  {
+    "character": "碗",
+    "pinyin": "wǎn",
+    "meaning": "Bol",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "请给我一个碗。",
+    "examplePinyin": "Qǐng gěi wǒ yí gè wǎn.",
+    "exampleTranslation": "Donnez-moi un bol s'il vous plaît."
+  },
+  {
+    "character": "一直",
+    "pinyin": "yìzhí",
+    "meaning": "Toujours, tout droit",
+    "category": "Adverbes",
+    "exampleSentence": "一直往前走。",
+    "examplePinyin": "Yìzhí wǎng qián zǒu.",
+    "exampleTranslation": "Allez tout droit."
+  },
+  {
+    "character": "马上",
+    "pinyin": "mǎshàng",
+    "meaning": "Tout de suite",
+    "category": "Adverbes",
+    "exampleSentence": "我马上来！",
+    "examplePinyin": "Wǒ mǎshàng lái!",
+    "exampleTranslation": "J'arrive tout de suite !"
+  },
+  {
+    "character": "刚才",
+    "pinyin": "gāngcái",
+    "meaning": "À l'instant",
+    "category": "Adverbes",
+    "exampleSentence": "你刚才说什么？",
+    "examplePinyin": "Nǐ gāngcái shuō shénme?",
+    "exampleTranslation": "Qu'as-tu dit à l'instant ?"
+  },
+  {
+    "character": "终于",
+    "pinyin": "zhōngyú",
+    "meaning": "Enfin",
+    "category": "Adverbes",
+    "exampleSentence": "终于到了！",
+    "examplePinyin": "Zhōngyú dào le!",
+    "exampleTranslation": "On est enfin arrivés !"
+  },
+  {
+    "character": "可能",
+    "pinyin": "kěnéng",
+    "meaning": "Peut-être, possible",
+    "category": "Adverbes",
+    "exampleSentence": "他可能在路上。",
+    "examplePinyin": "Tā kěnéng zài lùshang.",
+    "exampleTranslation": "Il est peut-être en route."
+  },
+  {
+    "character": "差不多",
+    "pinyin": "chàbuduō",
+    "meaning": "À peu près",
+    "category": "Adverbes",
+    "exampleSentence": "差不多到了。",
+    "examplePinyin": "Chàbuduō dào le.",
+    "exampleTranslation": "On est presque arrivés."
+  },
+  {
+    "character": "经常",
+    "pinyin": "jīngcháng",
+    "meaning": "Souvent",
+    "category": "Adverbes",
+    "exampleSentence": "我经常去外滩散步。",
+    "examplePinyin": "Wǒ jīngcháng qù Wàitān sànbù.",
+    "exampleTranslation": "Je me promène souvent au Bund."
+  },
+  {
+    "character": "先",
+    "pinyin": "xiān",
+    "meaning": "D'abord",
+    "category": "Adverbes",
+    "exampleSentence": "先吃饭，再工作。",
+    "examplePinyin": "Xiān chīfàn, zài gōngzuò.",
+    "exampleTranslation": "Mangeons d'abord, travaillons ensuite."
+  },
+  {
+    "character": "然后",
+    "pinyin": "ránhòu",
+    "meaning": "Ensuite, puis",
+    "category": "Conjonctions",
+    "exampleSentence": "先坐地铁，然后走路。",
+    "examplePinyin": "Xiān zuò dìtiě, ránhòu zǒulù.",
+    "exampleTranslation": "D'abord prendre le métro, puis marcher."
+  },
+  {
+    "character": "虽然",
+    "pinyin": "suīrán",
+    "meaning": "Bien que, même si",
+    "category": "Conjonctions",
+    "exampleSentence": "虽然很忙，但是很开心。",
+    "examplePinyin": "Suīrán hěn máng, dànshì hěn kāixīn.",
+    "exampleTranslation": "Même si c'est chargé, je suis content."
+  },
+  {
+    "character": "如果",
+    "pinyin": "rúguǒ",
+    "meaning": "Si (condition)",
+    "category": "Conjonctions",
+    "exampleSentence": "如果下雨，我们就不去了。",
+    "examplePinyin": "Rúguǒ xià yǔ, wǒmen jiù bú qù le.",
+    "exampleTranslation": "S'il pleut, on n'y va pas."
+  },
+  {
+    "character": "或者",
+    "pinyin": "huòzhě",
+    "meaning": "Ou bien",
+    "category": "Conjonctions",
+    "exampleSentence": "喝茶或者喝咖啡？",
+    "examplePinyin": "Hē chá huòzhě hē kāfēi?",
+    "exampleTranslation": "Du thé ou du café ?"
+  },
+  {
+    "character": "不但...而且",
+    "pinyin": "búdàn...érqiě",
+    "meaning": "Non seulement... mais aussi",
+    "category": "Conjonctions",
+    "exampleSentence": "不但好吃，而且便宜。",
+    "examplePinyin": "Búdàn hǎochī, érqiě piányi.",
+    "exampleTranslation": "Non seulement c'est bon, mais en plus c'est pas cher."
+  },
+  {
+    "character": "就",
+    "pinyin": "jiù",
+    "meaning": "Alors, justement",
+    "category": "Adverbes",
+    "exampleSentence": "我就在这里等你。",
+    "examplePinyin": "Wǒ jiù zài zhèlǐ děng nǐ.",
+    "exampleTranslation": "Je t'attends ici."
+  },
+  {
+    "character": "才",
+    "pinyin": "cái",
+    "meaning": "Seulement, ne... que",
+    "category": "Adverbes",
+    "exampleSentence": "他才来。",
+    "examplePinyin": "Tā cái lái.",
+    "exampleTranslation": "Il vient seulement d'arriver."
+  },
+  {
+    "character": "别",
+    "pinyin": "bié",
+    "meaning": "Ne... pas (impératif)",
+    "category": "Adverbes",
+    "exampleSentence": "别紧张。",
+    "examplePinyin": "Bié jǐnzhāng.",
+    "exampleTranslation": "Ne sois pas nerveux."
+  },
+  {
+    "character": "一边...一边",
+    "pinyin": "yìbiān...yìbiān",
+    "meaning": "Tout en... en même temps",
+    "category": "Conjonctions",
+    "exampleSentence": "我一边吃饭一边看电视。",
+    "examplePinyin": "Wǒ yìbiān chīfàn yìbiān kàn diànshì.",
+    "exampleTranslation": "Je mange en regardant la télé."
+  },
+  {
+    "character": "一定",
+    "pinyin": "yídìng",
+    "meaning": "Certainement, à coup sûr",
+    "category": "Adverbes",
+    "exampleSentence": "明天一定会好的。",
+    "examplePinyin": "Míngtiān yídìng huì hǎo de.",
+    "exampleTranslation": "Demain sera certainement mieux."
+  },
+  {
+    "character": "根据",
+    "pinyin": "gēnjù",
+    "meaning": "Selon, d'après",
+    "category": "Prépositions",
+    "exampleSentence": "根据天气预报，明天下雨。",
+    "examplePinyin": "Gēnjù tiānqì yùbào, míngtiān xià yǔ.",
+    "exampleTranslation": "Selon la météo, il pleut demain."
+  },
+  {
+    "character": "关于",
+    "pinyin": "guānyú",
+    "meaning": "À propos de, concernant",
+    "category": "Prépositions",
+    "exampleSentence": "关于这件事，我有话要说。",
+    "examplePinyin": "Guānyú zhè jiàn shì, wǒ yǒu huà yào shuō.",
+    "exampleTranslation": "J'ai quelque chose à dire à propos de ça."
+  },
+  {
+    "character": "春天",
+    "pinyin": "chūntiān",
+    "meaning": "Printemps",
+    "category": "Météo & Saisons",
+    "exampleSentence": "春天上海很舒服。",
+    "examplePinyin": "Chūntiān Shànghǎi hěn shūfu.",
+    "exampleTranslation": "Shanghai est agréable au printemps."
+  },
+  {
+    "character": "夏天",
+    "pinyin": "xiàtiān",
+    "meaning": "Été",
+    "category": "Météo & Saisons",
+    "exampleSentence": "夏天太热了。",
+    "examplePinyin": "Xiàtiān tài rè le.",
+    "exampleTranslation": "L'été est trop chaud."
+  },
+  {
+    "character": "秋天",
+    "pinyin": "qiūtiān",
+    "meaning": "Automne",
+    "category": "Météo & Saisons",
+    "exampleSentence": "秋天去杭州看风景。",
+    "examplePinyin": "Qiūtiān qù Hángzhōu kàn fēngjǐng.",
+    "exampleTranslation": "Aller à Hangzhou voir les paysages en automne."
+  },
+  {
+    "character": "冬天",
+    "pinyin": "dōngtiān",
+    "meaning": "Hiver",
+    "category": "Météo & Saisons",
+    "exampleSentence": "冬天我喜欢吃火锅。",
+    "examplePinyin": "Dōngtiān wǒ xǐhuan chī huǒguō.",
+    "exampleTranslation": "En hiver j'aime manger la fondue chinoise."
+  },
+  {
+    "character": "后天",
+    "pinyin": "hòutiān",
+    "meaning": "Après-demain",
+    "category": "Temps relatif",
+    "exampleSentence": "后天我们去旅游。",
+    "examplePinyin": "Hòutiān wǒmen qù lǚyóu.",
+    "exampleTranslation": "Après-demain on part en voyage."
+  },
+  {
+    "character": "前天",
+    "pinyin": "qiántiān",
+    "meaning": "Avant-hier",
+    "category": "Temps relatif",
+    "exampleSentence": "前天我买了一本书。",
+    "examplePinyin": "Qiántiān wǒ mǎi le yì běn shū.",
+    "exampleTranslation": "J'ai acheté un livre avant-hier."
+  },
+  {
+    "character": "周末",
+    "pinyin": "zhōumò",
+    "meaning": "Week-end",
+    "category": "Temps",
+    "exampleSentence": "周末你有什么计划？",
+    "examplePinyin": "Zhōumò nǐ yǒu shénme jìhuà?",
+    "exampleTranslation": "Quels sont tes plans pour le week-end ?"
+  },
+  {
+    "character": "去年",
+    "pinyin": "qùnián",
+    "meaning": "L'année dernière",
+    "category": "Temps relatif",
+    "exampleSentence": "去年我来了上海。",
+    "examplePinyin": "Qùnián wǒ lái le Shànghǎi.",
+    "exampleTranslation": "Je suis venu à Shanghai l'année dernière."
+  },
+  {
+    "character": "今年",
+    "pinyin": "jīnnián",
+    "meaning": "Cette année",
+    "category": "Temps relatif",
+    "exampleSentence": "今年我要考HSK。",
+    "examplePinyin": "Jīnnián wǒ yào kǎo HSK.",
+    "exampleTranslation": "Cette année je vais passer le HSK."
+  },
+  {
+    "character": "明年",
+    "pinyin": "míngnián",
+    "meaning": "L'année prochaine",
+    "category": "Temps relatif",
+    "exampleSentence": "明年我想去北京。",
+    "examplePinyin": "Míngnián wǒ xiǎng qù Běijīng.",
+    "exampleTranslation": "L'année prochaine je veux aller à Pékin."
+  },
+  {
+    "character": "以前",
+    "pinyin": "yǐqián",
+    "meaning": "Avant, auparavant",
+    "category": "Temps",
+    "exampleSentence": "以前我不会说中文。",
+    "examplePinyin": "Yǐqián wǒ bú huì shuō zhōngwén.",
+    "exampleTranslation": "Avant je ne savais pas parler chinois."
+  },
+  {
+    "character": "以后",
+    "pinyin": "yǐhòu",
+    "meaning": "Après, plus tard",
+    "category": "Temps",
+    "exampleSentence": "以后我要住在上海。",
+    "examplePinyin": "Yǐhòu wǒ yào zhù zài Shànghǎi.",
+    "exampleTranslation": "Plus tard je veux vivre à Shanghai."
+  },
+  {
+    "character": "最近",
+    "pinyin": "zuìjìn",
+    "meaning": "Récemment",
+    "category": "Temps relatif",
+    "exampleSentence": "最近怎么样？",
+    "examplePinyin": "Zuìjìn zěnmeyàng?",
+    "exampleTranslation": "Comment ça va ces derniers temps ?"
+  },
+  {
+    "character": "刚",
+    "pinyin": "gāng",
+    "meaning": "Venir de (juste)",
+    "category": "Temps",
+    "exampleSentence": "我刚到上海。",
+    "examplePinyin": "Wǒ gāng dào Shànghǎi.",
+    "exampleTranslation": "Je viens d'arriver à Shanghai."
+  },
+  {
+    "character": "图书馆",
+    "pinyin": "túshūguǎn",
+    "meaning": "Bibliothèque",
+    "category": "Lieux",
+    "exampleSentence": "我在图书馆学习。",
+    "examplePinyin": "Wǒ zài túshūguǎn xuéxí.",
+    "exampleTranslation": "J'étudie à la bibliothèque."
+  },
+  {
+    "character": "公园",
+    "pinyin": "gōngyuán",
+    "meaning": "Parc",
+    "category": "Lieux",
+    "exampleSentence": "我们去公园散步吧。",
+    "examplePinyin": "Wǒmen qù gōngyuán sànbù ba.",
+    "exampleTranslation": "Allons nous promener au parc."
+  },
+  {
+    "character": "邮局",
+    "pinyin": "yóujú",
+    "meaning": "Bureau de poste",
+    "category": "Lieux",
+    "exampleSentence": "邮局在银行旁边。",
+    "examplePinyin": "Yóujú zài yínháng pángbiān.",
+    "exampleTranslation": "La poste est à côté de la banque."
+  },
+  {
+    "character": "酒店",
+    "pinyin": "jiǔdiàn",
+    "meaning": "Hôtel",
+    "category": "Voyage",
+    "exampleSentence": "这个酒店很不错。",
+    "examplePinyin": "Zhège jiǔdiàn hěn búcuò.",
+    "exampleTranslation": "Cet hôtel est pas mal."
+  },
+  {
+    "character": "厕所",
+    "pinyin": "cèsuǒ",
+    "meaning": "Toilettes",
+    "category": "Lieux",
+    "exampleSentence": "请问厕所在哪里？",
+    "examplePinyin": "Qǐngwèn cèsuǒ zài nǎlǐ?",
+    "exampleTranslation": "Où sont les toilettes ?"
+  },
+  {
+    "character": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "meaning": "Toilettes (poli)",
+    "category": "Lieux",
+    "exampleSentence": "洗手间在二楼。",
+    "examplePinyin": "Xǐshǒujiān zài èr lóu.",
+    "exampleTranslation": "Les toilettes sont au 2e étage."
+  },
+  {
+    "character": "楼",
+    "pinyin": "lóu",
+    "meaning": "Étage, immeuble",
+    "category": "Lieux",
+    "exampleSentence": "我住在三楼。",
+    "examplePinyin": "Wǒ zhù zài sān lóu.",
+    "exampleTranslation": "J'habite au 3e étage."
+  },
+  {
+    "character": "城市",
+    "pinyin": "chéngshì",
+    "meaning": "Ville",
+    "category": "Géographie",
+    "exampleSentence": "上海是一个国际化城市。",
+    "examplePinyin": "Shànghǎi shì yí gè guójìhuà chéngshì.",
+    "exampleTranslation": "Shanghai est une ville internationale."
+  },
+  {
+    "character": "南",
+    "pinyin": "nán",
+    "meaning": "Sud",
+    "category": "Position & Espace",
+    "exampleSentence": "上海在中国的东南部。",
+    "examplePinyin": "Shànghǎi zài Zhōngguó de dōngnán bù.",
+    "exampleTranslation": "Shanghai est dans le sud-est de la Chine."
+  },
+  {
+    "character": "北",
+    "pinyin": "běi",
+    "meaning": "Nord",
+    "category": "Position & Espace",
+    "exampleSentence": "北京在北方。",
+    "examplePinyin": "Běijīng zài běifāng.",
+    "exampleTranslation": "Pékin est au nord."
+  },
+  {
+    "character": "东",
+    "pinyin": "dōng",
+    "meaning": "Est",
+    "category": "Position & Espace",
+    "exampleSentence": "浦东在东边。",
+    "examplePinyin": "Pǔdōng zài dōngbian.",
+    "exampleTranslation": "Pudong est à l'est."
+  },
+  {
+    "character": "西",
+    "pinyin": "xī",
+    "meaning": "Ouest",
+    "category": "Position & Espace",
+    "exampleSentence": "浦西在西边。",
+    "examplePinyin": "Pǔxī zài xībian.",
+    "exampleTranslation": "Puxi est à l'ouest."
+  },
+  {
+    "character": "中间",
+    "pinyin": "zhōngjiān",
+    "meaning": "Au milieu, entre",
+    "category": "Position & Espace",
+    "exampleSentence": "我坐在中间。",
+    "examplePinyin": "Wǒ zuò zài zhōngjiān.",
+    "exampleTranslation": "Je m'assois au milieu."
+  },
+  {
+    "character": "外面",
+    "pinyin": "wàimian",
+    "meaning": "Dehors, extérieur",
+    "category": "Lieux",
+    "exampleSentence": "外面下雨了。",
+    "examplePinyin": "Wàimian xià yǔ le.",
+    "exampleTranslation": "Il pleut dehors."
+  },
+  {
+    "character": "附近",
+    "pinyin": "fùjìn",
+    "meaning": "Aux alentours, à proximité",
+    "category": "Position & Espace",
+    "exampleSentence": "附近有地铁站吗？",
+    "examplePinyin": "Fùjìn yǒu dìtiězhàn ma?",
+    "exampleTranslation": "Y a-t-il une station de métro à proximité ?"
+  },
+  {
+    "character": "风",
+    "pinyin": "fēng",
+    "meaning": "Vent",
+    "category": "Météo & Saisons",
+    "exampleSentence": "今天风很大。",
+    "examplePinyin": "Jīntiān fēng hěn dà.",
+    "exampleTranslation": "Le vent est fort aujourd'hui."
+  },
+  {
+    "character": "雪",
+    "pinyin": "xuě",
+    "meaning": "Neige",
+    "category": "Météo & Saisons",
+    "exampleSentence": "上海很少下雪。",
+    "examplePinyin": "Shànghǎi hěn shǎo xià xuě.",
+    "exampleTranslation": "Il neige rarement à Shanghai."
+  },
+  {
+    "character": "阴",
+    "pinyin": "yīn",
+    "meaning": "Nuageux",
+    "category": "Météo & Saisons",
+    "exampleSentence": "今天天阴了。",
+    "examplePinyin": "Jīntiān tiān yīn le.",
+    "exampleTranslation": "C'est nuageux aujourd'hui."
+  },
+  {
+    "character": "晴",
+    "pinyin": "qíng",
+    "meaning": "Ensoleillé",
+    "category": "Météo & Saisons",
+    "exampleSentence": "明天是晴天。",
+    "examplePinyin": "Míngtiān shì qíngtiān.",
+    "exampleTranslation": "Demain sera ensoleillé."
+  },
+  {
+    "character": "花",
+    "pinyin": "huā",
+    "meaning": "Fleur",
+    "category": "Nature",
+    "exampleSentence": "春天花很漂亮。",
+    "examplePinyin": "Chūntiān huā hěn piàoliang.",
+    "exampleTranslation": "Les fleurs sont jolies au printemps."
+  },
+  {
+    "character": "树",
+    "pinyin": "shù",
+    "meaning": "Arbre",
+    "category": "Nature",
+    "exampleSentence": "这棵树很高。",
+    "examplePinyin": "Zhè kē shù hěn gāo.",
+    "exampleTranslation": "Cet arbre est très grand."
+  },
+  {
+    "character": "河",
+    "pinyin": "hé",
+    "meaning": "Rivière",
+    "category": "Nature",
+    "exampleSentence": "黄浦江是上海最有名的河。",
+    "examplePinyin": "Huángpǔ Jiāng shì Shànghǎi zuì yǒumíng de hé.",
+    "exampleTranslation": "Le Huangpu est la rivière la plus célèbre de Shanghai."
+  },
+  {
+    "character": "山",
+    "pinyin": "shān",
+    "meaning": "Montagne",
+    "category": "Nature",
+    "exampleSentence": "中国有很多漂亮的山。",
+    "examplePinyin": "Zhōngguó yǒu hěn duō piàoliang de shān.",
+    "exampleTranslation": "La Chine a beaucoup de belles montagnes."
+  },
+  {
+    "character": "天空",
+    "pinyin": "tiānkōng",
+    "meaning": "Ciel",
+    "category": "Nature",
+    "exampleSentence": "今天天空很蓝。",
+    "examplePinyin": "Jīntiān tiānkōng hěn lán.",
+    "exampleTranslation": "Le ciel est très bleu aujourd'hui."
+  },
+  {
+    "character": "季节",
+    "pinyin": "jìjié",
+    "meaning": "Saison",
+    "category": "Météo & Saisons",
+    "exampleSentence": "上海有四个季节。",
+    "examplePinyin": "Shànghǎi yǒu sì gè jìjié.",
+    "exampleTranslation": "Shanghai a quatre saisons."
+  },
+  {
+    "character": "把",
+    "pinyin": "bǎ",
+    "meaning": "Classif. + particule (construction BA)",
+    "category": "Classificateurs",
+    "exampleSentence": "请把门关上。",
+    "examplePinyin": "Qǐng bǎ mén guān shàng.",
+    "exampleTranslation": "Ferme la porte s'il vous plaît."
+  },
+  {
+    "character": "层",
+    "pinyin": "céng",
+    "meaning": "Classif. étage, couche",
+    "category": "Classificateurs",
+    "exampleSentence": "公司在第三层。",
+    "examplePinyin": "Gōngsī zài dì sān céng.",
+    "exampleTranslation": "L'entreprise est au 3e étage."
+  },
+  {
+    "character": "次",
+    "pinyin": "cì",
+    "meaning": "Classif. fois",
+    "category": "Classificateurs",
+    "exampleSentence": "这是我第一次来。",
+    "examplePinyin": "Zhè shì wǒ dì yī cì lái.",
+    "exampleTranslation": "C'est ma première fois ici."
+  },
+  {
+    "character": "遍",
+    "pinyin": "biàn",
+    "meaning": "Classif. fois (du début à la fin)",
+    "category": "Classificateurs",
+    "exampleSentence": "请再说一遍。",
+    "examplePinyin": "Qǐng zài shuō yí biàn.",
+    "exampleTranslation": "Répétez encore une fois."
+  },
+  {
+    "character": "种",
+    "pinyin": "zhǒng",
+    "meaning": "Classif. type, sorte",
+    "category": "Classificateurs",
+    "exampleSentence": "这种水果很好吃。",
+    "examplePinyin": "Zhè zhǒng shuǐguǒ hěn hǎochī.",
+    "exampleTranslation": "Ce type de fruit est délicieux."
+  },
+  {
+    "character": "对面",
+    "pinyin": "duìmiàn",
+    "meaning": "En face",
+    "category": "Position & Espace",
+    "exampleSentence": "学校在公园对面。",
+    "examplePinyin": "Xuéxiào zài gōngyuán duìmiàn.",
+    "exampleTranslation": "L'école est en face du parc."
+  },
+  {
+    "character": "左",
+    "pinyin": "zuǒ",
+    "meaning": "Gauche",
+    "category": "Position & Espace",
+    "exampleSentence": "往左转。",
+    "examplePinyin": "Wǎng zuǒ zhuǎn.",
+    "exampleTranslation": "Tournez à gauche."
+  },
+  {
+    "character": "右",
+    "pinyin": "yòu",
+    "meaning": "Droite",
+    "category": "Position & Espace",
+    "exampleSentence": "右边有一个超市。",
+    "examplePinyin": "Yòubian yǒu yí gè chāoshì.",
+    "exampleTranslation": "Il y a un supermarché à droite."
+  },
+  {
+    "character": "上面",
+    "pinyin": "shàngmian",
+    "meaning": "Au-dessus, dessus",
+    "category": "Lieux",
+    "exampleSentence": "书在桌子上面。",
+    "examplePinyin": "Shū zài zhuōzi shàngmian.",
+    "exampleTranslation": "Le livre est sur la table."
+  },
+  {
+    "character": "下面",
+    "pinyin": "xiàmian",
+    "meaning": "En dessous",
+    "category": "Lieux",
+    "exampleSentence": "猫在桌子下面。",
+    "examplePinyin": "Māo zài zhuōzi xiàmian.",
+    "exampleTranslation": "Le chat est sous la table."
+  },
+  {
+    "character": "女",
+    "pinyin": "nǚ",
+    "meaning": "Femme, féminin",
+    "category": "Personnes",
+    "exampleSentence": "那位女的是谁？",
+    "examplePinyin": "Nà wèi nǚ de shì shéi?",
+    "exampleTranslation": "Qui est cette femme ?"
+  },
+  {
+    "character": "丈夫",
+    "pinyin": "zhàngfu",
+    "meaning": "Mari",
+    "category": "Famille",
+    "exampleSentence": "她丈夫是老师。",
+    "examplePinyin": "Tā zhàngfu shì lǎoshī.",
+    "exampleTranslation": "Son mari est professeur."
+  },
+  {
+    "character": "妻子",
+    "pinyin": "qīzi",
+    "meaning": "Femme, épouse",
+    "category": "Famille",
+    "exampleSentence": "他的妻子是医生。",
+    "examplePinyin": "Tā de qīzi shì yīshēng.",
+    "exampleTranslation": "Sa femme est médecin."
+  },
+  {
+    "character": "爷爷",
+    "pinyin": "yéye",
+    "meaning": "Grand-père paternel",
+    "category": "Famille",
+    "exampleSentence": "我爷爷今年80岁。",
+    "examplePinyin": "Wǒ yéye jīnnián bāshí suì.",
+    "exampleTranslation": "Mon grand-père a 80 ans."
+  },
+  {
+    "character": "奶奶",
+    "pinyin": "nǎinai",
+    "meaning": "Grand-mère paternelle",
+    "category": "Famille",
+    "exampleSentence": "奶奶做的菜最好吃。",
+    "examplePinyin": "Nǎinai zuò de cài zuì hǎochī.",
+    "exampleTranslation": "La cuisine de mamie est la meilleure."
+  },
+  {
+    "character": "邻居",
+    "pinyin": "línjū",
+    "meaning": "Voisin",
+    "category": "Social",
+    "exampleSentence": "我的邻居很友好。",
+    "examplePinyin": "Wǒ de línjū hěn yǒuhǎo.",
+    "exampleTranslation": "Mes voisins sont sympathiques."
+  },
+  {
+    "character": "客人",
+    "pinyin": "kèrén",
+    "meaning": "Invité, client",
+    "category": "Social",
+    "exampleSentence": "今天家里来客人了。",
+    "examplePinyin": "Jīntiān jiālǐ lái kèrén le.",
+    "exampleTranslation": "Des invités sont venus à la maison."
+  },
+  {
+    "character": "服务员",
+    "pinyin": "fúwùyuán",
+    "meaning": "Serveur",
+    "category": "Nourriture & Gastronomie",
+    "exampleSentence": "服务员，买单！",
+    "examplePinyin": "Fúwùyuán, mǎidān!",
+    "exampleTranslation": "Serveur, l'addition !"
+  },
+  {
+    "character": "司机",
+    "pinyin": "sījī",
+    "meaning": "Chauffeur",
+    "category": "Transport",
+    "exampleSentence": "出租车司机很热情。",
+    "examplePinyin": "Chūzūchē sījī hěn rèqíng.",
+    "exampleTranslation": "Le chauffeur de taxi est chaleureux."
+  },
+  {
+    "character": "经理",
+    "pinyin": "jīnglǐ",
+    "meaning": "Manager, directeur",
+    "category": "Travail",
+    "exampleSentence": "经理在开会。",
+    "examplePinyin": "Jīnglǐ zài kāihuì.",
+    "exampleTranslation": "Le directeur est en réunion."
+  },
+  {
+    "character": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "Être d'accord",
+    "category": "Verbes",
+    "exampleSentence": "我同意你的想法。",
+    "examplePinyin": "Wǒ tóngyì nǐ de xiǎngfǎ.",
+    "exampleTranslation": "Je suis d'accord avec toi."
+  },
+  {
+    "character": "打算",
+    "pinyin": "dǎsuàn",
+    "meaning": "Avoir l'intention de",
+    "category": "Verbes",
+    "exampleSentence": "你打算什么时候回国？",
+    "examplePinyin": "Nǐ dǎsuàn shénme shíhou huíguó?",
+    "exampleTranslation": "Quand comptes-tu rentrer au pays ?"
+  },
+  {
+    "character": "感冒",
+    "pinyin": "gǎnmào",
+    "meaning": "Rhume, attraper froid",
+    "category": "Corps & Santé",
+    "exampleSentence": "我感冒了。",
+    "examplePinyin": "Wǒ gǎnmào le.",
+    "exampleTranslation": "J'ai un rhume."
+  },
+  {
+    "character": "发烧",
+    "pinyin": "fāshāo",
+    "meaning": "Avoir de la fièvre",
+    "category": "Corps & Santé",
+    "exampleSentence": "他发烧了，去医院。",
+    "examplePinyin": "Tā fāshāo le, qù yīyuàn.",
+    "exampleTranslation": "Il a de la fièvre, allons à l'hôpital."
+  },
+  {
+    "character": "健康",
+    "pinyin": "jiànkāng",
+    "meaning": "Santé, en bonne santé",
+    "category": "Corps & Santé",
+    "exampleSentence": "祝你身体健康！",
+    "examplePinyin": "Zhù nǐ shēntǐ jiànkāng!",
+    "exampleTranslation": "Je te souhaite une bonne santé !"
+  },
+  {
+    "character": "高铁",
+    "pinyin": "gāotiě",
+    "meaning": "TGV, train à grande vitesse",
+    "hskLevel": 2,
+    "category": "Transport",
+    "exampleSentence": "坐高铁去杭州只需要四十分钟。",
+    "examplePinyin": "Zuò gāotiě qù Hángzhōu zhǐ xūyào sìshí fēnzhōng.",
+    "exampleTranslation": "Aller à Hangzhou en TGV ne prend que 40 minutes."
+  },
+  {
+    "character": "机票",
+    "pinyin": "jīpiào",
+    "meaning": "Billet d'avion",
+    "hskLevel": 2,
+    "category": "Transport",
+    "exampleSentence": "在线预订折扣机票。",
+    "examplePinyin": "Zàixiàn yùdìng zhékòu jīpiào.",
+    "exampleTranslation": "Réserver un billet d'avion en promo en ligne."
+  },
+  {
+    "character": "船",
+    "pinyin": "chuán",
+    "meaning": "Bateau, navire",
+    "hskLevel": 2,
+    "category": "Transport",
+    "exampleSentence": "乘坐游船游览黄浦江两岸。",
+    "examplePinyin": "Chéngzuò yóuchuán yóulǎn Huángpǔjiāng liǎng'àn.",
+    "exampleTranslation": "Faire une croisière en bateau sur la rivière Huangpu."
+  },
+  {
+    "character": "路口",
+    "pinyin": "lùkǒu",
+    "meaning": "Carrefour, intersection",
+    "hskLevel": 2,
+    "category": "Transport",
+    "exampleSentence": "在前方十字路口右转。",
+    "examplePinyin": "Zài qiánfāng shízìlùkǒu yòuzhuǎn.",
+    "exampleTranslation": "Tourner à droite au prochain carrefour."
+  },
+  {
+    "character": "灰色",
+    "pinyin": "huīsè",
+    "meaning": "Gris",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "大楼外观是现代化的灰色。",
+    "examplePinyin": "Dàlóu wàiguān shì xiàndàihuà de huīsè.",
+    "exampleTranslation": "L'extérieur du bâtiment est gris moderne."
+  },
+  {
+    "character": "粉色",
+    "pinyin": "fěnsè",
+    "meaning": "Rose",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "樱花季公园盛开着粉色的花朵。",
+    "examplePinyin": "Yīnghuājì gōngyuán shèngkāi zhe fěnsè de huāduǒ.",
+    "exampleTranslation": "Le parc regorge de fleurs roses pendant la saison des cerisiers."
+  },
+  {
+    "character": "橙色",
+    "pinyin": "chéngsè",
+    "meaning": "Orange",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "傍晚的夕阳呈现美丽的橙色。",
+    "examplePinyin": "Bàngwǎn de xīyáng chéngxiàn měilì de chéngsè.",
+    "exampleTranslation": "Le coucher de soleil prend une belle couleur orange."
+  },
+  {
+    "character": "金色",
+    "pinyin": "jīnsè",
+    "meaning": "Doré",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "阳光照在建筑上呈现金色。",
+    "examplePinyin": "Yángguāng zhào zài jiànzhù shàng chéngxiàn jīnsè.",
+    "exampleTranslation": "La lumière du soleil brille en couleur dorée sur le bâtiment."
+  },
+  {
+    "character": "深色",
+    "pinyin": "shēnsè",
+    "meaning": "Couleur foncée",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "冬天大家都喜欢穿深色衣服。",
+    "examplePinyin": "Dōngtiān dàjiā dōu xǐhuan chuān shēnsè yīfu.",
+    "exampleTranslation": "En hiver tout le monde aime porter des vêtements sombres."
+  },
+  {
+    "character": "浅色",
+    "pinyin": "qiǎnsè",
+    "meaning": "Couleur claire",
+    "hskLevel": 2,
+    "category": "Couleurs",
+    "exampleSentence": "夏天穿浅色衬衫更加凉快。",
+    "examplePinyin": "Xiàtiān chuān qiǎnsè chènshān gèngjiā liángkuai.",
+    "exampleTranslation": "Porter des chemises de couleur claire en été est plus frais."
+  },
+  {
+    "character": "本周",
+    "pinyin": "běnzhōu",
+    "meaning": "Cette semaine",
+    "hskLevel": 2,
+    "category": "Temps relatif",
+    "exampleSentence": "本周的工作任务安排得很满。",
+    "examplePinyin": "Běnzhōu de gōngzuò rènwu ānpái de hěn mǎn.",
+    "exampleTranslation": "Le programme de travail de cette semaine est très rempli."
+  },
+  {
+    "character": "上周",
+    "pinyin": "shàngzhōu",
+    "meaning": "La semaine dernière",
+    "hskLevel": 2,
+    "category": "Temps relatif",
+    "exampleSentence": "上周我们接待了重要客户。",
+    "examplePinyin": "Shàngzhōu wǒmen jiēdài le zhòngyào kèhù.",
+    "exampleTranslation": "La semaine dernière nous avons accueilli des clients importants."
+  },
+  {
+    "character": "下周",
+    "pinyin": "xiàzhōu",
+    "meaning": "La semaine prochaine",
+    "hskLevel": 2,
+    "category": "Temps relatif",
+    "exampleSentence": "下周准备去出差。",
+    "examplePinyin": "Xiàzhōu zhǔnbèi qù chūchāi.",
+    "exampleTranslation": "Je me prépare à partir en voyage d'affaires la semaine prochaine."
+  },
+  {
+    "character": "上个月",
+    "pinyin": "shàng gè yuè",
+    "meaning": "Le mois dernier",
+    "hskLevel": 2,
+    "category": "Temps relatif",
+    "exampleSentence": "上个月公司业绩稳定增长。",
+    "examplePinyin": "Shàng gè yuè gōngsī yèjì wěndìng zēngzhǎng.",
+    "exampleTranslation": "Le mois dernier le chiffre de l'entreprise a connu une croissance stable."
+  },
+  {
+    "character": "下个月",
+    "pinyin": "xià gè yuè",
+    "meaning": "Le mois prochain",
+    "hskLevel": 2,
+    "category": "Temps relatif",
+    "exampleSentence": "下个月我们要搬迁到新办公室。",
+    "examplePinyin": "Xià gè yuè wǒmen yào bānqiān dào xīn bàngōngshì.",
+    "exampleTranslation": "Le mois prochain nous déménageons dans le nouveau bureau."
+  },
+  {
+    "character": "平时",
+    "pinyin": "píngshí",
+    "meaning": "En temps normal, d'ordinaire",
+    "hskLevel": 2,
+    "category": "Heure & Moments",
+    "exampleSentence": "他平时喜欢下班后跑步。",
+    "examplePinyin": "Tā píngshí xǐhuan xiàbān hòu pǎobù.",
+    "exampleTranslation": "En temps normal il aime courir après le travail."
+  },
+  {
+    "character": "刮风",
+    "pinyin": "guāfēng",
+    "meaning": "Venteux, souffler (vent)",
+    "hskLevel": 2,
+    "category": "Météo & Saisons",
+    "exampleSentence": "外面在刮大风，关好窗户。",
+    "examplePinyin": "Wàimiàn zài guā dàfēng, guān hǎo chuānghu.",
+    "exampleTranslation": "Il vent fort dehors, fermez bien les fenêtres."
+  },
+  {
+    "character": "下雪",
+    "pinyin": "xiàxuě",
+    "meaning": "Neiger",
+    "hskLevel": 2,
+    "category": "Météo & Saisons",
+    "exampleSentence": "上海冬天偶尔会下雪。",
+    "examplePinyin": "Shànghǎi dōngtiān ǒu'ěr huì xiàxuě.",
+    "exampleTranslation": "Il neige parfois en hiver à Shanghai."
+  },
+  {
+    "character": "太阳",
+    "pinyin": "tàiyáng",
+    "meaning": "Soleil",
+    "hskLevel": 2,
+    "category": "Météo & Saisons",
+    "exampleSentence": "清晨太阳升起来了。",
+    "examplePinyin": "Qīngchén tàiyáng shēng qǐlái le.",
+    "exampleTranslation": "Le soleil s'est levé au petit matin."
+  },
+  {
+    "character": "月亮",
+    "pinyin": "yuèliang",
+    "meaning": "Lune",
+    "hskLevel": 2,
+    "category": "Météo & Saisons",
+    "exampleSentence": "中秋节的月亮特别圆。",
+    "examplePinyin": "Zhōngqiūjié de yuèliang tèbié yuán.",
+    "exampleTranslation": "La lune est particulièrement ronde pour la fête de la Mi-Automne."
+  },
+  {
+    "character": "裙子",
+    "pinyin": "qúnzi",
+    "meaning": "Jupe, robe",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "夏天女生喜欢穿飘逸的裙子。",
+    "examplePinyin": "Xiàtiān nǚshēng xǐhuan chuān piāoyì de qúnzi.",
+    "exampleTranslation": "Les filles aiment porter des robes légères en été."
+  },
+  {
+    "character": "外套",
+    "pinyin": "wàitào",
+    "meaning": "Veste, manteau",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "起风了，快把外套穿上。",
+    "examplePinyin": "Qǐfēng le, kuài bǎ wàitào chuān shàng.",
+    "exampleTranslation": "Le vent se lève, mets vite ta veste."
+  },
+  {
+    "character": "鞋子",
+    "pinyin": "xiézi",
+    "meaning": "Chaussures",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "这双运动鞋子穿着非常舒适。",
+    "examplePinyin": "Zhè shuāng yùndòng xiézi chuān zhe fēicháng shūshì.",
+    "exampleTranslation": "Cette paire de chaussures de sport est très confortable."
+  },
+  {
+    "character": "袜子",
+    "pinyin": "wàzi",
+    "meaning": "Chaussettes",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "买了几双棉质的短袜子。",
+    "examplePinyin": "Mǎi le jǐ shuāng miánzhì de duǎn wàzi.",
+    "exampleTranslation": "J'ai acheté quelques paires de chaussettes courtes en coton."
+  },
+  {
+    "character": "帽子",
+    "pinyin": "màozi",
+    "meaning": "Chapeau, casquette",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "夏天戴遮阳帽子防晒。",
+    "examplePinyin": "Xiàtiān dài zhēyáng màozi fángshài.",
+    "exampleTranslation": "Porter un chapeau de soleil en été pour se protéger du soleil."
+  },
+  {
+    "character": "眼镜",
+    "pinyin": "yǎnjìng",
+    "meaning": "Lunettes",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "看电脑时间长要戴抗蓝光眼镜。",
+    "examplePinyin": "Kàn diànnǎo shíjiān cháng yào dài kàng lánguāng yǎnjìng.",
+    "exampleTranslation": "Porter des lunettes anti-lumière bleue après un long moment devant l'ordinateur."
+  },
+  {
+    "character": "手表",
+    "pinyin": "shǒubiǎo",
+    "meaning": "Montre",
+    "hskLevel": 2,
+    "category": "Vêtements",
+    "exampleSentence": "戴着看时间的精致手表。",
+    "examplePinyin": "Dài zhe kàn shíjiān de jīngzhì shǒubiǎo.",
+    "exampleTranslation": "Porter une jolie montre pour regarder l'heure."
+  },
+  {
+    "character": "半夜",
+    "pinyin": "bànyè",
+    "meaning": "Milieu de la nuit, minuit",
+    "hskLevel": 2,
+    "category": "Heure & Moments",
+    "exampleSentence": "半夜路上车辆非常少。",
+    "examplePinyin": "Bànyè lùshàng chēliàng fēicháng shǎo.",
+    "exampleTranslation": "Il y a très peu de véhicules sur la route au milieu de la nuit."
+  },
+  {
+    "character": "刻",
+    "pinyin": "kè",
+    "meaning": "Quart d'heure",
+    "hskLevel": 2,
+    "category": "Heure & Moments",
+    "exampleSentence": "三点一刻在会议室集合。",
+    "examplePinyin": "Sān diǎn yí kè zài huìyìshì jíhé.",
+    "exampleTranslation": "Se rassembler en salle de réunion à 15h15."
+  },
+  {
+    "character": "准时",
+    "pinyin": "zhǔnshí",
+    "meaning": "À l'heure, ponctuel",
+    "hskLevel": 2,
+    "category": "Heure & Moments",
+    "exampleSentence": "请大家准时出席会议。",
+    "examplePinyin": "Qǐng dàjiā zhǔnshí chūxí huìyì.",
+    "exampleTranslation": "Veuillez assister à la réunion à l'heure s'il vous plaît."
+  },
+  {
+    "character": "按时",
+    "pinyin": "ànshí",
+    "meaning": "Dans les temps, ponctuellement",
+    "hskLevel": 2,
+    "category": "Heure & Moments",
+    "exampleSentence": "按时交完成项目进度报告。",
+    "examplePinyin": "Ànshí jiāo wánchéng xiàngmù jìdù bàogào.",
+    "exampleTranslation": "Rendre le rapport d'avancement du projet dans les temps."
+  }
+]
